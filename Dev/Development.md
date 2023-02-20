@@ -2,19 +2,19 @@
 
 ## Pre-Release ```[██████%%%%%%%%%%%%%%] 30% complete``` 
 
-### ~~Write Core Rules: GM Note
-introduce the game to GMs, inform them of the goal and vision for this system as
+### ~~Write Core Rules: GM Note~~
+~~introduce the game to GMs, inform them of the goal and vision for this system as
 a slightly grimdark high fantasy roleplaying system intending to allow players
 to become strong and have a hero's journey without becoming a demigod at the end~~
 
-### ~~Write Core Rules: Introduction & basics
-Introduce players and GMs to basic systems of the game (3 actions in a turn, 
+### ~~Write Core Rules: Introduction & basics~~
+~~Introduce players and GMs to basic systems of the game (3 actions in a turn, 
 how attacks are made, how spells are cast, what each stat is for/does, what
 size modifiers do, how to apply damage, when to die, when to stagger, and when
 to stun, etc.~~
 
-### ~~Write Core Rules: Player Character Rules
-Introduce Players to how to make a character, rolling stats, bodytypes,
+### ~~Write Core Rules: Player Character Rules~~
+~~Introduce Players to how to make a character, rolling stats, bodytypes,
 cultures, backgrounds. Why the game lacks race, what a class is, proficiency
 and proficiency bonus, etc.~~
 

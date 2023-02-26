@@ -401,8 +401,8 @@ temporary hitpoints, subtract the damage from your temporary hitpoints with the
 remaining damage effecting your regular hitpoints.
 
 ### Damage Resistance
-Certain features and armors may grant a damage resistance number or a damage 
-type resistance. For resistance numbers simply subtract the resistance amount
+Certain features and armors may grant a damage resistance score or a damage 
+type resistance. For resistance scores simply subtract the resistance amount
 from physical damage sustained. For damage type resistances simply half the
 amount of damage dealt by that damage type.
 

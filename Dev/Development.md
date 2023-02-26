@@ -1,6 +1,6 @@
 # Active Development
 
-## Pre-Release ```[██████%%%%%%%%%%%%%%] 30% complete``` 
+## Pre-Release ```[████████%%%%%%%%%%%%] 40% complete``` 
 
 ### ~~Write Core Rules: GM Note~~
 ~~introduce the game to GMs, inform them of the goal and vision for this system as
@@ -18,9 +18,9 @@ to stun, etc.~~
 cultures, backgrounds. Why the game lacks race, what a class is, proficiency
 and proficiency bonus, etc.~~
 
-### Write Core Rules: Item Compendium
-Write items in separated lists for weapons, trinkets, tools, resources, etc. 
-with clearly listed weight, gold price, and rarity.
+### ~~Write Core Rules: Item Compendium~~
+~~Write items in separated lists for weapons, trinkets, tools, resources, etc. 
+with clearly listed weight, gold price, and rarity.~~
 
 ### Write Spell Compendium: 1st level Spells
 Write Spells to be used with 1st level spell slots

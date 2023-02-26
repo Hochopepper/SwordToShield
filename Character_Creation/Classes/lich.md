@@ -18,8 +18,8 @@ existance beyond any reasonable norm at great cost.
 ## Starting Hitpoints
 You start with 4+CON Hitpoints.
 
-## Stamina Die size
-Your stamina die is a d4
+## Hit Die size
+Your hit die is a d4
 
 ## Proficiencies
 ```
@@ -55,7 +55,7 @@ Choose two from the following:
 ```
 LVL = level
 XP = total experience points needed for level
-SD = Stamina Dice
+SD = Hit Dice
 Prof = proficiency bonus
 MS = The maximum amount of souls you may have contained in your phylactery
 
@@ -140,7 +140,7 @@ Your maximum hit points increase by 1d4+CON.
 ### Undead Domination
 Your flavor of undeath exerts an influence on the minds of lesser undead. When
 you encounter an undead creature that does not posess sapience, you may expend a
-stamina die as an action on your turn to force them to make a constitution 
+hit die as an action on your turn to force them to make a constitution 
 saving throw against your spellcasting DC; falling under your control for a 
 number of minutes equal to your roll on a failure.
 

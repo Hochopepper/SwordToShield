@@ -20,8 +20,8 @@ for hp calculation has already been done for you.
 ## Starting Hitpoints
 You start with 20+CON Hitpoints
 
-## Stamina Die size
-The collossus's stamina die is a d10.
+## Hit Die size
+The collossus's hit die is a d10.
 
 ## Proficiencies
 ```
@@ -56,7 +56,7 @@ Choose two from the following:
 ```
 LVL = level
 XP = total experience points needed for level
-SD = Stamina Dice
+SD = Hit Dice
 Prof = proficiency bonus
 COMU = Colossal Mutations
 +-----+-------+----+-----+-------+-------------------------------+
@@ -86,7 +86,7 @@ You gain a +5 to intimidation checks and have advantage on these checks against
 medium or smaller creatures
 
 ### Phisique: Frightening Presence
-You may expend a stamina die to force a creature at least two sizes smaller than
+You may expend a hit die to force a creature at least two sizes smaller than
 you that sees you to make a DC 16 wisdom saving throw or be frightened of you 
 for 10 minutes
 
@@ -94,7 +94,7 @@ for 10 minutes
 You deal double damage to structures, objects, and constructs.
 
 ### Phisique: Ramming Speed
-You may expend a stamina die and run 40 feet in a straight line towards a wall,
+You may expend a hit die and run 40 feet in a straight line towards a wall,
 instantly ramming a hole the size of your body through it (This ability can 
 pierce 40 feet of wood, 20 feet of stone, 10 feet of steel, 5 feet of lead, 
 and 1 foot of magical metal like adamantium or mithril)
@@ -108,7 +108,7 @@ You gain a swimming speed of 25 feet, you are buoyant enough to float in water,
 and can hold your breath for 1 hour
 
 ### Phisique: Agile Giant
-You gain an additional 20 feet of movement speed and may expend a stamina die to
+You gain an additional 20 feet of movement speed and may expend a hit die to
 dash as a bonus action on your turn.
 
 ### Colossal Mutations
@@ -142,13 +142,13 @@ You gain a mutation signifying the peak of your raw strength, choose one
 mutation from the following:
 
 ##### Genetic Reshuffle 
-As an action you may expend a number of your stamina dice and change an amount
-of mutations currently affecting your body equal to the amount of stamina dice
+As an action you may expend a number of your hit dice and change an amount
+of mutations currently affecting your body equal to the amount of hit dice
 you expended. This change takes 10 minutes and during that time you are
 incapacitated as your body shifts and grows its new mutations. You may exchange
 this mutation for another epic mutation but the change is irreversible and takes
 1 hour during which you are incapacitated as your body shifts and grows its new
-epic mutation, This exchange consumes 10 stamina dice.
+epic mutation, This exchange consumes 10 hit dice.
 
 ##### Gargantuan Growth 
 - Your body grows to become gargantuan size. 
@@ -166,7 +166,7 @@ You may select 2 additional colossal mutations.
 
 ### Throwing Arms.
 Your arms become approximately the length of your legs, allowing you to expend
-a stamina die and sling a piece of debris at a target within 120 feet of you.
+a hit die and sling a piece of debris at a target within 120 feet of you.
 Make a thrown weapon attack against a target, the target takes 3d8 bludgeoning
 damage if your attack hits. Regardless of if the attack hits or not, every
 creature within 5 feet of the target, including the target, must succeed a DC 14
@@ -181,7 +181,7 @@ from non-magical weapons.
 ### Fire Bladder.
 You grow a gland in your throat that holds chemicals which, when combined, can
 release blasts of corrosive liquid or roaring flame. As an action you may expend
-two stamina dice to expell a 100 foot line or a 30 foot cone of roaring flames
+two hit dice to expell a 100 foot line or a 30 foot cone of roaring flames
 or corrosive acid forcing everyone in the area to make a DC 14 dexterity saving
 throw or take 4d8 fire or acid damage, taking half as much on a success.
 
@@ -231,9 +231,9 @@ new appendages.
 ### Reactive Immunity.
 Rather than growing a physiologically obvious mutation your body becomes
 prepared to rapidly form a wide array of them. As a reaction to having a status
-effect applied to yourself you may expend and roll a stamina die as your body
+effect applied to yourself you may expend and roll a hit die as your body
 makes a reactive mutation to negate the status effect. You become immune to the
-triggering status effect for a number of hours equal to the roll of your stamina
+triggering status effect for a number of hours equal to the roll of your hit
 die, you may not take this reaction again until the full time has elapsed. Some
 examples of reactive mutations would be growing extra sets of eyes to negate
 blindness, the instant formation of an additional filtration organ in your
@@ -242,20 +242,20 @@ mass in your legs to negate the prone condition. This reactive mutation may have
 unforseen benefits or drawbacks as decided by your GM.
 
 ### Limited Wings. (Level 9 Required)
-Wing-like appendages grow from your back, you may expend a stamina die to gain a
+Wing-like appendages grow from your back, you may expend a hit die to gain a
 flying speed of 60 feet for 6 seconds as you expend a large amount of energy to
 lift your body. As a reaction to falling you may use this ability to reduce 
 your speed and slow your descent for a safe landing.
 
 ### Rampage. (level 9 Required)
 The part of your brain responsible for anger expands, heightening your anger
-response. As a bonus action, you may expend five stamina dice to enter a 
+response. As a bonus action, you may expend five hit dice to enter a 
 trance-like rampage state for the next hour. While in this ramage state you gain 
 the following benefits and penalties:
 
 - You regain 1d10 hitpoints for every 100 pounds of consumable material you
 ingest
-- Your mutations require no stamina dice to activate
+- Your mutations require no hit dice to activate
 - You gain advantage on Strength and Constitution saving throws
 - Your attacks deal highest possible damage regardless of your rolls
 - You are unable to concentrate on anything other than destruction, making you
@@ -271,7 +271,7 @@ modifier is too low to beat this DC you instead pass on a natural roll of 20.
 
 ### Titan's Roar. (Level 9 Required)
 Your throat canal forms funnel shaped, allowing you to expel a roar of great 
-magnitude as if through a megaphone. As an action you may expend 3 stamina dice 
+magnitude as if through a megaphone. As an action you may expend 3 hit dice 
 and roll them. Up to 4 creatures of your choice which can hear the roar gain the
 following benefits:
 
@@ -291,8 +291,8 @@ reaction every turn rather than once between your turns.
 ### Quickened Immune System. (Level 9 Required)
 Your body heat increases significantly as your immune system speeds up and your
 body's natural regenerative ability is enhanced. When taking a rest you regain
-all your hitpoints without expending any stamina dice, provided you have 
+all your hitpoints without expending any hit dice, provided you have 
 consumed  300 or more pounds of food in the past 12 hours. In battle you may 
-expend and  roll a stamina dice to force a quickened regeneration process, 
+expend and  roll a hit dice to force a quickened regeneration process, 
 healing you for 5 plus the ammount rolled. You also become immune to the 
-diseased status effect and lose stamina dice to cold at one third the rate.
+diseased status effect and lose hit dice to cold at one third the rate.

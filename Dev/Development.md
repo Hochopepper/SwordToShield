@@ -1,6 +1,6 @@
 # Active Development
 
-## Pre-Release ```[████████%%%%%%%%%%%%] 40% complete``` 
+## Pre-Release ```[██████████□□□□□□□□□□] 50% complete``` 
 
 ### ~~Write Core Rules: GM Note~~
 ~~introduce the game to GMs, inform them of the goal and vision for this system as
@@ -22,6 +22,9 @@ and proficiency bonus, etc.~~
 ~~Write items in separated lists for weapons, trinkets, tools, resources, etc. 
 with clearly listed weight, gold price, and rarity.~~
 
+### ~~Write Spell Compendium: Cantrips~~
+~~Write cantrips~~
+
 ### Write Spell Compendium: 1st level Spells
 Write Spells to be used with 1st level spell slots
 
@@ -36,9 +39,6 @@ Write Spells to be used with 4th level spell slots
 
 ### Write Spell Compendium: 5th level Spells
 Write Spells to be used with 5th level spell slots
-
-### Write Spell Compendium: 6th level Spells
-Write Spells to be used with 6th level spell slots
 
 
 # Development Backlog

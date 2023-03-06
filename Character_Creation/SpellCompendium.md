@@ -15,6 +15,7 @@
 Spellcasting can be granted to a character by a wide variety of things like
 feats, boons, class features, and much more. Spells generally follow this
 template:
+
 ```
 
 Spell Name (Spell Level)
@@ -795,6 +796,24 @@ and you take no damage from magic missile.
 
 ```
 
+Magic Missile (1st) (3)
+
+Range: 120 feet
+Components: S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You conjure 3 bolts of magical energy and hurl them at up to 3 targets of your
+choice. When the missiles hit a target the target takes 1d4+1 force damage. Only
+a shield spell can deflect this damage.
+
+For each level of spell slot above first that you cast this spell with, an 
+additional missile is formed. 
+
+```
+
+```
+
 Faith's Shield (1st) (4)
 
 Range: touch
@@ -1377,7 +1396,7 @@ spell as a bonus action.
 Identify (1st) (ritual) (39)
 
 Range: touch
-Components: V/S/M (an item worth 100gp)
+Components: V/S/M (an item worth 25gp)
 Duration: instantaneous
 Casting Time: 1 minute
 Description:
@@ -1573,3 +1592,701 @@ ends early if you do anything other than moving or speaking on your turn.
 
 ```
 
+# 2nd Level Spells
+
+```
+
+Envitalize (2nd) (1)
+
+Range: 30 feet
+Components: V
+Duration: 8 hours
+Casting Time: 1 action
+Description:
+You empower the natural vitility of one creature within range by bolstering them
+with life energy. The target's current and maximum hitpoints increase by 10 for
+the duration.
+
+```
+
+```
+
+Alter Self (2nd) (2)
+
+Range: self
+Components: V/S 
+Duration: concentration up to 1 hour
+Casting Time: 1 action
+Description:
+You alter your appearance in a similar fashion to the disguise self spell. Your
+new appearance cannot be discerned to be false even under intense scrutiny. You
+may also alter your physical properties to give you the ability to breathe under
+water, gain a swim speed equal to your movement speed, and grant yourself 
+natural weapons that deal 1d6 slashing damage.
+
+```
+
+```
+
+Arcane Lock (2nd) (3)
+
+Range: touch
+Components: V/S/M (an item worth at least 10 gp)
+Duration: until removed
+Casting Time: 1 action
+Description:
+You touch one closed entryway or container and place a magical lock on it until
+this spell is dispelled. You and any creatures you designate during casting are
+able to open the object as normal and you may designate a password that unlocks
+the object for 1 minute. The knock spell unlocks this object for 10 minutes. 
+This lock also adds a +10 DC to any checks to break or lockpick the object.
+
+```
+
+```
+
+Omen (2nd) (ritual) (4)
+
+Range: self
+Components: V/S/M (a cup of tea, a handful of sticks or bones, a deck of cards, or a die) 
+Duration: instantaneous
+Casting Time: 10 minutes
+Description:
+Using the item of your choice while speaking a plan aloud you make a prediction
+for the most probable outcome of the plan. Your GM determines how it is conveyed
+to you but the outcome indicated is either good, bad, good and bad, or neither. 
+
+```
+
+```
+
+Morph Shell (2nd) (5) 
+
+Range: touch
+Components: V/S
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You touch one creature, this creature grows some kind of physical adaptation
+that grants them a higher AC. The target's AC cannot be made lower than 16 for 
+the duration of the spell. If the target already has a natural shell they gain
++1 to their AC.
+
+```
+
+```
+
+Blindness and Deafness (2nd) (6)
+
+Range: 30 feet
+Components: V
+Duration: 1 minute
+Casting Time: 1 action
+Description:
+You attempt to blind or deafen (your choice) one creature within range. The
+target mut make a constitution saving throw or become blind or deaf. The target
+may repeat this saving throw at the end of each of its turns.
+
+```
+
+```
+
+Obscure (2nd) (7)
+
+Range: touch
+Components: S
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You touch one creature and slightly obscure them from view using illusory magic.
+For the duration of this spell attacks made against the target have 
+disadvantage. This spell has no effect on attackers that do not rely on normal
+sight.
+
+```
+
+```
+
+Calm (2nd) (8)
+
+Range: 60 feet
+Components: V 
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+Attempt to calm one creature within range. The target must make a wisdom saving
+throw or return to a neutral emotional state. This effect breaks Shifters out
+of an unwanted shift and causes hostile creatures to be unwilling to attack
+for 1 minute or until provoked. You may use this time to convince them not to
+attack or to compromise as they will return to their normal state of mind after
+1 minute if they are not convinced otherwise.
+
+```
+
+```
+
+Cloud of Daggers (2nd) (9)
+
+Range: 60 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You form a cube of floating daggers 5 feet on each side at a point within 
+range. A creature who starts their turn in the area or enters the area for the
+first time on their turn takes 4d4 piercing damage.
+
+```
+
+```
+
+Eternal Flame (2nd) (10)
+
+Range: touch
+Components: V/S/M (an item worth at least 20 GP)
+Duration: until dispelled
+Casting Time: 1 action
+Description:
+You touch an object and light it on fire. This fire sheds bright light for 20
+feet and dim light for 20 more feet. The fire does not go out unless it is 
+dispelled. The fire does not burn and does not consume any fuel.
+
+```
+
+```
+
+Crown of Madness (2nd) (11)
+
+Range: 120 feet
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You attempt to possess one human of your choice within range. The target must
+make a wisdom saving throw or become charmed by you, allowing you limited 
+control over their actions on their turn for the duration of this spell. There
+is some obvious indication that the target has been possessed.
+
+The target must use its turn to attempt to attack one creature of your choice 
+other than itself. If no creatures are within range it instead acts normally. On
+your subsequent turns you must use an action to maintain concentration on this 
+spell. The target may repeat the saving throw at the end of each of its turns 
+after the first.
+     
+
+```
+
+```
+
+Darkness (2nd) (12)
+
+Range: 60 feet
+Components: V/S
+Duration: Concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+Magical darkness fills a 15 foot radius sphere originating from a point of your
+choice within range. Creatures with darkvision cannot see through this darkness
+and no non-magical light can illuminate it. 
+
+```
+
+```
+
+Darkvision (2nd) (13)
+
+Range: 10 feet
+Components: V/S
+Duration: 8 hours
+Casting Time: 1 action
+Description:
+Select up to 3 creatures within range. For the duration of this spell the 
+targets and you gain darkvision out to 60 feet. 
+
+```
+
+```
+
+Read Mind (2nd) (14)
+
+Range: self/30 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+For the duration of the spell you can detect and read the thoughts of creatures
+within 30 feet of you. The extent to which you can read minds is surface level,
+bur reactive answers and thought processes are avaliable to you, making this
+spell particularly effective for interrogation. If you wish to push deeper into
+the psyche of a creature then you must make a contested will roll against them.
+On a success you are able to extract one memory provided by your GM. 
+
+```
+
+```
+
+Enhance Ability (2nd) (15)
+
+Range: touch
+Components: S
+Duration: concentration up to 1 hour
+Casting Time: 1 action
+Description:
+You touch a creature and grant them a magical enchantement from the following:
+
+STRENGTH: The target gains Advantage on strength checks and their carrying 
+capacity is doubled
+ENDURANCE: The target gains advantage on Constitution checks. They also gain 
+2d6 temporary hit points, which are lost when the spell ends.
+GRACE: The target gains advantage on Dexterity checks. They also don't take 
+damage from falling 20 feet or less if they aren't incapacitated.
+SPLENDOR: The target gains advantage on Charisma checks.
+CUNNING: The target gains advantage on Intelligence checks.
+WISDOM: The target gains advantage on Wisdom checks.
+
+```
+
+```
+
+Enlarge or Shrink (2nd) (16)
+
+Range: 60 feet
+Components: V
+Duration: 1 minute
+Casting Time: 1 action
+Description:
+You instantly enlarge or shrink one creature or object within range. The target
+grows one size larger and deals an additional 1d4 damage on melee attacks or
+shrinks one size and deals 1d4 damage less on melee attacks (minimum 0). 
+Enlarged creatures gain advantage on strength and con saving throws and checks
+and shrunken creatures gain the opposite. If targeting an unwilling creature
+the target must make a constitution saving throw or be affected. Any equipment
+worn or carried changes size aswell.
+
+```
+
+```
+
+Enthrall (2nd) (17)
+
+Range: 60 feet
+Components: V/S
+Duration: 1 minute
+Casting Time: 1 action
+Description:
+You speak in confusing tongues at one creature within range. The target must
+make a wisdom saving throw or become enthralled with you, incapable of 
+percieving any creature but you until the spell ends. The spell ends if you
+are incapacitated or stop speaking for any reason.
+
+```
+
+```
+
+Flame Blade (2nd) (18)
+
+Range: Self
+Components: V 
+Duration: Concentration up to 10 minutes
+Casting Time: 1 bonus action
+Description:
+You conjure a blade of pure scolding flame in a free hand. You may use your 
+action to attack with the blade, making a melee spell attack and dealing 3d6
+fire damage on a hit. The flame sheds 20 feet of bright light and 10 more feet
+of dim light. You may make the blade return to your hand as a bonus action for 
+the duration of this spell.
+
+```
+
+```
+
+Repose (2nd) (Ritual) (19)
+
+Range: touch
+Components: V/M (2 silver coins)
+Duration: 1 month
+Casting Time: 1 action
+Description:
+You touch one corpse and place 2 silver coins over its eyes. For the duration
+of this spell the corpse is proofed against decay and cannot be raised as 
+undead. Days spent under the effects of this spell do not count against spells 
+with time limits such as ressurection
+
+```
+
+```
+
+Wind (2nd) (20)
+
+Range: self/60 feet
+Components: V
+Duration: Concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You speak a word of elemental air and a gust of wind 60 feet long and 10 feet
+wide bursts out originating from you in a direction of your choice for the
+spells duration. Each creature that starts its turn who enters the area of the 
+winds or starts their turn there must make a strength saving throw or be thrown 
+20 feet back by the winds. The area affected by wind is considered difficult
+terrain. As a bonus action for the duration you may change the direction the
+wind blows from you.
+
+```
+
+```
+
+Heat Metal (2nd) (21)
+
+Range: 30 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You magically heat a metal object. Any creature in contact with the target while
+during the casting of this spell takes 2d8 fire damage and for the duration of
+the spell, any creature that starts their turn in contact with the target takes 
+1d6 fire damage. 
+
+```
+
+```
+
+Hold Person (2nd) (22)
+
+Range: 60 feet
+Components: V/S
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You attempt to magically bind one human within range. The target must make
+a wisdom saving throw or be paralyzed for the duration. This spell ends if the
+saving throw may be repeated at the end of each of the target's turns.
+
+```
+
+```
+
+Lesser Invisibility (2nd) (23)
+
+Range: touch
+Components: V/S
+Duration: concentration up to 1 hour
+Casting Time: 1 action
+Description:
+You touch one creature and they along with anything they are wearing or carrying
+become invisible for the duration of the spell. This spell ends if the target
+casts a spell or makes an attack.
+
+```
+
+```
+
+Knock (2nd) (24)
+
+Range: touch
+Components: S/M (a key)
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You knock on a lock, container, item, or door and it instantly unlocks. Casting
+this spell causes a loud thunderous knock to ring out that is audible up to 500
+feet away.
+
+```
+
+```
+
+Lesser Restoration (Ritual) (2nd) (25)
+
+Range: touch
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You touch one creature and instantly heal them of one superficial effect such
+as blinded, deafened, paralyzed or poisoned.
+
+```
+
+```
+
+Float (2nd) (26)
+
+Range: 60 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+One creature within range instantly loses all gravity and begins floating at a
+rate of 20 feet per turn. When this spell ends the target harmlessly floats to 
+the ground. An unwilling creature may make a constitution saving throw to resist
+the effects of the spell.
+
+```
+
+```
+
+Locate Animal or Plant (2nd) (Ritual) (27)
+
+Range: self/1 mile
+Components: V
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You speak the name of one animal or plant aloud. For the duration of this spell
+you innately know the location of all instances of that plant or animal within a
+1 mile radius of you.
+
+```
+
+```
+
+Magic Weapon (2nd) (Ritual) (28)
+
+Range: touch
+Components: V/S
+Duration: 8 hours
+Casting Time: 1 bonus action
+Description:
+You touch one mundane weapon and for the duration of the spell this weapon 
+becomes a +1 weapon
+
+```
+
+```
+
+Acid Arrow (2nd) (29)
+
+Range: 60 feet
+Components: S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You throw an acid arrow at one creature within range. Make a ranged spell attack
+on a hit the target takes 6d4 acid damage, on a miss the target takes 2d4 acid
+damage.
+
+```
+
+```
+
+Mirror Image (2nd) (30)
+
+Range: Self
+Components: V 
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You conjure illusory doubles of yourself to confuse and disorient enemies in 
+battle. When an enemy targets you with an attack and hits roll a 1d20, on a
+10 or lower the attacker hits one of your illusions and destroys it. You start
+with three duplicates, if all three are destroyed the spell ends. This spell
+has no effect on creatures that are unaffected by illusions
+
+```
+
+```
+
+Misty Step (2nd) (31)
+
+Range: self/30 feet
+Components: V
+Duration: instantaneous
+Casting Time: 1 bonus action
+Description:
+You instantly teleport to a point of your choice within 30 feet.
+
+```	
+
+```
+
+Healing Prayer (2nd) (32)
+
+Range: self/10 feet
+Components: V/S
+Duration: instantaneous
+Casting Time: 10 minutes
+Description:
+You pray for 10 minutes and all creatures within 10 feet of you for the duration
+of the prayer regain 2d8 + your spellcasting modifier hitpoints.
+
+```
+
+```
+
+Ray of Enfeeblement (2nd) (33)
+
+Range: 60 feet
+Components: V/S
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+A sickly pale ray lashes out at one creature of your choice within range. The
+target must make a constitution saving throw or suffer disadvantage on strength
+based attacks, checks, and saving throws and have the damage of strength based
+attacks reduced to half of the damage rolled for the duration. The target may 
+repeat this saving throw at the end of each of its turns.
+
+```
+
+```
+
+Scorching Ray (2nd) (34)
+
+Range: 120 feet
+Components: S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You conjure three rays of scorching heat and toss them at up to 3 creatures
+within range. Make a ranged spell attack for each ray, on a hit the target takes 
+2d6 fire damage.
+
+```
+
+```
+
+Lesser Truesight (2nd) (35)
+
+Range: self
+Components: V 
+Duration: 8 hours
+Casting Time: 1 action
+Description:
+For the duration of this spell you are capable of seeing invisible and otherwise
+magically obscured creatures occupying the space around you.
+
+```
+
+```
+
+Shatter (2nd) (36)
+
+Range: 60 feet
+Components: V
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You shout a thunderous power word and and a cube 15 feet on each side centered
+on a point within range fills with shattering sound. Every creature in the area
+must make a constitution saving throw or take 3d8 thunder damage, taking half
+as much on a success. Inorganic creatures take double damage from this spell.  
+
+```
+
+```
+
+Silence (2nd) (37)
+
+Range: 60 feet
+Components: V
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You wash deafening silence over an area within range. An invisible 15 foot 
+radius sphere centered on a point within range forms, noise is incapable of 
+forming or entering the area. Thunder damage is ineffective in the area and 
+spells requiring vocal components fail. All creatures inside the area are 
+deafened.
+
+```
+
+```
+
+Spider Climb (2nd) (38)
+
+Range: Touch
+Components: V/S
+Duration: concentration up to 1 hour
+Casting Time: 1 action
+Description:
+You touch one creature, granting them a climbing speed equal to their walking
+speed for the duration of the spell. The target only requires one point of
+contact at a time to use this speed as their body magically sticks to a surface
+when they wish for it to.
+
+```
+
+```
+
+Spiritual Weapon (2nd) (39)
+
+Range: 60 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You summon a magical weapon with an appearance of your choice at a point within
+range. You may move the weapon to another point within range once on each
+of your turns for the duration and you are capable of commanding the weapon
+to attack one creature within 10 feet of it as a bonus action. When the weapon
+makes an attack at a creature make a melee spell attack, on a hit the target
+takes 1d8 + your casting modifier force damage.
+
+```
+
+```
+
+Suggestion (2nd) (40)
+
+Range: 30 feet
+Components: V
+Duration: concentration up to 8 hours
+Casting Time: 1 action
+Description:
+You make a suggestion laced with magical influence to one creature within range.
+The target must make a wisdom saving throw, attempting to complete the
+suggestion you gave them to the best of their ability for the duration of the
+spell. The target will not perform any obviously dangerous suggestions. The
+spell ends when the time is up, if the target completes their task, or if the
+target is damaged by you or an ally.
+
+```
+
+```
+
+Bond (2nd) (41)
+
+Range: touch
+Components: V/S/M (Silver rings worn by both you and the target)
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You speak words of magical bonding over the rings as you place them on the
+target creature and yourself. You and the target creature gain resistance to
+all damage and +1 AC. When you take damage the target takes an equal amount of
+damage, the reverse is also true. The spell ends if you dismiss it as an action
+or if you or the target drop to 0 hitpoints.
+
+```
+
+```
+
+Zone of Truth (2nd) (42)
+
+Range: 60 feet
+Components: V
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You create a zone of magical influence that encourages the truth to reveal
+itself. Creatures that enter a 15 foot radius sphere centered on a point within
+range must make a charisma saving throw or be force to only tell the truth.
+You can tell if a creature failed, passed, or did not contest this save. 
+Affected creatures are aware of the spell and can avoid straight answers but are
+incapable of altering the truth.
+
+```
+
+```
+Wither (2nd) (43)
+Distance: self
+Duration: Instantaneous
+Casting Time: 1 Action
+Description:
+a 10 foot radius sphere originating from you drains all the energy from the life
+in your immediate vicinity, returning it to you as temporary vitality. All 
+creatures within the effected area are forced to make a CON save to halve 2d6 
+necrotic damage. you regain half the total damage dealt to all creatures as 
+temporary hitpoints.
+```

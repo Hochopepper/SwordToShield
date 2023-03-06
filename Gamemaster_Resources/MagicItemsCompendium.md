@@ -74,7 +74,6 @@ Magic items typically follow this format:
 
 Item Name
 Rarity:
-Cost:
 Attunement: (y/n)
 Description:
 
@@ -87,7 +86,6 @@ Description:
 
 Cleaning stick
 Rarity: Common
-Cost: 10 GP
 Attunement: N
 Description:
 As an action you may press this stick to an object and have it instantly wash
@@ -99,10 +97,93 @@ away any ordinary dirt or grime that may be on the surface.
 
 Antigravity Pick
 Rarity: Common
-Cost: 20 GP
 Attunement: N
 Description:
 Any rocks broken by this physically standard pickaxe float weightlessly
+
+```
+
+```
+
+Spideaxe
+Rarity: Common
+Attunement: N
+Description:
+This pickaxe has a large spider's leg rather than a metal head. There is a 
+button located on the shaft of the spideaxe. As a bonus action you may press the
+button and make the spideaxe stick or release from a flat surface. While 
+sticking this axe is capable of holding up to 1000 lbs.
+
+```
+
+```
+
+Green Manastone
+Rarity: Common
+Attunement: N
+Description:
+This magical stone formed from condensed healing energy can be found in caves
+and dungeons growing in small clusters. When crushed a green beam shoots from
+the stone into the creature who crushed it healing them for 1 hitpoint.
+
+```
+
+```
+
+Fireshroom
+Rarity: Common
+Attunement: N
+Description:
+This mushroom can commonly be found in lava caves and dungeons built above 
+geothermal avtivity. When consumed by a creature they breathe fire in a 15 foot
+cone in a direction of their choice, dealing 1d6 fire damage to all creatures
+in the area. 
+
+```
+
+```
+
+Self Sweeping Broom
+Rarity: Common
+Attunement: N
+Description:
+This broom is can be activated with a code word ("sweep") to make it 
+automatically sweep an entire room.
+
+```
+
+```
+
+Farseeing Goggles
+Rarity: Common
+Attunement: Y
+Description:
+While attuned to and wearing these googles you are capable of seeing the tip of
+a needle from a mile away and performing similar feats of farsight.
+
+```
+
+```
+
+Shesell Shell
+Rarity: Common
+Attunement: N
+Description:
+If you hold this shell up to your ear while engaging in bartering with a vendor
+it will tell you if the current price is fair or not. Some merchants will react
+negatively to seeing you use this item.
+
+```
+
+```
+
+Blue Manastone
+Rarity: Common
+Attunement: N
+Description:
+This magical stone formed from condensed arcane energy can be found in caves
+and dungeons growing in small clusters. When crushed a single magic missile flys
+from the shattered remains and hits a random creature within 30 feet.
 
 ```
 
@@ -112,7 +193,6 @@ Any rocks broken by this physically standard pickaxe float weightlessly
 
 +1 Equipment
 Rarity: Uncommon
-Cost: Standard price + 200 GP
 Attunement: N
 Description:
 This +1 piece of equipment is functionally identical to it's non-magical
@@ -124,9 +204,65 @@ tool sets!
 
 ```
 
-+2 Equipment
+Frostbite Blade
 Rarity: Uncommon
-Cost: Standard price + 600 GP
+Attunement: Y
+Description:
+This longsword has a jagged shard of ice where the blade should be, and its 
+handle is cold to the touch. Attack rolls made with this weapon have a +1. On
+a hit the target takes an additional 1d6 cold damage as frost splinters across
+their body. Creatures attuned to this item have resistance to fire damage.
+
+```
+
+```
+
+Hearmuffs
+Rarity: Uncommon
+Attunement: Y
+Description:
+While attuned to these earmuffs you gain extraordinary hearing. You are capable
+of discerning the location of any noise within 60 feet of you and are able to
+hear a conversation from up to 500 feet away if you focus. You also gain 
+advantage on hearing based wisdom checks and saves as the hearmuffs block
+out noises that may harm hearing.
+
+```
+
+```
+
+Masking Tape
+Rarity: Uncommon
+Attunement: N
+Description:
+This roll of magical tape has 5 charges. You may expend one charge to cast 
+disguise self on yourself by ripping off a section of tape and placing it on 
+your face. Once this item runs out of charges it becomes a normal roll of tape. 
+
+```
+
+```
+
+Web-n-a-Can
+Rarity: Uncommon
+Attunement: Y
+Description:
+This magical metal container holds magically recharging webs. This item has
+3 charges and regains 1 charge every day at dawn. You may expend an action to
+press down the lid of the container, causing a web to shoot from the can at
+a creature or a point on the ground. If you target a creature they must make a
+DC 18 strength saving throw or be restrained, able to repeat the saving throw at
+the end of their turn. If you target an area then a 20 foot by 20 foot area of 
+your choice within 90 feet becomes difficult terrain and any creature entering
+the space must make a DC 12 strength save or have their movement speed become 0. 
+
+```
+
+# Rare Magic Items
+```
+
++2 Equipment
+Rarity: Rare
 Attunement: N
 Description:
 This +2 piece of equipment is functionally identical to it's non-magical
@@ -138,25 +274,48 @@ tool sets!
 
 ```
 
-Frostbite Blade
-Rarity: Uncommon
-Cost: 400 GP
+Shoes of Speed
+Rarity: Rare
 Attunement: Y
 Description:
-This longsword has a jagged shard of ice where the blade should be, and its 
-handle is cold to the touch. Attack rolls made with this weapon have a +1. On
-a hit the target takes an additional 1d6 cold damage as frost splinters across
-their body. Creatures attuned to this item have resistance to fire damage.
+While attuned to these shoes your movement speed is doubled and you may take the
+dash action as a bonus action on your turn. 
+
 
 ```
 
-# Rare Magic Items
+```
+
+Graceful Wings
+Rarity: Rare
+Attunement: Y
+Description:
+When you attune to these wings by sleeping with your exposed back touching them
+they attach to your skin and give you a flying speed of 60 feet. If you already
+have a flying speed they increase your flying speed by 40 feet. While falling
+you may use your reaction to cast feather fall from the wings, you may only do
+this once a day.
+
+```
+
+```
+
+Magic Mirror
+Rarity: Rare
+Attunement: Y
+Description:
+While attuned to this magic item you may cast scrying through it once a day with
+the target of the spell appearing in the mirror to you and anyone else capable
+of seeing the mirror.
+
+```
+
+# Legendary Magic Items
 
 ```
 
 +3 Equipment
-Rarity: Rare
-Cost: Standard price + 1000 GP
+Rarity: Legendary
 Attunement: N
 Description:
 This +3 piece of equipment is functionally identical to it's non-magical
@@ -166,18 +325,16 @@ tool sets!
 
 ```
 
-# Legendary Magic Items
-
 ```
 
-Beheading Blade
+Dreadite Weapon
 Rarity: Legendary
-Cost: Standard price + 2000 GP
-Attunement: (y/n)
+Attunement: Y
 Description:
-This bladed weapon has been enhanced with magic such that a roll of 18 or higher
-lobs off the head of the target, instantly killing them if they require a head
-to live.
+This weapon is formed from Dreadite, an alloy of Tulunium, Azinite and the 
+coagulated blood of a dreadbeast. This weapon has a +2 to attack rolls and
+always deals maximum damage on a hit. On a natural 20 this weapon deals an 
+additional 10 damage. 
 
 ```
 
@@ -203,7 +360,7 @@ Attunement Time: 1 week (spent conversing for at least 8 hours a day with the he
 Description:
 'Niche's Head' is the head of a white draconic-humanoid who was once a fierce
 warrior named "Niche". The severed head is still alive, despite being detached
-and is capabel of speaking common and draconic. While attuned to this artifact 
+and is capable of speaking common and draconic. While attuned to this artifact 
 you have immunity to cold damage and resistance to fire damage. As an action you 
 may open niche's mouth, from his mouth spouts a 150 foot cone of frost breath, 
 any creature caught within this cone must make a dexterity saving throw or take 
@@ -258,5 +415,20 @@ Malignant Corruptions (Roll 2)
 | ---------- | -------------------------------------------------------------------------- |
 | 6          | You become weak to psychic damage                                          |
 | ---------- | -------------------------------------------------------------------------- |
+
+```
+
+```
+
+Sands of Time
+Attunement Time: 1 week (spent counting grains inside the glass for at least 16 hours a day)
+Description:
+The Sands of Time are contained within an hour glass and are closely gaurded by
+the god of time Chronalia in the heavens. If someone were to manage to steal
+the sands of time, they could turn the hour glass upside down and reverse time 
+around them as far back as they want. While attuned to this item you innately 
+know which way is right side up for the hour glass and you become immortal. As 
+an action you may turn the glass, causing time to reverse around you at the same 
+rate it moves forward  
 
 ```

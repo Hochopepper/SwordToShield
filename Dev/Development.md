@@ -1,6 +1,6 @@
 # Active Development
 
-## Pre-Release ```[████████████□□□□□□□□] 60% complete``` 
+## Pre-Release ```[██████████████□□□□□□] 70% complete``` 
 
 ### ~~Write Core Rules: GM Note~~
 ~~introduce the game to GMs, inform them of the goal and vision for this system as
@@ -28,8 +28,8 @@ with clearly listed weight, gold price, and rarity.~~
 ### ~~Write Spell Compendium: 1st level Spells~~
 ~~Write Spells to be used with 1st level spell slots~~
 
-### Write Spell Compendium: 2nd level Spells
-Write Spells to be used with 2nd level spell slots
+### ~~Write Spell Compendium: 2nd level Spells~~
+~~Write Spells to be used with 2nd level spell slots~~
 
 ### Write Spell Compendium: 3rd level Spells
 Write Spells to be used with 3rd level spell slots

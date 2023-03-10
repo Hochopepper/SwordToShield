@@ -1,6 +1,6 @@
 # Active Development
 
-## Pre-Release ```[██████████████□□□□□□] 70% complete``` 
+## Pre-Release ```[████████████████□□□□] 80% complete``` 
 
 ### ~~Write Core Rules: GM Note~~
 ~~introduce the game to GMs, inform them of the goal and vision for this system as
@@ -31,8 +31,8 @@ with clearly listed weight, gold price, and rarity.~~
 ### ~~Write Spell Compendium: 2nd level Spells~~
 ~~Write Spells to be used with 2nd level spell slots~~
 
-### Write Spell Compendium: 3rd level Spells
-Write Spells to be used with 3rd level spell slots
+### ~~Write Spell Compendium: 3rd level Spells~~
+~~Write Spells to be used with 3rd level spell slots~~
 
 ### Write Spell Compendium: 4th level Spells
 Write Spells to be used with 4th level spell slots
@@ -75,13 +75,10 @@ disease which allows them to take on a partially controllable form with the
 reward being that they are extremely powerful in this form, with their hit dice
 becoming a d8, d10, d12 or even a d20.
 
-### Proofread Class: Lich
-Remove any mention of UW systems and ensure that wording is concise and
-easily understandable
-
-### Proofread Class: Colossus
-Remove any mention of UW systems and ensure that wording is concise and
-easily understandable
+### Write Class: Prophet
+(d6) Complete Prophet, Class that gains visions that allow empowerment of 
+skillchecks and attacks as well as limited spells prepared daily. Casting mod
+of wisdom.
 
 ### Complete Character Creation Document: Body Types
 Create a Standard body type which is capable of being sizes small or medium, 
@@ -92,10 +89,9 @@ Creat Tiny, Large, and Huge body types with quirks relating to particular size
 Create an array of 20+ character backgrounds with 1 or 2 proficiencies and a 
 handful of items.
 
-### Complete Character Creation Document: Cultures
-Create 10 cultures which coexist in a standard setting, AVOID CULTURAL 
-SUPERIORITY. Each culture must have one special thing it brings to the table, no
-one culture should be "better" than another only more specialized.
+### Complete Character Creation Document: Feats
+Create 10 feats each for every category (40 total). Categories include 
+Supernatural, Biological, Social, and Mundane.  
 
 ### Complete Gamemaster Document: Accursed Journal
 

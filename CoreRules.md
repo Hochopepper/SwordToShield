@@ -166,7 +166,13 @@ you may have varying degrees of success depending on how high you roll.
 ## Advantages and disadvantages
 Certain things may grant "advantage" or "disadvantage". A roll made at advantage
 is rolled twice, with the larger roll being the outcome. A roll made at 
-disadvantage is rolled twice, with the smaller roll being the outcome.   
+disadvantage is rolled twice, with the smaller roll being the outcome.
+
+## Critical Failure and Success
+When you make a roll to determine the outcome of an attempted action a natural 
+roll of 20 always succeeds or hits and a natural roll of 1 always fails or
+misses. Your GM may choose for natural failures and successes to have additional
+effects. 
 
 ## Player Characters
 As a real human, you are incapable of jumping through time and space to enter a 
@@ -302,7 +308,7 @@ spell range is expressed as a flat distance.
 Nearly all spells require either Verbal (the ability to spealk) or Somatic 
 (the ability to move your body) components but some higher level spells may 
 require expensive Material components. You cannot cast a spell without the 
-relatant components. 
+relevant components. 
 
 ##### Duration 
 Duration refers to the length of time the spell takes place over. Instantaneous
@@ -406,12 +412,61 @@ type resistance. For resistance scores simply subtract the resistance amount
 from physical damage sustained. For damage type resistances simply half the
 amount of damage dealt by that damage type.
 
-## Stagger
+## Battle injuries 
+
+### Staggered
 Certain weapons and attacks may stagger, when targeted by an attack that
 staggers the target must make a health roll against half the damage sustained or 
 8 + the damage sutained (whichever is higher). On a failed save, they have 
 disadvantage on attack rolls and ability checks, and can't take reactions, until
 the end of your next turn.
+
+### Thrusting
+When you are hit by an attack that deals piercing damage the weapon thrusts 
+deep into any soft tissue it may contact, causing massive organ damage. When 
+not wearing heavy armor a natural roll of 19 or 20 on a weapon that deals 
+piercing damage deals double damage.
+
+### Bleeding Wound
+When you are hit by an attack that deals slashing damage you may sustain 
+extensive damage to surface level soft tissues, leaving a grevious wound if 
+untreated. When hit by a slashing weapon and dealt maximum damage you begin
+to bleed, taking 1d4 damage at the start of each of your turns until you or 
+another creature expend an action to stop the bleeding using a bandage or 
+medical kit. You may also stop the bleeding with a healing spell that rolls a 10 
+or higher for hitpoints regained or a spell such as lesser restoration. This
+damage due to bleeding cannot be reduced in any way. 
+
+### Fractures and Breaks
+When you take an amount of bludgeoning damage in a turn that is greater than or 
+equal to half your hitpoints roll a d4. On a 1 your sustain a Break or Fracture. 
+Refer to the chart to see the severity of the injury based on the amount of 
+damage sustained 
+(note that each level of severity stacks with the previous ones)
+
+```
+|  Damage Sustained  |  Severity Level and Effects.                    |  Recovery        |
+| ------------------ | ----------------------------------------------- | ---------------- |
+|  50%  - 70%        |  1. Fractured limb, -5 feet move speed.         |  5 days          |
+|  71%  - 90%        |  2. Severe Fracture, -10 feet move speed.       |  12 days         |
+|  91%  - 99%        |  3. Broken Limb, Move speed no greater than 5.  |  20 days         |
+|  100% +            |  4. Compound Fracture, Disadvantage on all saves|  35 days         |
+|                    |     move speed may be no greater than 0.        |                  |
+| ------------------ | ----------------------------------------------- |                  |
+```
+After an amount of time equal to the difference in recovery time between each 
+level of severity your wound moves down one level. Meaning that after 15 days a 
+compound fracture would simply be a broken limb and after 8 more days the broken 
+limb would simply be a sever fracture and so on. Rather than wait the recovery 
+time you may quickly heal a fracture or break by regaining an amount of 
+hitpoints, equal to the recovery time in days, over the course of 1 minute. A 
+lesser restoration or similar spell would also heal the wound instantly. 
+
+### Battle Injury Disclaimer
+These injuries apply to all creatures except for Undead, Leviathans, 
+Abominations, Plants and Constructs. They are worded in the second person to 
+make them more easily understandable for players but the effects can be applied 
+to most creatures.
 
 ## Status Effects
 Certain spells, attacks, or features may inflict status effects, their details
@@ -448,7 +503,7 @@ can be found here.
 - A paralyzed creature is incapacitated and can't move or speak.
 - A paralyzed creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature deals double damage if the attacker is within 5 feet of the creature.
 
 ### Petrified
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
@@ -482,7 +537,9 @@ can be found here.
 - The creature drops whatever it's holding and falls prone.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature deals double damage if the attacker is within 5 feet of the creature.
+
+
 
 # Adventuring
 Adventuring is the core of the game! seeing places, meeting interestig people 

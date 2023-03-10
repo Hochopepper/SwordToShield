@@ -463,7 +463,7 @@ Duration: instantaneous
 Casting Time: 1 ation
 Description:
 You conjure forth green beast-like natural weapons and attack one creature 
-within 5 feet of you. Make a melee spell attack, on a hit the target takes
+within your reach. Make a melee spell attack, on a hit the target takes
 1d10 acid damage. After you make the attack the natural weapons dissipate and
 your body returns to normal  
 
@@ -807,8 +807,8 @@ You conjure 3 bolts of magical energy and hurl them at up to 3 targets of your
 choice. When the missiles hit a target the target takes 1d4+1 force damage. Only
 a shield spell can deflect this damage.
 
-For each level of spell slot above first that you cast this spell with, an 
-additional missile is formed. 
+For each level of above first that you cast this spell with, an additional 
+missile is formed. 
 
 ```
 
@@ -1396,7 +1396,7 @@ spell as a bonus action.
 Identify (1st) (ritual) (39)
 
 Range: touch
-Components: V/S/M (an item worth 25gp)
+Components: V/S/M (an item worth 25gp which is consumed)
 Duration: instantaneous
 Casting Time: 1 minute
 Description:
@@ -1539,8 +1539,8 @@ to be put to sleep.
 
 Undead and creatures immune to being charmed aren't affected by this spell.
 
-At Higher Levels. When you cast this spell using a spell slot of a level higher
-than first, roll an additional 2d8 for each slot level above 1st.
+At Higher Levels. When you cast this spell using a level higher than first, 
+roll an additional 2d8 for each slot level above 1st.
 
 ```
 
@@ -1562,13 +1562,13 @@ understand the universal langauge of beasts.
 
 Thunderwave (1st) (49)
 
-Range: self (20 foot sphere)
+Range: self (10 foot sphere)
 Components: V
 Duration: instantaneous
 Casting Time: 1 acion
 Description:
-You shout, releasting primordial thunder. All creatures within a 20 foot sphere
-centered around you must make a constitution saving throw, taking 3d8 thunder
+You shout, releasting primordial thunder. All creatures within a 10 foot radius 
+sphere centered around you must make a constitution saving throw, taking 3d8 thunder
 damage and being pushed 10 feet back on a failure or half as much without moving
 on a success. If a creature is pushed into an object by this spell they take 1d6
 bludgeoning damage for every 5 feet of movement that they were unable to move.
@@ -1631,7 +1631,7 @@ natural weapons that deal 1d6 slashing damage.
 Arcane Lock (2nd) (3)
 
 Range: touch
-Components: V/S/M (an item worth at least 10 gp)
+Components: V/S/M (an item worth at least 10 gp which is consumed)
 Duration: until removed
 Casting Time: 1 action
 Description:
@@ -1743,7 +1743,7 @@ first time on their turn takes 4d4 piercing damage.
 Eternal Flame (2nd) (10)
 
 Range: touch
-Components: V/S/M (an item worth at least 20 GP)
+Components: V/S/M (an item worth at least 20 GP which is consumed)
 Duration: until dispelled
 Casting Time: 1 action
 Description:
@@ -2289,4 +2289,841 @@ in your immediate vicinity, returning it to you as temporary vitality. All
 creatures within the effected area are forced to make a CON save to halve 2d6 
 necrotic damage. you regain half the total damage dealt to all creatures as 
 temporary hitpoints.
+```
+
+```
+
+Diagnose Affliction (2nd) (ritual) (44)
+
+Range: touch
+Components: V/S/M (30 GP which are consumed)
+Duration: instantaneous
+Casting Time: 1 minute
+You inspect one creature and diagnose them with any afflictions they may have. 
+This spell has no effect on a creature that is not infected with a parasite or
+disease and is not cursed in any way. When a creature afflicted by a parasite,
+disease, or curse is diagnosed by this spell you know the names of and cures for
+all the curable ailments they may have.
+
+```
+
+# 3rd Level Spells
+
+```
+
+Animate Dead (3rd) (1)
+
+Range: touch
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 minute
+Description:
+This spell allows you to create an undead servant from a corpse. You maintain
+contact with a corpse or other remains of a human, raising them as a zombified
+or skeletal version of their living from. On each of your turns you may command
+the raised creature to act on its turn as long as it is within 60 feet of you.
+On the creature's turn it performs the command you gave it. This creature is
+under your control for 24 hours, once the 24 hours is up the creature will 
+become hostile. You may repeatedly cast this spell before the 24 hour period has
+elapsed in order to maintain control.
+
+```
+
+```
+
+Aura of Vitality (3rd) (2)
+
+Range: 30 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action 
+Description:
+You evoke an aura of healing energy. Until the spell ends you may use your
+bonus action to heal one creature within 30 feet of you to regain 2d6 hitpoints.
+
+```
+
+```
+
+Beacon of Hope (3rd) (3)
+
+Range: 30 feet
+Components: V
+Duration: Concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You conjure a spark of hope into the souls of any number of creatures within
+range. The targeted creatures have advantage on wisdom and death saving throws
+are immune to the frightened condition and automatically regain the maximum
+possible hitpoints from all healing effects for the duration of the spell. 
+
+```
+
+```
+
+Curse (3rd) (4)
+
+Range: touch
+Components: V
+Duration: concentration up to 1 minute.
+Casting Time: 1 action
+Description:
+You touch one creature and attempt to bestow it a curse. The target must make
+a wisdom saving throw or be cursed for the duration of the spell. When you cast
+this spell you should determine the curse from one of the following options:
+
+- While cursed the target has disadvantage on attack rolls and ability checks.
+- While cursed the target takes an additional 1d8 necrotic damage from all
+damage sources
+- While cursed the target must make a wisdom saving throw at the start of its
+turn or be incapacitated until the start of its next turn. 
+- While cursed the target is incapable of performing one specific task such as
+attacking a specific person unless harmed by them or eating a specific type of
+food.
+
+The curse lasts for greater amounts of time when cast with higher level spell
+slots and when cast at a level above 4th this spell does not require 
+concentration. A curse cast at 4th level lasts 1 hour. A curse cast at 5th level 
+lasts 24 hours. a curse cast at 6th level lasts 1 year. 
+
+```
+
+```
+
+Blink (2nd) (ritual) (5)
+
+Range: Self
+Components: V
+Duration: 1 minute
+Casting Time: 1 action
+Description:
+This spell transports you to the ethereal plane. For the duration of this spell
+you are intangible and can only see within 120 feet of you. When the spell ends 
+you blink back to the relative point you would be on the material plane after
+all the movement you took for the duration. 
+
+```
+
+```
+
+Call Lightning (2nd) (6)
+
+Range: Self/60 foot sphere
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You call a small lightning storm that effects a 60 foot radius sphere centered
+on you.  When you cast this spell choose a point within 60 feet of you, that
+point is struck by lightning and all creatures within 5 feet must make a 
+dexterity saving throw or take 3d10 lightning damage taking half as much on a 
+success. You may expend an action on each of your turns for the duration of this
+spell to conjure another bolt of lightning.
+
+If you cast this spell while there is already storm within range, you assume
+control of it, damage dealt by this spell is doubled under these conditions.
+
+```
+
+```
+
+Clairvoyance (3rd) (ritual) (7)
+
+Range: 10 miles
+Components: V/S/M (the eye of a creature, valued at at least 30 GP)
+Duration: Concentration up to 10 minutes
+Casting Time: 10 minutes
+Description:
+You create an invisible viewing point at one area within range that you are
+familiar with. You are capable of hearing or seeing through this viewing point
+which is visible as a blue ball of light to anyone under the effects of the
+detect magic spell. As an action while casting this spell you may choose to 
+alternate between hearing through it and seeing through it.
+
+```
+
+```
+
+Conjure Beast (3rd) (8)
+
+Range: 60 feet
+Components: V
+Duration: concentration up to 1 hour
+Casting Time: 1 action
+Description:
+This spell allows you conjure animals to aid you. Choose one from the following:
+
+- 1 Danger level 4 Beast
+- 2 Danger level 3 Beasts
+- 4 Danger level 2 beasts
+- 8 Danger level 1 beasts
+
+You conjure your selection and they are under your control for the duration of 
+the spell, you are capable of commanding them to act on their turn as a free 
+action. Groups of beasts have shared initiative. When the spell ends the 
+remaining live beasts disappear in a cloud of smoke, reappearing where they 
+originally were.
+
+```
+
+```
+
+Barrage (3rd) (9)
+
+Range: self/60 foot cone
+Components: V/S/M (a piece of ammunition)
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You throw a piece of ammunition sparking a barrage of fire extending in a 60
+foot cone originating from you in a direction of your choice. Creatures caught
+inside the cone must make a dexterity saving throw or take 3d10 piercing damage,
+taking half as much on a success.
+
+```
+
+```
+
+Counterspell (3rd) (10)
+
+Range: 90 feet
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 reaction
+Description:
+As a reactiont to a spell being cast you attempt to snuff out all the mana in
+the area in order to cause the spell to fail. Any spell of 3rd level or lower 
+fails automatically when targeted by this spell. In order to  counterspell a 
+spell of 4th level or higher you must cast with an equal or higher spell level
+or win a contested will check against the caster.
+
+```
+
+```
+
+Create Food and Water (3rd) (11)
+
+Range: 60 feet
+Components: V 
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You create a meal large enough to feed 25 humans or 10 mounts on a surface
+within range. The food and drink takes a form of your choosing and expires after
+24 hours, turning into dust if not eaten.
+
+```
+
+```
+
+Holy Mantle (3rd) (12)
+
+Range: Self/15 feet
+Components: V
+Duration: Concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You recite a holy word of power and the strength of the heavens exhudes from
+you to all friendly creatures within 15 feet of you. All creatures within 15
+feet of you including yourself deal an additional 1d8 radiant damage on weapon
+attacks.
+
+```
+
+```
+
+Daylight (3rd) (13)
+
+Range: 60 feet
+Components: V/S
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+A 60 foot radius sphere of magical light expands from a point within range. 
+The area of this sphere is bright light and the sphere sheds an additional 120 
+feet of dim light in all directions.
+
+```
+
+```
+
+Dispel Magic (3rd) (14)
+
+Range: 120 feet
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You attempt to end one magical effect within range by redirecting the mana it
+occupies. Any effect created by a spell of 3rd level or lower ends automatically 
+when targeted by this spell. In order to end an effect created by a spell of 4th
+level or higher you must cast with an equal or higher spell level or win a 
+contested will check against the caster.
+
+```
+
+```
+
+Elemental Weapon (3rd) (15)
+
+Range: touch
+Components: V/S
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You imbue a weapon with elemental magic through a primordial sigil, choose from 
+lightning, fire, acid, cold, or thunder. The weapon gains a +1 to attack and 
+damage rolls and deals an additional 1d4 damage of the type you chose on a hit.  
+
+```
+
+```
+
+Fear (3rd) (16)
+
+Range: Self/30 foot cone
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You cast a 30 foot cone containing the worst fears of a creature. Any creatures
+caught within the area must make a wisdom saving throw or be frightened of you
+for the duration. A frightened creature must take the dash action and and move
+away from you along the safest possible path. A creature that loses line of
+sight with you may repeat the wisdom saving throw at the end of their turn,
+ending the effect on a success. 
+
+```
+
+```
+
+Feign Death (3rd) (ritual) (17)
+
+Range: touch
+Components: V/S
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You touch one creature and they are rendered blind and incapacitated with their
+speed becoming zero. In this state the target cannot be destinguished as alive.
+You may end this spell early by touching the target as an action and dispelling 
+it.
+
+```
+
+```
+
+Fireball (3rd) (18)
+
+Range: 160 feet
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You conjure a ball of flame and hurl it at one point within range. From that
+point a 20 foot radius sphere explodes in flames, all creatures in the area
+must make a dexterity saving throw or take 8d6 fire damage, taking half as much
+on a success. On a failure a target takes an additional 1d6 fire damage at
+the end of their next turn unless they use their action to put themselves out.
+
+```
+
+```
+
+Flight (3rd) (19)
+
+Range: touch
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You touch a creature and they gain the ability to fly through magical means. The
+target gains 60 feet of flying speed for the duration. If the spell ends and the
+target is still in the air, they fall normally.
+
+```
+
+```
+
+Gaseous Form (3rd) (20)
+
+Range: touch
+Components: V/S
+Duration: concentration up to 1 hour
+Casting Time: 1 action
+Description:
+You transform one willing creature into a cloud of gas, along with all of its
+equipment. The spell ends early if the creature drops to 0 hitpoints. 
+
+While in this form the target is only capable of moving using a flying speed of
+20 feet. The target is immune to nonmagical damage and has advantage on strength,
+dexterity, and constitution saving throws. The target cannot fall and can fit
+through any hole that air would be able to move through. While in this form the
+target cannot interact with anything physical and is incapable of casting spells.
+
+```
+
+```
+
+Glyph (3rd) (21)
+
+Range: touch
+Components: V/S/M (an item worth 50 GP which is consumed)
+Duration: until dispelled 
+Casting Time: 1 hour
+Description:
+You inscribe a glyph through a careful and painstaking task, and designate the
+conditions under which it will trigger. There are two types of glyphs, you 
+choose what type to make while casting the spell.
+
+Explosive Glyph: Choose from acid, cold, fire, lightning, or thunder. When 
+triggered the glyph will explode into a 60 foot radius sphere of elemental 
+energy centered on the glyph, dealing 6d8 damage of the damage type you chose 
+during the creation of the glyph.
+
+Spell Glyph: You prepare and store a spell of 3rd level or lower. The spell must
+target a single creature or an area. When the glyph's conditions are met the 
+spell is cast in a manner the caster designates. In order to store a spell of
+higher levels you must cast glyph at the respective level of the spell you would
+like to store.
+
+```
+
+```
+
+Haste (3rd) (22)
+
+Range: 30 feet
+Components: V/S
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You slow the relative time perception of one creature within range, allowing 
+them to act much faster than they normally would be able to. For the duration
+of the spell the target gains the following:
+
+- +2 AC
+- Advantage on dexterity saving throws
+- An additional action on each of their turns
+
+```
+
+```
+
+Hunger of Horros (3rd) (22)
+
+Range: 200 feet
+Components: V
+Duration: 1 minute
+Casting Time: 1 action 
+Description:
+You open a gateway to the dark pit below creation where ancient horrors reside.
+a 20 foot radius sphere of absolute cold and darkness forms at a point within 
+range. No light, even magical light, can illuminate this area and creatures
+within the area are blinded.
+
+The area is difficult terrain and any creature who enters the area or starts 
+their turn in the area takes 2d6 cold damage. A creature who ends their turn in
+the area must make a dexterity saving throw or take 2d6 acid damage.
+
+```
+
+```
+
+Hypnotic Spiral (3rd) (23)
+
+Range: 120 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You create a hypnotic spiral effect within the minds of all creatures within
+a 20 foot cube centered at a point within range. All creatures within the area
+must make a wisdom saving throw or be charmed, incapacitated, and have their
+speed reduced to 0 for the duration as swirls reflect in their eyes. The spell
+ends early for a creature if another creature uses its action to knock them out
+of it.
+
+```
+
+```
+
+Klenne's Tiny Hut (3rd) (ritual) (24)
+
+Range: self/ 10 foot hemisphere
+Components: V/S
+Duration: 8 hours
+Casting Time: 1 minute
+Description:
+You create a 10 foot radius hemisphere of magical force that appears as a light
+blue dome. You may choose to make the hemisphere see through or opaque on either
+side while casting. The hemisphere remains stationary and the spell ends if you
+leave it.
+
+Any creature or object outside of the hemisphere before casting is unable to 
+enter the area and no magical effects or attacks can penetrate from the outside.
+A creature inside the hemisphere during the casting is capable of entering and
+exiting as they wish. The inside of the hemisphere is comfortable regardless of
+the climate outside. Creatures inside the hemisphere do not leave the area of 
+hemisphere unless they choose to, meaning they cannot be forced out by removal
+of the ground under the hemisphere.
+
+```
+
+```
+
+Lightning Bolt (3rd) (25)
+
+Range: self/100 foot line
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You cast a 100 by 5 foot bolt of lightning originating from you in a direction 
+of your choice. All creatures in the area must make dexterity saving throw or
+take 8d6 lightning damage, taking half as much damage on a success. Creatures 
+wearing metal have disadvantage on this saving throw.
+
+```
+
+```
+
+Magic Circle (3rd) (ritual) (26)
+
+Range: 10 feet
+Components: V/S/M (a bottle of holy water, salt, and iron powder)
+Duration: until broken
+Casting Time: 1 minute
+Description:
+Using holy water and iron powder you create a 10 foot radius circle that is 
+proofed against entry and exit by one or more creature type from celestial, 
+fiend, fae, or undead. The creatures if the types you choose are incapable of
+passing into or out of the area of the magical circle unless the thin line of
+salt and iron powder is broken. The effects (such as posession) of these 
+creatures are unable to penetrate aswell and attacks made by these creatures 
+from at a creature on the other side of the circle have disadvantage.
+
+```
+
+```
+
+Major Image (3rd) (ritual) (27)
+
+Range: 120 feet
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You create a 3d illusory image no larger than 30 feet in any direction. The 
+image occupies a space within range for the duration of the spell. You are
+capable of creating sensory effects to accompany the image but it is not 
+possible to create an effect that would cause physical harm. As long as you are
+within 120 feet of the image you can prompt it to move to a point within range
+as an action, you are capable of making the image move as if walking so that
+the illusion is not obvious. When a creature attempts to see through or interact
+with the illusion they must contest your spell DC with an investigation check.
+On a success they understand that the image is an illusion and it becomes
+feint to them.
+
+```
+
+```
+
+Healing Words (3rd) (28)
+
+Range: 120 feet
+Components: V
+Duration: instantaneous
+Casting Time: 1 bonus action
+Description:
+Select up to 6 creatures within range. You channel healing energy into each 
+target, healing them for 1d4 + your spellcasting modifier hitpoints
+
+```
+
+```
+
+Nondetection (3rd) (ritual) (29)
+
+Range: touch
+Components: V/S
+Duration: 8 hours
+Casting Time: 1 action
+Description:
+You touch one creature or object and magically proof it against detection. 
+Spells such as scrying and clairvoyance cannot percieve or target the target of 
+this spell for the duration.
+
+```
+
+```
+
+Summon Mount (3rd) (ritual) (30)
+
+Range: 30 feet
+Components: V/S
+Duration: 8 hours
+Casting Time: 1 minute
+Description:
+A large semi-transparent mount appears before you taking an apperance of your
+choice. The mount has a speed of 100 feet, an AC of 14 and 10 hitpoints. The
+mount is capable of moving at a top speed of 22 miles/hr. The spell ends early
+if the mount drops to 0 hitpoints or you dismiss it as an action.
+
+```
+
+```
+
+Plant Growth (3rd) (31)
+
+Range: 150 feet
+Components: V
+Duration: instantaneous
+Casting Time: 1 action or 8 hours
+Description:
+You channel life force into plants within range. When casting this spell you may
+cast it as an action or over the course of 8 hours.
+
+As an action: a 100 foot radius circle of plants centered on a point within
+range becomes double difficult terrain (20 feet of movement per 5 feet) as the
+plants in the area become heavily overgrown. You may exclude any portions of 
+your choice in the area from this effect.
+
+Over 8 hours: The land within 1 mile of the point you cast the spell is enriched
+with nourishment. All plants in the area grow strong and produce twice as many
+fruits and vegetables. This effect lasts 1 year. 
+
+
+```
+
+```
+
+Proof From Energy (3rd) (32)
+
+Range: Touch
+Components: V/S
+Duration: 1 hour
+Casting Time: 1 action 
+Description:
+You touch one creature and proof them against any one damage type except 
+psychic, bludgeoning, piercing, or slashing. For the duration of this spell the 
+target gains resistance to that damage type.
+
+```
+
+```
+
+Sending (3rd) (33)
+
+Range: Unlimited
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You send a message containing no more than 100 words to one creature whom you
+are familiar with. The target hears the message as a voice inside their head and 
+is capable of replying to you in the same manner. The target instantly knows it
+was you who sent the message.
+
+```
+
+```
+
+Slow (3rd) (34)
+
+Range: 30 feet
+Components: V/S
+Duration: concentration up to 1 minute
+Casting Time: 1 action 
+Description:
+You attempt to slow the relative time perception of up to 4 creatures within 
+range. The targets must make a wisdom saving throw or be slowed for the duration
+of the spell. Slowed creatures suffer from the following:
+
+- -2 to AC
+- Disadvantage on dexterity saving throws
+- No reactions
+- May only take 1 action or 1 bonus action on their turn
+- May only make 1 attack on their turn regardless of abilities
+
+If a slowed creature attempts to cast a spell with a casting time of 1 action,
+roll a 1d2 on a 1 the creature does not finish casting the spell until the start
+of their next turn, otherwise the spell is cast normally.
+
+```
+
+```
+
+Speak With Dead (3rd) (35)
+
+Range: touch
+Components: V/S
+Duration: 10 minutes
+Casting Time: 1 action 
+Description:
+You touch one corpse, filling it with undeath, and the corpse regains a limited
+amount of intelligence. You may ask the corpse up to 5 questions over the 
+duration of this spell. The corpse knows only the things it knew while alive and
+cannot respond in a language it does not know, but understands all languages.
+Answers are brief and sometimes confusing or intentionally cryptic. The corpse
+is capable of lying. If this spell is cast on a corpse that has been under the 
+effect of this spell in the last 10 days the spell fails. 
+
+```
+
+```
+
+Plant Tongue (3rd) (36)
+
+Range: self
+Components: V 
+Duration: 10 minutes
+Casting Time: 1 action
+Description:
+For the duration of this spell you are capable of conversing with plants and
+they are capable of responding in your native tongue. The plants are capable
+of answering questions about things they percieved and will always answer 
+truthfully unless the plant is corrupted by magical radiation in some way. You 
+may also use this spell to ask plants to move out of your way, causing difficult 
+terrain attributed to overgrowth to move out of the way for you and any 
+creatures with you, turning it into normal terrain. Plants may be capable of 
+performing other tasks for you, this is entirely up to your GM.
+
+```
+
+```
+
+Gaurdians (3rd) (37)
+
+Range: self/15 foot radius
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You conjure gaurdian spirits in a 15 foot radius circle centered around you.
+Choose a damage type from Necrotic, Radiant, or Force. Your gaurdians take an
+appearance that reflects your own personal values. When you cast this spell you
+may choose any amount of creatures that are not effected by it.
+
+When you move the radius of gaurdians moves with you. When a creature enters the
+area affected by this spell or starts their turn there they must make a wisdom
+saving throw or take 3d8 of the damage type you chose, taking half as much on a 
+success. 
+
+```
+
+```
+
+Stinking Cloud (3rd) (38)
+
+Range: 120 feet
+Components: V/S/M (a pinch of sulphur)
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You create a 20 foot cube of stench at a point within range. When a creature
+enters the area affected by this spell or starts their turn there they must
+make a constitution save or expend their action wretching. Creatures that are
+immune to the poisoned condition or that do not need to breathe air are immune
+to the effects of this spell. 
+
+```
+
+```
+
+Tongues (3rd) (39)
+
+Range: touch
+Components: V/S
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You touch one creature and for the duration they can understand any spoken 
+language. Any creature that understands at least one language that hears the
+target speak understands what they say and hear it in their native tongue. 
+
+```
+
+```
+
+Draining Touch (3rd) (40)
+
+Range: self
+Components: V/S 
+Duration: 1 minute
+Casting Time: 1 action
+Description:
+You imbue undead hunger into one of your hands the touch of which siphons life 
+force from others and repurposes it for your own gain. Make a melee spell attack
+against a creature within your reach, on a hit the target takes 3d6 necrotic 
+damage and you regain hit points equal to half the damage dealt. For the 
+duration of the spell you can make the attack again on each of your turns as an 
+action.
+
+```
+
+```
+
+Gills (3rd) (ritual) (41)
+
+Range: 60 feet
+Components: V/S
+Duration: 8 hours
+Casting Time: 1 action
+Description:
+You and up to 10 creatures within range grow gills and become capable of
+breathing underwater and as normally for the duration of the spell.
+
+```
+
+```
+
+Water Walk (3rd) (ritual) (42)
+
+Range: 30 feet
+Components: V/S
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+This spell allows you to walk over any liquid for the duration as if it were
+normal solid ground. You and up to 10 willing creatures within range are capable
+of walking on any liquid as if it were solid ground. Extreme heat and cold still
+have an effect on those walking over them but pools of acid and poison have no
+effect. If you target a submerged creature with this spell they rise to the
+surface at a rate of 60 feet a round.
+
+```
+
+```
+
+Vass' Psychic Blast (3rd) (43)
+
+Range: 120 feet
+Components: S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You cast a ray of explosive psychic energy at one creature within range. The
+target must make an intelligence saving throw or take 7d6 psychic damage and 
+become incapacitated until the end of your next turn, taking half damage and
+not being incapacitated on a success.
+
+```
+
+```
+
+Beacon of Fate (3rd) (44)
+
+Range: Unlimited
+Components: V/S/M (a platinum candle worth 100 GP)
+Duration: Until Dispelled
+Casting Time: 8 hours
+Description:
+You perform a locating ritual over the course of 8 hours and light the platinum
+candle. You designate one creature on any plane whom you know the true name of.
+For the duration the target sees an incorporeal golden thread that when followed 
+will lead them on the safest possible path to the candle. The candle slowly 
+burns down as the target gets closer and goes out when the target is within 1 
+mile of it, at which point the spell ends. 
+
 ```

@@ -40,14 +40,14 @@ Adventuring necessitates equipment.
 ```
 |  Item                       |  Cost   | Weight |
 | --------------------------- | ------- | ------ |
-| Abacus                      | 2 gp    | 2 lb.  |
+| Abacus                      | 2  gp   | 2 lb.  |
 | Acid (vial)                 | 25 gp   | 1 lb.  |
 | --------------------------- | ------- | ------ |
 | Ammunition                  |         |        |
-| Arrows (20)                 | 1 gp    | 1 lb.  |
-| Blowgun needles (50)        | 1 gp    | 1 lb.  |
-| Crossbow bolts (20)         | 1 gp    | 1½ lb. |
-| Sling bullets (20)          | 4 cp    | 1½ lb. |
+| Arrows (20)                 | 1  gp   | 1 lb.  |
+| Blowgun needles (50)        | 1  gp   | 1 lb.  |
+| Crossbow bolts (20)         | 1  gp   | 1½ lb. |
+| Sling bullets (20)          | 4  cp   | 1½ lb. |
 | --------------------------- | ------- | ------ |
 | Antitoxin (vial)            | 50 gp   | —      |
 | --------------------------- | ------- | ------ |
@@ -55,102 +55,103 @@ Adventuring necessitates equipment.
 | Crystal                     | 10 gp   | 1 lb.  |
 | Orb                         | 20 gp   | 3 lb.  |
 | Rod                         | 10 gp   | 2 lb.  |
-| Staff                       | 5 gp    | 4 lb.  |
+| Staff                       | 5  gp   | 4 lb.  |
 | Wand                        | 10 gp   | 1 lb.  |
 | --------------------------- | ------- | ------ |
-| Backpack                    | 2 gp    | 5 lb.  |
-| Ball bearings (bag of 1,000)| 1 gp    | 2 lb.  |
-| Basket                      | 4 sp    | 2 lb.  |
-| Bedroll                     | 1 gp    | 7 lb.  |
-| Bell                        | 1 gp    | —      |
-| Blanket                     | 5 sp    | 3 lb.  |
-| Block and tackle            | 1 gp    | 5 lb.  |
+| Backpack                    | 2  gp   | 5 lb.  |
+| Ball bearings (bag of 1,000)| 1  gp   | 2 lb.  |
+| Basket                      | 4  sp   | 2 lb.  |
+| Bedroll                     | 1  gp   | 7 lb.  |
+| Bell                        | 1  gp   | —      |
+| Blanket                     | 5  sp   | 3 lb.  |
+| Block and tackle            | 1  gp   | 5 lb.  |
 | Book                        | 25 gp   | 5 lb.  |
-| Bucket                      | 5 cp    | 2 lb.  |
-| Caltrops (bag of 20)        | 1 gp    | 2 lb.  |
-| Candle                      | 1 cp    | —      |
-| Case, crossbow bolt         | 1 gp    | 1 lb.  |
-| Case, map or scroll         | 1 gp    | 1 lb.  |
-| Chain (10 feet)             | 5 gp    | 10 lb. |
-| Chalk (1 piece)             | 1 cp    | —      |
-| Chest                       | 5 gp    | 25 lb. |
-| Clothes, Common             | 5 sp    | 3 lb.  |
-| Clothes, costume            | 5 gp    | 4 lb.  |
+| Bucket                      | 5  cp   | 2 lb.  |
+| Caltrops (bag of 20)        | 1  gp   | 2 lb.  |
+| Candle                      | 1  cp   | —      |
+| Case, crossbow bolt         | 1  gp   | 1 lb.  |
+| Case, map or scroll         | 1  gp   | 1 lb.  |
+| Chain (10 feet)             | 5  gp   | 10 lb. |
+| Chalk (1 piece)             | 1  cp   | —      |
+| Chest                       | 5  gp   | 25 lb. |
+| Clothes, Common             | 5  sp   | 3 lb.  |
+| Clothes, costume            | 5  gp   | 4 lb.  |
 | Clothes, fine               | 15 gp   | 6 lb.  |
-| Clothes, traveler’s         | 2 gp    | 4 lb.  |
+| Clothes, traveler’s         | 2  gp   | 4 lb.  |
 | Component pouch             | 25 gp   | 2 lb.  |
-| Crowbar                     | 2 gp    | 5 lb.  |
+| Crowbar                     | 2  gp   | 5 lb.  |
 | Druidic focus               |         |        |
-| Sprig of mistletoe          | 1 gp    | —      |
-| Totem                       | 1 gp    | —      |
-| Wooden staff                | 5 gp    | 4 lb.  |
+| Sprig of mistletoe          | 1  gp   | —      |
+| Totem                       | 1  gp   | —      |
+| Wooden staff                | 5  gp   | 4 lb.  |
 | Yew wand                    | 10 gp   | 1 lb.  |
-| Fishing tackle              | 1 gp    | 4 lb.  |
-| Grappling hook              | 2 gp    | 4 lb.  |
-| Hammer                      | 1 gp    | 3 lb.  |
-| Hammer, sledge              | 2 gp    | 10 lb. |
-| Holy Symbol                 |         |        |
-| Amulet                      | 5 gp    | 1 lb.  |
-| Emblem                      | 5 gp    | —      |
-| Reliquary                   | 5 gp    | 2 lb.  |
+| Fishing tackle              | 1  gp   | 4 lb.  |
+| Grappling hook              | 2  gp   | 4 lb.  |
+| Hammer                      | 1  gp   | 3 lb.  |
+| Hammer, sledge              | 2  gp   | 10 lb. |
+| Holy Symbol                 | 1  gp   | 1 Lb.  |
+| Amulet                      | 5  gp   | 1 lb.  |
+| Emblem                      | 5  gp   | —      |
+| Reliquary                   | 5  gp   | 2 lb.  |
 | Holy Water (flask)          | 25 gp   | 1 lb.  |
 | Hourglass                   | 25 gp   | 1 lb.  |
-| Hunting trap                | 5 gp    | 25 lb. |
+| Hunting trap                | 5  gp   | 25 lb. |
 | Ink (1 ounce bottle)        | 10 gp   | —      |
-| Ink pen                     | 2 cp    | —      |
+| Ink pen                     | 2  cp   | —      |
 | Kit, climber’s              | 25 gp   | 12 lb. |
 | Kit, disguise               | 25 gp   | 3 lb.  |
 | Kit, forgery                | 15 gp   | 5 lb.  |
-| Kit, herbalism              | 5 gp    | 3 lb.  |
-| Kit, healer’s               | 5 gp    | 3 lb.  |
-| Kit, mess                   | 2 sp    | 1 lb.  |
-| Kit, painter's              | 10gp    | 2 lb.  |
+| Kit, herbalism              | 5  gp   | 3 lb.  |
+| Kit, medical                | 5  gp   | 3 lb.  |
+| Bandage                     | 2  cp   | 1/4 lb.|
+| Kit, mess                   | 2  sp   | 1 lb.  |
+| Kit, painter's              | 10 gp   | 2 lb.  |
 | Kit, poisoner’s             | 50 gp   | 2 lb.  |
-| Ladder (10-foot)            | 1 sp    | 25 lb. |
-| Lamp                        | 5 sp    | 1 lb.  |
+| Ladder (10-foot)            | 1  sp   | 25 lb. |
+| Lamp                        | 5  sp   | 1 lb.  |
 | Lantern, bullseye           | 10 gp   | 2 lb.  |
-| Lantern, hooded             | 5 gp    | 2 lb.  |
+| Lantern, hooded             | 5  gp   | 2 lb.  |
 | Lock                        | 10 gp   | 1 lb.  |
 | Magnifying glass            | 100 gp  | —      |
-| Manacles                    | 2 gp    | 6 lb.  |
-| Mirror, steel               | 5 gp    | 1/2 lb.|
-| Oil (1 pint flask)          | 1 sp    | 1 lb.  |
-| Paper (one sheet)           | 2 sp    | —      |
-| Parchment (one sheet)       | 1 sp    | —      |
-| Perfume (vial)              | 5 gp    | —      |
-| Pick, miner’s               | 2 gp    | 10 lb. |
-| Piton                       | 5 cp    | 1/4 lb.|
+| Manacles                    | 2  gp   | 6 lb.  |
+| Mirror, steel               | 5  gp   | 1/2 lb.|
+| Oil (1 pint flask)          | 1  sp   | 1 lb.  |
+| Paper (one sheet)           | 2  sp   | —      |
+| Parchment (one sheet)       | 1  sp   | —      |
+| Perfume (vial)              | 5  gp   | —      |
+| Pick, miner’s               | 2  gp   | 10 lb. |
+| Piton                       | 5  cp   | 1/4 lb.|
 | Poison, basic (vial)        | 100 gp  | —      |
-| Pole (10-foot)              | 5 cp    | 7 lb.  |
-| Pot, iron                   | 2 gp    | 10 lb. |
+| Pole (10-foot)              | 5  cp   | 7 lb.  |
+| Pot, iron                   | 2  gp   | 10 lb. |
 | Potion of Healing           | 50 gp   | 1/2 lb.|
-| Pouch                       | 5 sp    | 1 lb.  |
-| Quiver                      | 1 gp    | 1 lb.  |
-| Ram, portable               | 4 gp    | 35 lb. |
-| Horse feed                  | 5 cp    | 10 lb. |
-| Fresh rations (1 day)       | 5 cp    | 3 lb.  |
-| Iron Rations (1 day)        | 5 sp    | 2 lb.  |
-| Robes                       | 1 gp    | 4 lb.  |
-| Rope, hempen (50 feet)      | 1 gp    | 10 lb. |
+| Pouch                       | 5  sp   | 1 lb.  |
+| Quiver                      | 1  gp   | 1 lb.  |
+| Ram, portable               | 4  gp   | 35 lb. |
+| Horse feed                  | 5  cp   | 10 lb. |
+| Fresh rations (1 day)       | 5  cp   | 3 lb.  |
+| Iron Rations (1 day)        | 5  sp   | 2 lb.  |
+| Robes                       | 1  gp   | 4 lb.  |
+| Rope, hempen (50 feet)      | 1  gp   | 10 lb. |
 | Rope, silk (50 feet)        | 10 gp   | 5 lb.  |
-| Scrap Metal                 | 1sp     | 1 lb.  |
-| Sack                        | 1 cp    | 1/2 lb.|
-| Scale, merchant’s           | 5 gp    | 3 lb.  |
-| Sealing wax                 | 5 sp    | —      |
-| Shovel                      | 2 gp    | 5 lb.  |
-| Signal whistle              | 5 cp    | —      |
-| Signet ring                 | 5 gp    | —      |
-| Soap                        | 2 cp    | —      |
+| Scrap Metal                 | 1  sp   | 1 lb.  |
+| Sack                        | 1  cp   | 1/2 lb.|
+| Scale, merchant’s           | 5  gp   | 3 lb.  |
+| Sealing wax                 | 5  sp   | —      |
+| Shovel                      | 2  gp   | 5 lb.  |
+| Signal whistle              | 5  cp   | —      |
+| Signet ring                 | 5  gp   | —      |
+| Soap                        | 2  cp   | —      |
 | Spellbook                   | 50 gp   | 3 lb.  |
-| Spikes, iron (10)           | 1 gp    | 5 lb.  |
+| Spikes, iron (10)           | 1  gp   | 5 lb.  |
 | Spyglass                    | 1,000 gp| 1 lb.  |
-| Tent, two-person            | 2 gp    | 20 lb. |
-| Tinderbox                   | 5 sp    | 1 lb.  |
+| Tent, two-person            | 2  gp   | 20 lb. |
+| Tinderbox                   | 5  sp   | 1 lb.  |
 | Tools, Tinker's             | 10 gp   | 10 lb  |
 | Tools, Smith's              | 15 gp   | 10 lb  |
-| Torch                       | 1 cp    | 1 lb.  |
-| Vial                        | 1 gp    | —      |
-| Whetstone                   | 1 cp    | 1 lb.  |
+| Torch                       | 1  cp   | 1 lb.  |
+| Vial                        | 1  gp   | —      |
+| Whetstone                   | 1  cp   | 1 lb.  |
 | --------------------------- | ------- | ------ |
 ```
 
@@ -186,7 +187,7 @@ which spoil 7 days after purchase. Iron rations are made of ingredients such as
 travel bread, fruit preserves, fruit leather, jerky, potted meat, noodles, and 
 pemican. Iron rations are generally shelf stable for multiple months at a time.
 
-### Healer's Kit
+### Medical Kit
 A kit filled with gauze, scissors, bandages, salves, and other medicinal gear. 
 Has 10 charges. When you use this kit on yourself or another creature, make a 
 medicine check to determine the outcome.
@@ -277,7 +278,7 @@ good for that!
 | Mace                   | 5 gp  | 1d6 bludgeoning | 4 lb.   | —                                                |
 | Quarterstaff           | 2 sp  | 1d6 bludgeoning | 4 lb.   | Versatile (1d8)                                  |
 | Sickle                 | 1 gp  | 1d4 slashing    | 2 lb.   | Light                                            |
-| Spear                  | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8), Deep wound|
+| Spear                  | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8),           |
 | ---------------------- | ----- | --------------- | ------- | ------------------------------------------------ |
 ```
 ### Simple Ranged Weapons
@@ -305,11 +306,11 @@ good for that!
 | Longsword              | 15 gp | 1d8 slashing    | 3 lb.   | Versatile (1d10)                     |
 | Morningstar            | 15 gp | 1d8 piercing    | 4 lb.   | Stagger                              |
 | Pike                   | 5 gp  | 1d10 piercing   | 18 lb.  | Heavy, reach, two-handed             |
-| Rapier                 | 25 gp | 1d8 piercing    | 2 lb.   | Finesse, Deep wound                  |
+| Rapier                 | 25 gp | 1d8 piercing    | 2 lb.   | Finesse,                             |
 | Scimitar               | 25 gp | 1d6 slashing    | 3 lb.   | Finesse, light                       |
 | Shortsword             | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, light                       |
 | Trident                | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)|
-| War pick               | 5 gp  | 1d8 piercing    | 2 lb.   | Deep Wound                           |
+| War pick               | 5 gp  | 1d8 piercing    | 2 lb.   |                                      |
 | Warhammer              | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                     |
 | Greathammer            | 30 gp | 3d4 bludgeoning | 9 lb.   | Two-handed, Heavy, Stagger           |
 | Whip                   | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                       |
@@ -396,12 +397,6 @@ some enemies are weak to silver.
 This weapon is capable of staggering opponents, when you hit a creature no more
 than one size larger than you they must make a stagger check as outlined in the
 core rules.
-
-### Deep Wound
-This weapon penetrates deep into soft tissue, leaving a grevious wound if 
-untreated. A creature who is hit this weapon and is dealt maximum damage takes 
-1d4 damage at the start of each of their turns until they expend an action to 
-stop the bleeding. This damage due to bleeding cannot be reduced in any way.
 
 ### Special Weapons
 

@@ -2453,10 +2453,10 @@ Casting Time: 1 action
 Description:
 This spell allows you conjure animals to aid you. Choose one from the following:
 
-- 1 Danger level 4 Beast
-- 2 Danger level 3 Beasts
-- 4 Danger level 2 beasts
-- 8 Danger level 1 beasts
+- 1 Danger level 3 Beast
+- 2 Danger level 2 Beasts
+- 4 Danger level 1 beasts
+- 8 Danger level 0 beasts
 
 You conjure your selection and they are under your control for the duration of 
 the spell, you are capable of commanding them to act on their turn as a free 
@@ -2622,7 +2622,7 @@ Casting Time: 1 action
 Description:
 You conjure a ball of flame and hurl it at one point within range. From that
 point a 20 foot radius sphere explodes in flames, all creatures in the area
-must make a dexterity saving throw or take 8d6 fire damage, taking half as much
+must make a dexterity saving throw or take 6d6 fire damage, taking half as much
 on a success. On a failure a target takes an additional 1d6 fire damage at
 the end of their next turn unless they use their action to put themselves out.
 
@@ -2781,7 +2781,7 @@ Casting Time: 1 action
 Description:
 You cast a 100 by 5 foot bolt of lightning originating from you in a direction 
 of your choice. All creatures in the area must make dexterity saving throw or
-take 8d6 lightning damage, taking half as much damage on a success. Creatures 
+take 6d6 lightning damage, taking half as much damage on a success. Creatures 
 wearing metal have disadvantage on this saving throw.
 
 ```
@@ -3127,3 +3127,649 @@ burns down as the target gets closer and goes out when the target is within 1
 mile of it, at which point the spell ends. 
 
 ```
+
+```
+
+Stoneskin (3rd) (45)
+
+Range: touch
+Components: V/S
+Duration: concentration up to 1 hour
+Casting Time: 1 action
+Description:
+You touch one creature and make their skin hard as stone. For the duration the 
+target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
+
+``` 
+
+# 4th Level Spells
+
+```
+
+Arcane Eye (4th) (1)
+
+Range: 30 feet
+Components: V/S
+Duration: Concentration up to 1 hour
+Casting Time: 1 action
+Description:
+You create a magical eye of arcane energy within range that floats for the 
+duration. You see through the eye at all times in a 360 degree field of view, 
+alongside your normal sight. As an action you may command they eye to move 30
+feet in one direction. There is no upper limit to the distance that may be 
+between you and the eye. The eye cannot cross through solid objects but is 
+capable of fitting through holes as small as 1cm. 
+
+```
+
+```
+
+Aura of Life (4th) (2)
+
+Range: self/30 feet
+Components: V
+Duration: 10 minutes
+Casting Time: 1 action
+Description:
+You recite a prayer of life and divine energy radiates out from you in a 30 foot
+radius circle. all non-hostile creatures within 30 feet of you 
+(including yourself) for the duration of this spell are resistant to necrotic 
+damage and regain 1 hitpoint when they start their turn within the area. 
+
+```
+
+```
+
+Banish (4th) (3)
+
+Range: 60 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You attempt to banish one creature within range to their native plane. The 
+target must make a charisma saving throw or be banished, disappearing in a puff
+of smoke. If the creature is native to the plane you are currently on then they
+are banished to a pocket dimension for the duration of the spell and return to
+the nearest unoccupied space to the point they were banished from. If the 
+creature is native to a different plane they are banished to that plain and 
+return only if the spell ends before 1 minute has elapsed, returning in the same
+manner as previously described. 
+
+```
+
+```
+
+Blight (4th) (4)
+
+Range: 30 feet
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+Necrotic energy gushes from your body and into the ground surrounding you and
+into one creature of your choice within range, voiding their life force. The
+target must make a constitutiton saving throw or take 8d6 necrotic damage, 
+taking half as much on a success. Constructs and Undead are immune against this 
+spell.
+
+When targeting a plant the target makes the save at disadvantage and the spell
+deals 48 damage.
+
+
+```
+
+```
+
+Confusion (4th) (5)
+
+Range: 90 feet
+Components: V/S
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+This spell plants a seed of confusion and chaos into the minds of those it 
+targets causing them to act erratically. Choose a point with range, all 
+creatures within a 10 foot radius circle of that point must make a wisdom saving
+throw or be affected by this spell. 
+
+An affected target rolls 1d6 at the start of each of their turns to determine
+how they act on that turn.
+
+|  Roll  |  Outcome                    |
+| ------ | --------------------------- |
+|  1     | Moves in random direction   |
+|  2-4   | Does Nothing                |
+|  5     | Attacks Random within reach |
+|  6     | Acts Normally               |
+| ------ | --------------------------- |
+
+```
+
+```
+
+Control Water (4th) (ritual) (6)
+
+Range: 300 feet
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You take control of an area of water no greater than 100 feet in any direction
+within range, this area may be part of a larger body of water. When you cast
+this spell and on each of your turns as an action you may choose an effect to
+take place upon the area you have chosen.
+
+Flood. You flood the area raising water levels an amount of feet of your choice
+up to 25 feet if the entire body of water fits within the area of effect of this
+spell. If you use this effect on a very large body of water you instead create
+a giant tidal wave up to 25 feet tall. All vehicles smaller than gargantuan must
+roll a 1d4, being capsized on a 1. Regardless of their roll any vehicle caught
+in this wave is carried with it in a direction of your choice for 200 feet.
+
+Part. You cause water in the area to spread apart allowing for safe passage. The
+water remains spread for the duration of the spell and moves with you forming 
+walls of water at the edge of the spell's area of effect. This effect ends early 
+if you choose another effect, with the water rushing to fill the empty space 
+over 1 turn.
+
+Redirect. You redirect the flow of moving water into a direction of your choice.
+This movement is only over the area the spell effects but can redirect water in
+even unlikely directions, such as turning waterfall upside down.
+
+Whirlpool. You create a whirpool with a radius up to 50 feet. Any creature or
+object within 20 feet of the whirpool is drawn 10 feet closer every round. 
+Creatures can swim away by making an athletics check against your spell DC. A
+creature caught inside the whirlpool is whipped around visciously and must make
+a strength saving throw or take 2d8 damage at the start of each of their turns
+for the duration. A creature caught in the whirlpool may repeat the athletics 
+check to swim away as an action on their turn but do so at disadvantage.
+
+```
+
+```
+
+Death Ward (4th) (7)
+
+Range: touch
+Components: V/S
+Duration: 8 hours
+Casting Time: 1 action
+Description:
+You touch one creature and ward them against death for the duration. If the 
+target would drop to or below 0 from damage they instead drop to 1 and the spell
+ends. If the target is affected by a spell or effect that would instantaneously
+kill them without dealing damage the spell or effect is negated and the spell 
+ends.
+
+```
+
+```
+
+Dimension Door (4th) (8)
+
+Range: Unlimited
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+This spell allows you to open a doorway 20 feet wide by 30 feet tall at a point
+within 100 feet. This doorway leads to an area you can visualize, can see, or
+a point you describe based off of distance from your current position. 
+
+The doorway remains for the duration and creatures may pass through it to the 
+area described and back to the location of casting as they please for that time.
+
+```
+
+```
+
+Divination (4th) (ritual) (9)
+
+Range: self
+Components: V/S/M (incense and a sacrifice worth at least 30 GP)
+Duration: instantaneous
+Casting Time: 1 minute
+Description:
+You perform a ritual of divination, asking for a prophecy from your god to 
+answer a question you have about the future. You recieve a brief vision of 
+things to come within the next month ranging in time from 10 seconds to 1 
+minute. Your GM decides what you see or hear in your vision but may be cryptic 
+when asked about descriptions of specific things within the vision.   
+
+```
+
+```
+
+Beguile Creature (4th) (10)
+
+Range: 60 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You attempt to beguile one creature within range by forcing magical influcence
+on their mind. The target must make a wisdom saving throw or be charmed by you.
+
+While charmed the target has a psychic link and only performs psychic commands 
+from you on their turn as long as you are conscious. 
+
+Each time the target takes damage they may repeat the saving throw, ending the
+spell early on a success.
+
+```
+
+```
+
+Shield of Flame (4th) (11)
+
+Range: self
+Components: V/S
+Duration: 10 minutes
+Casting Time: 1 action
+Description:
+Flames emit from your body taking the shape of a shield and circling around
+your body for the duration. When you cast this spell choose cold or hot flame.
+A cold flame grants you resistance to fire damage and a hot flame grants you
+resistance to cold damage. For the duration of this spell, whenever a creature 
+hits you with a melee spell they take 2d8 cold or fire damage, based on which
+kind of flame you chose.
+
+```
+
+```
+
+Freedom of Movement (4th) (12)
+
+Range: touch
+Components: V/S
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You touch one creature allowing them unnatural dexterity and nimbleness. For
+the duration the target's movement speed is unaffected by any effect and they 
+may use 5 feet of movement to instantly escape a grapple or restraint. 
+
+```
+
+```
+
+Giant Bug (4th) (13)
+
+Range: 60 feet
+Components: V/S
+Duration: 10 minutes 
+Casting Time: 1 action
+Description:
+You transform one insect or arthropod of your choice within range into a huge
+sized version of themself. For 10 minutes you retain control of this creature 
+and you may command it verbally as a bonus action on your turn. After the 10 
+minutes has elapsed the target may act of its own will.  
+
+```
+
+```
+
+Greater Invisiblity (4th) (14)
+
+Range: touch
+Components: V/S
+Duration: concentration up to 10 minutes 
+Casting Time: 1 action
+Description:
+You touch one creature and they become invisible for the duration. Anything the
+target is carrying or wearing is also invisible. 
+
+```
+
+```
+
+Gaurdian of Faith (4th) (15)
+
+Range: 60 feet
+Components: V
+Duration: 8 hours
+Casting Time: 1 action
+Description:
+You summon the avatar of a gaurdian important to your faith, such as the avatar 
+of Gabriel if you worship An'Ire or simply an angel. This gaurdian appears as
+a spectral projection at a point within range. When you cast this spell you may
+designate the purpose of this gaurdian and when they should attack. When a 
+creature enters within 10 feet of the gaurdian and meets the conditions set by 
+you they must make a dexterity saving throw or take 20 radiant damage, taking
+half as much on a success. The gaurdian vanishes after dealing a total of 80
+damage. 
+
+```
+
+```
+
+Illusory Terrain (4th) (16)
+
+Range: 300 feet
+Components: V/S
+Duration: 24 hours
+Casting Time: 10 minutes
+Description:
+You make a 150 foot cube of terrain within range appear as if it is another
+kind of terrain. All senses other than tactile are changed. Creatures may easily
+see through the illusion if the tactile difference is obvious but otherwise they
+must make an investigation check against your spell save DC to see through the
+illusion.
+
+```
+
+```
+
+Ice Storm (4th) (17)
+
+Range: 300 feet
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+A hail of stonelike chunks of ice fall from the sky in a 20 foot radius, 40 foot
+tall cylinder centered on a point within range. All creatures in the area must
+make a dexterity saving throw or take 4d8 cold and 4d8 bludgeoning damage taking 
+half as much on a success. The ice turns the area of the spell into difficult
+terrain for 1 minute.
+
+```
+
+```
+
+Phantom Hound (4th) (18)
+
+Range: 30 feet
+Components: V/S
+Duration: 8 hours
+Casting Time: 1 action
+Description:
+You create a watchdog at a point within range. This watchdog is invisible to
+all creatures but you. The dog has truesight and will alert you with a bark if
+it spots a hostile creature that is invisilbe to you or if a creature walks 
+within 30 feet of it without speaking a password of your choice. The dog also 
+attempts to attack one hostile creature within 5 feet of it each turn, using 
+your spell modifier to make a melee spell attack, dealing 4d8 piercing damage on 
+a hit.
+
+```
+
+```
+
+Private Sanctum (4th) (19)
+
+Range: 120 feet
+Components: V/S
+Duration: 24 hours or 1 year
+Casting Time: 10 minutes or 8 hours
+Description:
+You create a magical privacy screen ranging from a 5 foot cube to a 100 foot
+cube centered at a point within range. The spell lasts for the duration if you
+spend 10 minutes to cast it, or the effect is permanent if you spend 8 hours
+casting this spell.
+
+The effects of this spell are as follows:
+- No creatures unless those you permit may see into or out of the screen.
+- Sound cannot pass out of or into the screen.
+- Spells such as clairvoyance or divination cannot show vision or sound within
+the area of the privacy screen.
+- Spells such as scrying cannot target a creature within the area.
+- You cannot cross over planes within the area or teleport into or out of the 
+area. 
+
+```
+
+```
+
+Bubble (4th) (20)
+
+Range: 120 feet
+Components: V/S
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You target one creature within range, attempting to wrap them in an impenetrable
+bubble. The target must make a dexterity saving throw or be wrapped in a bubble
+large enough to contain them for the duration. Nothing can pass through the 
+bubble and there is no way to break it other than with a disintegrate spell.
+
+```
+
+```
+
+Nightmare (4th) (21)
+
+Range: 120 feet
+Components: V
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You target the mind of one creature within range, filling it with their worst
+nightmares and projecting them into reality. The target must make a wisdom 
+saving throw or be frightened. At the end of each of the targets turn for the
+duration they must succeed a wisdom saving throw or take 4d10 psychic damage, 
+ending the spell on a success.
+
+``` 
+
+```
+
+Polymorph (4th) (22)
+
+Range: 60 feet
+Components: V/S
+Duration: concentration up to 1 hour
+Casting Time: 1 action
+Description:
+You attempt to magically transform one creature within range into a beast of
+your choice. An unwilling targetmust make a charisma saving throw or be 
+transformed against their will.
+
+The transformation lasts until the spell ends, or until the target drops to or
+below 0 hitpoints. The target's new form can be any beast of difficulty level
+4 or lower. The target's statistics become that of the beast but their mental
+stats remain the same and they retain the ability to speak.
+
+If the target is reduced to 0 hitpoints in this form or conencentration is lost,
+the spell ends and their hitpoints are the same as before being targeted. Excess 
+damage carries over to the target's regular pool of health.  
+
+Targets of this spell cannot perform things that require their original biology.
+
+``` 
+
+```
+
+Wall of Fire (4th) (23)
+
+Range: 120
+Components: V/S
+Duration: concentration up to 1 minute
+Casting Time: 1 action
+Description:
+You create a wall of fire 60 feet long, 20 feet high, and 5 feet thick or a 
+circle of flame with a radius of 20 feet, a height of 20, and the same 
+thickness. When the wall appears any creatures within the area of the wall must
+make a dexterity saving throw or take 5d8 fire damage, taking half as much on
+a successful save. When you cast this spell you may designate one side of the 
+wall to deal 5d8 fire damage to any creature that enters within 10 feet of it.
+A creature that enters the area of the wall for the first time on their turn,
+or ends their turn there takes 5d8 fire damage. 
+
+``` 
+
+```
+
+Awaken (4th) (24)
+
+Range: touch
+Components: V/S/M (an agate worth at least 250 GP)
+Duration: instantaneous
+Casting Time: instantaneous
+Description:
+You touch one plant or beast and awaken their mind granting them sentience. The
+target's intelligence becomes 12 and they gain the ability to speak and ambulate
+if they did not already have the ability. Your GM dictates the finer statistics
+of the target. The target is charmed by you for 30 days or until you or a 
+companion harm them. When the spell ends the target will choose to remain 
+friendly or not based on how you treated them while charmed.
+
+``` 
+
+```
+
+Cloudkill (4th) (25)
+
+Range: 120 fet
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You create a 20 foot radius sphere of poisonous gas centered on a point within
+range. The gas lasts for the duration and all creatures within the area are
+blinded while inside. When a creature enters the area for the first time on 
+their turn or starts their turn there they must make a constitutiton saving 
+throw or take 5d8 poison damage, taking half as much on a success. Creatures
+that do not need to breathe are immune. 
+
+``` 
+
+```
+
+Commune With Nature (4th) (ritual) (26)
+
+Range: self
+Components: V 
+Duration: instantaneous
+Casting Time: 1 minute
+Description:
+You commune with the gods and spirits of nature, seeking information on the
+surrounding terrain. You are informed of natural terrain and hazards within 10
+miles of the point you cast this spell. You may also choose to learn facts about
+2 things of your  choice from the following
+
+- Buildings in the area
+- Prevalent wildlife in the area
+- Powerful creatures such as celestial, fae, undead, fiends or elementals in the 
+area.
+- Influences from other planes of existence
+
+``` 
+
+```
+
+Restoration (4th) (27)
+
+Range: Touch
+Components: V/S/M (A blend of herbs worth 300 GP)
+Duration: instantaneous
+Casting Time: 10 minutes
+Description:
+You perform a ritual of restoration on one creature, curing them of any disease,
+curse, or parasite. 
+
+``` 
+
+```
+
+Antimagic Field (4th) (28)
+
+Range: 200 feet
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You create an area of antimagic at a point within range. The area may range from
+a 5 foot radius sphere to a 50 foot radius sphere. All magical effects in the
+area cease for the duration.
+
+``` 
+
+```
+
+Revivify (4th) (29)
+
+Range: touch
+Components: V/S/M (an item worth 100 GP)
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You touch one creature who died no more than 1 minute ago and raise them to 
+life with 1 hitpoint. roll a 1d20, on a 5 or lower this spell fails. 
+
+``` 
+
+```
+
+Cardiac Arrest (4th) (30)
+
+Range: 120 feet
+Components: V/S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You target one creature with a heart within range and attempt to crush their 
+heart. The target must make a constitution saving throw or take 8d6 force 
+damage or half as much on a success. If this damage kills the target there is no 
+way for anyone to possible discern that magic killed the target other than 
+casting detect magic and looking at their body within 10 minutes of death. 
+Autopsy suggests the target died of a heart attack.
+
+``` 
+
+```
+
+Conjure Devil (4th) (31)
+
+Range: 30 feet
+Components: V/S/M (an item inscribed with a devil's true name)
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You summon a devil of danger level 4 or lower. The devil is under your control
+for an hour and is capable of performing verbal commands for that duration.
+After an hour the devil is free to act as it wishes on your plane.
+
+``` 
+
+```
+
+Scrying (4th) (ritual) (32)
+
+Range: self
+Components: V/S
+Duration: concentration up to 10 minutes
+Casting Time: 10 minutes
+Description:
+Choose a creature that is on the same plane as you. The target must make a 
+wisdom saving throw, or be targeted by an invisible sensor that appears within 
+10ft of them, you see and hear as if you were standing in the sensor's place for
+the duration. The sensor appears as a limunous orb to anyone capable of seeing 
+invisible objects. The wisdom save's DC may be modified by the following:
+
+- -5 Secondhand (You have heard of the target)
+- -0 Firsthand (You have met the target)
+- +5 Familiar(You know the target well)
+- +2 Likeness or picture
+- +4 Possession or garment
+- +10 Body part, lock of hair, bit of nail, or other bodily material.
+
+```
+
+# 5th level spells
+
+```
+
+Conjure Demon (5th) (1)
+
+Range: 
+Components: V/S/M (an item inscribed with a demon's true name)
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You summon a demon of danger level 5 or lower. The demon is under your control
+for an hour and is capable of performing verbal commands for that duration.
+After an hour the demon is free to act as it wishes on your plane.
+
+``` 

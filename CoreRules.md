@@ -302,7 +302,9 @@ parameters as shorthand, the full explainations are as follows:
 
 ##### Spell Range
 For a spell to target a creature or object it must be within the spell's range
-spell range is expressed as a flat distance.
+spell range is expressed as a flat distance or touch. When you cast a touch 
+spell you may also target yourself, although sometimes this may not be a good 
+idea.
 
 ##### Components
 Nearly all spells require either Verbal (the ability to spealk) or Somatic 

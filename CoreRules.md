@@ -541,7 +541,34 @@ can be found here.
 - Attack rolls against the creature have advantage.
 - Any attack that hits the creature deals double damage if the attacker is within 5 feet of the creature.
 
+### Obliterated
+- An obliterated creature cannot be ressurected by anything less than a wish.
+- Obliterated creatures do not pass onto an afterlife.
 
+### Drunken
+- Drunken creatures have advantage on persuasion and intimidation checks.
+- Drunken creatures have disadvantage on intelligence checks and saving throws.
+- Drunken creatures have disadvantage on dexterity checks and saving throws
+- Drunken creatures must make a DC 12 dexterity saving throw when they move and
+take an action on their turn or fall prone.
+- Drunken ceratures act different compared to their non-drunken state, often 
+speaking on long tangents or repeating tasks if they are capable of doing such
+things.
+- After a state of drunkenness ends, a drunken creature is inflicted with the
+'low' status effect
+
+### Euphoric
+- A Euphoric creature cannot feel pain and experiences full body pleasure at all
+times
+- The creature may expend a hit die and add it to one of their rolls while 
+euphoric
+- After a state of euphoria ends, a euprohic creature is inflicted with the 
+'low' status effect
+
+### Low
+- A low creature must succeed a DC 16 constitution save every minute or fall
+asleep for 12 hours
+- A low creature has disadvantage on all rolls
 
 # Adventuring
 Adventuring is the core of the game! seeing places, meeting interestig people 

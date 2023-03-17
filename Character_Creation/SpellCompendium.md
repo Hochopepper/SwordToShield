@@ -1080,10 +1080,10 @@ Components:  V/S
 Duration: Concentration up to 10 minutes
 Casting Time: 1 action
 Description:
-For the duration of this spell you inately know the location of any abyssal,
-abberation, celestial, elemental, fey, fiend, or undead within 30 feet of you.
-You also know if there is an object within 30 feet of you that is blessed or
-cursed by any of the ladder.  
+For the duration of this spell you inately know the location of any abberation, 
+celestial, elemental, fey, fiend, or undead within 30 feet of you. You also know 
+if there is an object within 30 feet of you that is blessed or cursed by any of 
+the ladder.  
 
 ```
 
@@ -1458,8 +1458,8 @@ Components: V/S
 Duration: concentration up to 10 minutes
 Casting Time: 1 action 
 Description:
-You touch one creature, protecting them from abyssals, aberrations, celestials, 
-elementals, fey, fiends, and undead. 
+You touch one creature, protecting them from leviathans, aberrations, 
+celestials, elementals, fey, fiends, and undead. 
 
 This protection causes attacks and ability checks made against them by these 
 creatures to have disadvantage. This protection also prohibits these creatures
@@ -1910,7 +1910,7 @@ Description:
 You touch one corpse and place 2 silver coins over its eyes. For the duration
 of this spell the corpse is proofed against decay and cannot be raised as 
 undead. Days spent under the effects of this spell do not count against spells 
-with time limits such as ressurection
+with time limits such as raise dead.
 
 ```
 
@@ -3308,17 +3308,14 @@ ends.
 
 Dimension Door (4th) (8)
 
-Range: Unlimited
+Range: Touch/Self
 Components: V/S
-Duration: concentration up to 10 minutes
+Duration: instantaneous
 Casting Time: 1 action
 Description:
-This spell allows you to open a doorway 20 feet wide by 30 feet tall at a point
-within 100 feet. This doorway leads to an area you can visualize, can see, or
-a point you describe based off of distance from your current position. 
-
-The doorway remains for the duration and creatures may pass through it to the 
-area described and back to the location of casting as they please for that time.
+You instantly teleport to a point you are familiar with of your choice, this 
+point may even be on another plane. You may also touch one creature and teleport
+them to this point with you.
 
 ```
 
@@ -3563,7 +3560,7 @@ Duration: concentration up to 1 hour
 Casting Time: 1 action
 Description:
 You attempt to magically transform one creature within range into a beast of
-your choice. An unwilling targetmust make a charisma saving throw or be 
+your choice. An unwilling target must make a charisma saving throw or be 
 transformed against their will.
 
 The transformation lasts until the spell ends, or until the target drops to or
@@ -3729,7 +3726,8 @@ Casting Time: 1 action
 Description:
 You summon a devil of danger level 4 or lower. The devil is under your control
 for an hour and is capable of performing verbal commands for that duration.
-After an hour the devil is free to act as it wishes on your plane.
+After an hour the devil is free to act as it wishes on your plane. The devil
+appears at a point within 30 feet.
 
 ``` 
 
@@ -3763,13 +3761,362 @@ invisible objects. The wisdom save's DC may be modified by the following:
 
 Conjure Demon (5th) (1)
 
-Range: 
+Range: 30 feet
 Components: V/S/M (an item inscribed with a demon's true name)
 Duration: 1 hour
 Casting Time: 1 action
 Description:
 You summon a demon of danger level 5 or lower. The demon is under your control
 for an hour and is capable of performing verbal commands for that duration.
-After an hour the demon is free to act as it wishes on your plane.
+After an hour the demon is free to act as it wishes on your plane. The demon
+appears at a point within 30 feet.
 
 ``` 
+
+```
+
+Summon Undead Horde (5th) (2)
+
+Range: 200 Feet
+Components: V/S
+Duration: 1 week
+Casting Time: 10 minutes
+Description:
+Over the course of ten minutes you attempt to summon an undead army to serve 
+whatever dark needs require such measures. 6d6+6 zombies and skeletons of 
+various body types raise from the ground in a 30 foot radius area within range,
+forming a multitude of fissures. Any creature caught in the area of these 
+fissures when formed must make a dexterity saving throw or become restrained, 
+freeing themselves on a successful athletics check against your spellcasting DC.
+The raised dead are under your command for a week, after which time they roam
+the world and do as they please. Undead above 0 hitpoints created by this spell 
+may be healed for 1d6 hitpoints when mending is cast on them.
+
+```
+
+```
+
+Disintegrate (5th) (3)
+
+Range: 120 feet
+Components: V/S
+Duration: Instantaneous
+Casting Time: 1 action
+Description:
+You point at one creature within range, sending out a thrashing bolt of 
+destructive energy in an attempt to vaporize them. The target must make a 
+constitution saving throw or take 10d8 + 20 Damage or half as much on a success. 
+A creature reduced to 0 or lower hitpoints by this spell is vaporized and falls 
+under the obliterated status effect.
+
+```
+
+```
+
+Time Stop (5th) (4)
+
+Range: self
+Components: V/M (an hourglass which is broken during casting) 
+Duration: 5 turns
+Casting Time: 1 action
+Description:
+You shatter an hourglass and stop time for 5 turns. During these 5 turns you may
+take your actions and movement normally but no other creature may act for the 
+duration. Any actions taken during the duration of this spell will take place 
+after the spell ends. 
+
+You may end the spell early by saying "Time will begin to move again".
+
+```
+
+```
+
+Rite of the Power (5th) (5)
+
+Range: Self
+Components: V 
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You recite a prayer to envelop yourself in your accumulated grace, momentarily
+granting you the strength of the Powers, an order of angel dedicated to order
+and the vanquishing of evil. In order to cast this spell you must recite aloud
+a desperate selfless prayer for the sake of others, for example: 
+"Oh LORD, MY LORD; Unto you I grant my eternal, for your grace to save us all."
+If you recite your prayer and the GM decides it would make sense for your god to
+come to your aid, your eyes begin to glow with a golden-red light and you gain
+three of the following effects:
+
+- As a bonus action you may summon a melee weapon made of light to your 
+hand, capable of being used to make a spell attack against one target within 20 
+feet for 4d8 + your casting modifier radiant damage on a hit. 
+- You gain wings with a span twice the length of your arms, granting you a
+flying speed of 80 feet.
+- You grow a size and gain an additional 20 feet of movement.
+- As a bonus action you may summon a ranged weapon made of light to your hand,
+capable of being used to make a ranged spell attack againt one target within 960
+feet for 8d4 + your casting modifier radiant damage on a hit.
+- As an action you may touch the forehead of a creature and force them to make
+a constitution saving throw or take 4d10+10 radiant damage or half as much on a
+success.
+
+You also gain 2d10+20 temporary hitpoints for the duration. You may end this 
+spell early as an action. The spell may last longer than the listed duration at
+the discretion of your GM.
+
+```
+
+```
+
+Judgement (5th) (6)
+
+Range: touch
+Components: S
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You attempt to touch one creature within range, attempting to act as a vessel
+for the judgement of your god. If your god would be indifferent or pleased with 
+their non-existance (as determined by your GM) the target must make a 
+constitution saving throw or take 10d10+20 radiant damage, taking half as much
+on a success. If the target is reduced to or below 0 hitpoints they are damned 
+to hell. 
+
+```
+
+```
+
+Gateway (5th) (7)
+
+Range: Unlimited
+Components: V/S/M (an item worth 1000 GP)
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+This spell allows you to open a gateway 20 feet wide by 30 feet tall at a point
+within 100 feet. This doorway leads to an area you can visualize, can see, or
+a point you describe based off of distance from your current position. 
+
+The doorway remains for the duration and creatures may pass through it to the 
+area described and back to the location of casting as they please for that time.
+
+```
+
+```
+
+Perish (5th) (8)
+
+Range: 60 feet
+Components: V
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You simply speak the word "perish", laced with magical power, at one creature 
+within range. If the target currently has 80 hitpoits or less they fall dead.
+
+```
+
+```
+
+Invincibility (5th) (9)
+
+Range: Touch
+Components: V/S/M (A bar of dreadite valued at 1000 GP)
+Duration: 10 minutes
+Casting Time: 1 action
+Description:
+You touch one creature and make them immune to all forms of damage for the 
+duration.
+
+```
+
+```
+
+Heal (5th) (10)
+
+Range: 300 feet
+Components: V
+Duration: instantaneous
+Casting Time: 1 action
+Description:
+You conjure a massive amount of healing energy that washes over any amount of 
+creatures of your choice within range. You heal 500 hitpoints, spread as you
+wish amongst the targets.
+
+```
+
+```
+
+Shapeshift (5th) (11)
+
+Range: Self
+Components: V/S
+Duration: 1 hour
+Casting Time: 1 action
+Description:
+You transform into one creature of your choice, assuming their stats other than
+mental ones, just the same as a polymorph spell.
+
+```
+
+```
+
+Regenerate (5th) (12)
+
+Range: touch
+Components: V/S
+Duration: 8 hours
+Casting Time: 1 action
+Description:
+You touch one creature, heightening their natural regeneration. The target
+instantly gains 3d10+10 hitpoints and regains 1d6 hitpoints on the start of
+each of their turns. The target also grows back any lost bodily members over 
+the course of 10 minutes and is cured of any diseases or parasites that afflict
+them.
+
+```
+
+```
+
+Raise Dead (5th) (13)
+
+Range: touch
+Components: V/S
+Duration: instantaneous
+Casting Time: 10 minutes 
+Description:
+You perform a ritual to return one creature to life. The target does not 
+regenerate any missing body parts and the spell fails if they are missing vital
+organs or have been dead for more than 1 year. The target has a -8 to all checks
+and saving throw which is reduced by 1 each rest (ex: 7 after 1 rest, 6 after 2).
+
+```
+
+#6th Level Spells
+
+## 6th level spells Disclaimer
+6th level spells are not intended to be balanced 
+
+```
+
+Black Hole (6th) (1)
+
+Range: 300 feet
+Components: V/S/M (a vial of antimatter)
+Duration: concentration up to 10 minutes
+Casting Time: 1 action
+Description:
+You open a gateway to a black hole in a distant place among the farlands. A 100
+foot radius sphere appears at a point within range, light cannot exist in the
+area and all creatures in the area take 20 force damage. The effect pulls 
+anything within 10 miles 60 feet closer each round. When a creature enters the 
+area of the black hole or starts their turn there, they take 20 force damage. A 
+creature reduced to or below 0 hitpoints is obliterated. Once a creature moves 
+closer to the black hole they may not return to or past the distance that 
+they were previously at. A creature being pulled by the black hole may use
+their action on their turn to grab onto something sturdy and make an athletics 
+check against your spell DC, not being moved by the black hole on a success, 
+they may repeat this check every turn that the blackhole is at play.
+
+```
+
+```
+
+Seraphic Transformation (6th) (2)
+
+Range: self
+Components: V/S/M (the blood of an angel)
+Duration: Instantaneous
+Casting Time: 1 action
+Description:
+You sing praise to your god, with the intent to evoke their wrath upon your
+enemies. You explode into light becoming a seraphim for a mere moment and then 
+dying instantly, causing all creatures within 120 feet of you to take 1000 
+radiant damage. A creature reduced to or below 0 hitpoints by this spell is 
+obliterated. You may designate any amount of creatures to be spared by this 
+spell, only being reduced to 1 hitpoint if it would kill them.  
+
+```
+
+```
+
+Longevity (6th) (3)
+
+Range: self
+Components: V/S/M (the destroyed phylactery of a dead lich)
+Duration: instantaneous
+Casting Time: 10 minutes
+Description:
+Every humanoid within a 1 mile radius of you must make a constitution saving
+throw, on a failure they are instantly killed. Every creature that is killed by
+this spell adds a year to your natural lifespan.
+
+```
+
+```
+
+Time Jump (6th) (4)
+
+Range: 30 feet
+Components: V/S/M (the sands of time)
+Duration: instantaneous
+Casting Time: 10 minutes
+Description:
+You and up to five willing creatures in range are jolted backwards in time.
+You name a target time (ie "10 years ago", "year 400 of the dwarven empire").
+You and the creatures are removed from the current timeline, where it appears
+you have met a gruesome fate from the gem exploding. Roll on each time table to
+determine the magntiude and direction you miss your exact destination by. If you
+encounter an older version of yourself or an ancenstor and they are killed, you
+will continue to exist. You are now unbound by previous timelines.
+
+
+| Roll |        Magnitude        |
+| ---- | ----------------------- |
+|    1 | second                  |
+|    2 | year                    |
+|    3 | decade(10 years)        |
+|    4 | century(100 years)      |
+|    5 | millennium(1,000 years) |
+|    6 | Epoch(1,000,000)        |
+| ---- | ----------------------- |
+
+
+| Roll | Direction |
+| ---- | --------- |
+| 1-2  | Earlier   |
+| 3-4  | Later     |
+| ---- | --------- |
+
+```
+
+```
+
+Summon Leviathan (6th) (5)
+
+Range: 1 mile
+Components: V/S/M (The soul of a God)
+Duration: instantaneous
+Casting Time: 10 minutes 
+Description:
+You conjure a Leviathan, a remnant of a long dead reality, locked in the depths 
+of the abyss by The Gods. The leviathan appears through a portal large enough to 
+transport it at a point within 1 mile of the sky above you. The leviathan reacts 
+accordingly to being allowed free roam of the prime material plane, and may be
+pleased with your help, usually making your death a fast one as thanks. Roll 
+1d8 to determine the Leviathan you summon. If the god's soul used in casting 
+this spell is the soul of An'Ire the spell automatically summons The Nothing.
+
+| Roll | Result            |  
+| ---- | ----------------- |  
+| 1-2  |  The Nothing      |  
+|   3  |  The Hungry       |  
+|   4  |  The Hive         |    
+|   5  |  The Hanged Man   | 
+|   6  |  The Ambassador   |   
+|   7  |  The Nameless One |
+|   8  |  The Emperor      |  
+| ---- | ----------------- |  
+
+
+```

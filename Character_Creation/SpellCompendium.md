@@ -3992,7 +3992,7 @@ and saving throw which is reduced by 1 each rest (ex: 7 after 1 rest, 6 after 2)
 
 ```
 
-#6th Level Spells
+# 6th Level Spells
 
 ## 6th level spells Disclaimer
 6th level spells are not intended to be balanced 
@@ -4003,7 +4003,7 @@ Black Hole (6th) (1)
 
 Range: 300 feet
 Components: V/S/M (a vial of antimatter)
-Duration: concentration up to 10 minutes
+Duration: 10 minutes
 Casting Time: 1 action
 Description:
 You open a gateway to a black hole in a distant place among the farlands. A 100
@@ -4118,5 +4118,21 @@ this spell is the soul of An'Ire the spell automatically summons The Nothing.
 |   8  |  The Emperor      |  
 | ---- | ----------------- |  
 
+
+```
+
+```
+
+Grand Ressurrection (6th) (5)
+
+Range: Unlimited
+Components: V/M (A living soul which is obliterated during casting)
+Duration: instantaneous
+Casting Time: 10 minutes
+Description:
+You obliterate a soul within your posession and return one creature whos name
+you spoke aloud for the entire duration of casting this spell. The target 
+returns to life in perfect health and free of any curses in an area within 100
+feet of you.
 
 ```

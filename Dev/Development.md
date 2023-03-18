@@ -1,7 +1,16 @@
 # Active Development
 
 ## Alpha Release
-```[□□□□□□□□□□□□□□□□□□□□] 0% complete```
+```[█□□□□□□□□□□□□□□□□□□□] 5% complete```
+
+### ~~Complete Character Creation Document: Body Types~~
+~~Create a body type creation guide with a choice of body size, bodily features,
+and bodily ASI. 10+ bodily features each for Biological, Supernatural, and 
+Abiotic.~~
+
+### Complete Character Creation Document: Backgrounds
+Create an array of 10+ character backgrounds with each having roleplay 
+implications and granting features.
 
 ### Write Class: Warrior 
 (d10) Complete Warrior with 10+ unique manuevers based in strength and con.
@@ -43,15 +52,6 @@ of wisdom.
 points is possible but may cause corruptions. Sorcerous Techniques allow 
 sorcerer to augment spells with mana points. Mana points regained after a long
 rest.
-
-### Complete Character Creation Document: Body Types
-Create a body type creation guide with a choice of body size, bodily features,
-and bodily ASI. 10+ bodily features each for Biological, Supernatural, and 
-Abiotic.
-
-### Complete Character Creation Document: Backgrounds
-Create an array of 10+ character backgrounds with each having roleplay 
-implications and granting features.
 
 ### Complete Character Creation Document: Feats
 Create 10+ feats each for every category (40+ total). Categories include 

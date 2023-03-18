@@ -245,6 +245,13 @@ Adventuring is a dangerous job, remember to wear a helmet!
 | --------------- | -------- | ------------------------- | --------- | -------- | ------------ | ------ |
 ```
 
+### Armor Sizing
+Many characters may have more extreme sizes, meaning they cannot equip armor 
+unless it is specificially designed for them, requiring a different amount of 
+materials. For each size above medium multiply the cost by X + 1 where "X" is 
+the number of sizes above medium. For each size below small, multiply the cost
+by 1/(X+1) where "X" is the number of sizes lower than medium.
+
 ### Putting on and taking off armor
 It takes time to don and doff armor, you only recieve the effects of a set of
 armor after it has been fully donned. 
@@ -330,6 +337,14 @@ good for that!
 | ---------------------- | ----- | --------------- | ------- | --------------------------------------------------------------- |
 ```
 
+### Weapon Sizing
+Many characters may have more extreme sizes, meaning they cannot utilize weapons 
+unless they are specificially designed for them, requiring a different amount of 
+materials. For each size above medium multiply the cost and damage die of these 
+weapons by X + 1 where "X" is the number of sizes above medium. For each size 
+below small, multiply the cost by 1/(X+1) where "X" is the number of sizes lower 
+than medium. 
+
 ## Weapon properties
 
 ### Ammunition
@@ -375,7 +390,8 @@ You can throw thrown weapons to make a ranged Attack. You use the same modifier
 for the thrown attack as you would make for the melee attack.
 
 ### Two-handed
-This weapon requirees both hands to make attacks.
+This weapon requirees both hands to make attacks unless you have a strength 
+score of 22 or higher.
 
 ### Versatile
 This weapon can be used with one hand, or with two hands. The two-handed damage 

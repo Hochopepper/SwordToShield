@@ -2,6 +2,416 @@
 this document details all of the different types of bodies avaliable to players
 to choose from in character creation
 
-## Introduction to Body Types
-Body types determine your size and give you certain attributes related to your 
-physicality as well as giving you a modifier to your stats. 
+### Introduction to Body Type
+A body type is an expression of the size and natural abilities of your 
+character. Body types lack a name for each and instead can be described by a 
+name of your own creation, or a list of all the features of a given body type.
+
+### Ability Score Increase
+An ability score increase is an increase to your rolled (or bought) stats 
+determined by your unique physicality. ASIs are added after you roll your stats,
+meaning you may choose to allocate them where it would be most helpful to you. 
+
+### Important Note
+For the melee damage section of each body size there is a referenced "d1" you
+do not have to roll a one sided die for this and may simply use 1. The damage
+is only refered to in this way so that rulings that increase melee damage are
+easier to word. 
+
+# Body Size
+Choose one size from the following, this will determine your base melee damage, 
+some features, and what your ASI will look like. 
+
+## Tiny
+```
+Size: Tiny
+Speed: 20 Feet
+Height: Between 1 inch tall and 2 feet tall.
+Melee Damage: 1
+ASI: +4 to two seperate stats, -4 to another. (+4 +4 -4)
+Carry Weight (LBS): Strength Score * 2
+```
+
+### Tiny Build
+You have disadvantage on strength checks and saving throws and you cannot
+resist a grapple from a creature of Huge size or larger. Any melee attacks you
+make deal 1 damage on a hit.
+
+### Nimble Size
+You have advantage on dexterity checks and saving throws as well as a +10 to 
+stealth checks.
+
+### Abysmal Wielding
+Due to your size you are incapable of weilding any melee weapon without the 
+light property unless it is tailored to your size. You must use two hands to 
+wield any weapon not tailored to your size.
+
+## Small
+```
+Size: Small
+Speed: 25 Feet
+Height: Between 2 feet tall and 4 feet tall.
+Melee Damage: 1d1 + Strength Modifier
+ASI: +2 to two stats, -2 to another (+2 +2 -2)
+Carry Weight: Strength Score * 7
+```
+
+### Small Build
+You have disadvanatge when contesting strength checks against any creatures 
+larger than you.
+
+### Difficult Wielding
+You have disadvantage when making attacks with heavy melee weapons not tailored
+to your size.  
+
+## Medium
+```
+Size: Medium
+Speed: 30 feet
+Height: Between 4 feet and 9 feet tall.
+Melee Damage: 1d1 + Strength Modifier
+ASI: +2 to one stat, +1 to another (+2 +1) or +1 to three stats (+1 +1 +1)
+Carry Weight: Strength Score * 7
+```
+
+### Medium Build
+You have disadvantage when contesting strength checks against any creature of
+huge size or larger.
+
+## Large
+```
+Size: Large
+Speed: 35 feet
+Height: Between 9 feet and 15 feet tall.
+Melee Damage: 2d1 + Strength Modifier
+ASI: +2 to two stats, -2 to another (+2 +2 -2)
+Carry Weight: Strength Score * 21
+```
+
+### large Build
+You have advantage when contesting strength checks against any creatures smaller
+than you. Due to your size you may not be able to fit into smaller areas.
+
+### Easier Wielding
+You may wield a two handed weapon of medium or smaller size with one hand.
+
+## Huge
+```
+Size: Huge
+Speed: 40 feet
+Height: Betweem 15 feet and 25 feet tall.
+Melee Damage: 3d1 + Strength Modifier
+ASI: +4 to two stats, -4 to another (+4 +4 -4)
+Carry Weight: Strength Score * 63
+```
+
+### Huge Build
+You have advantage when making strength checks and saving throws. Due to your 
+size you may not be able to fit into most confined places.
+
+### Hearty Build
+Due to your impressive size you are a much easier target, giving you 
+disadvantage on dexterity saving throws. You also require 10x more food per day
+(10 pounds of food a day).
+
+### Effortless Wielding
+You may wield a two handed weapon of large or smaller size with one hand.
+
+# Bodily Features
+Choose an amount of bodily features from the following as decided by your GM. 
+Do note that you are allowed to reflavor these features as you wish and that
+they are merely worded in a way to be consice for rulings, rather than for fun,
+and in games fun is more important than rules.
+
+```
+
+Name: Protective Shell
+Description: 
+Your AC may not fall below 16.
+
+```
+
+```
+
+Name: Damage Type Resistance  
+Description: 
+You gain damage type resistance to one type of damage other than bludgeoning,
+peircing, or slashing damage.
+
+```
+
+```
+
+Name: Natural Armor
+Description: 
+You have a natural armor that grants you a base AC of 13. You may add your 
+dexterity modifier to this AC.
+
+```
+
+```
+
+Name: Slashing Natural Weapon
+Description: 
+You have some form of natural weapon which increases your unarmed damage die to
+a d6. You may make an attack as a bonus action with this weapon.
+
+```
+
+```
+
+Name: Piercing Natural Weapon
+Description: 
+You have some form of natural weapon which increases your unarmed damage die to
+a d8.
+
+```
+
+```
+
+Name: Retractable Natural Weapon
+Description: 
+You have some form of natural weapon which increases you unarmed damage die to a
+d4. this natural weapon is capable of being retracted or abjured as a bonus 
+action.
+
+```
+
+```
+
+Name: Climbing Speed 
+Description: 
+You gain a climbing speed equal to your walking speed
+
+```
+
+```
+
+Name: Wings 
+Description: 
+You gain a flying speed of 60 feet and your walking speed is reduced by 5.
+
+```
+
+```
+
+Name: Hover speed 
+Description: 
+You gain a flying speed equal to your walking speed & remain floating in the air
+even if you are rendered prone while in the air.
+
+```
+
+```
+
+Name: Swimming Speed 
+Description: 
+You gain a simming speed equal to your walking speed
+
+```
+
+```
+
+Name: Innate Casting
+Description: 
+You gain one cantrip and use your choice of Constitution, Intelligence, Wisdom
+or Charisma as your casting modifier. When you cast this spell you expend one
+hit die. 
+
+```
+
+```
+
+Name: Constructed
+Description: 
+You are an automaton a or some other kind of abiotic life, which requires upkeep
+in different ways compared to biotic life. You do not need to breath or eat and
+are unaffected by extreme temperature weather conditions. You are also immune to 
+poison damage and the poisoned effect as well as disease. Rather than being the 
+same as those listed in the core rules, your ammenities are as follows:
+
+- Pound of scrap material
+- Liter of oil
+- Tinker's Tools
+- Smithing Tools
+- Fire
+- Extra pound of scrap material
+- Extra liter of oil
+- Sealing Wax
+- Mechanic to operate on You
+- Access to a mechanic's workstation
+
+```
+
+```
+
+Name: Undead
+Description: 
+You are an undead creature. Created by magic, science, or otherwise, you require
+different things to survive compared to your living counterparts. You do not 
+need to breathe or eat standard foods and you are unaffected by extreme 
+temperature weather conditions. You are also immune to poison damage and the 
+poisoned effect as well as disease. Your ammenities are as follows:
+
+- A pound of fresh meat
+- A liter of blood
+- Extra pound of fresh meat
+- Extra liter of blood
+- A totem
+- Sealing wax
+- Herbalism Kit
+- Medical Kit
+- A necromancer
+- Access to a necromancer's workstation
+
+```
+
+```
+
+Name: Additional Arms
+Description:
+You have an additional set of arms, you are capable of making a weapon attack
+as a bonus action if you wield them in these arms or you may use them to wield
+a shield.
+
+```
+
+```
+
+Name: Reach
+Description:
+You gain an extra melee reach of 5 feet.
+
+```	
+
+```
+
+Name: Strong Build
+Description:
+Your Pushing, Carrying, and Lifting capacity is multiplied by 3.
+
+```
+
+```
+
+Name: Shapeshifting
+Description:
+As an action you may change your appearance and voice, it may be an apperance 
+and voice of your own creation or the apperance and voice of another person.
+You may alter your size to be one size larger or smaller than your current size
+but you gain no benefits from altering your size and you cannot be made a size
+larger than huge or smaller than tiny. Your clothing is unaffected by this 
+change.
+
+```
+
+```
+
+Name: Gills
+Description:
+You are capable of breathing underwater.
+
+```
+
+```
+
+Name: Breath Holding
+Description: 
+You are capable of holding your breath for long periods of time, up to 1 hour.
+
+```
+
+```
+
+Name: Keen Smell
+Description:
+You have advantage on checks that rely on smell.
+
+```
+
+```
+
+Name: Keen sight
+Description:
+You have advantage on checks that rely on sight.
+
+```
+
+```
+
+Name: Keen Hearing
+Description:
+You have advantage on checks that rely on hearing.
+
+```
+
+```
+
+Name: Darkvision
+Description:
+You can see in darkness within 60 feet of you as if it is bright light and 
+darkness past that as dim light. You may or may not be able to discern colors
+in complete darkness, as decided between you and your GM.
+
+```
+
+```
+
+Name: Agile
+Description:
+You may expend a hit die and double your movement speed for your turn once per
+rest.
+
+```
+
+```
+
+Name: Nimble
+Description:
+You may disengage or hide as a bonus action on your turn.
+
+```
+
+```
+
+Name: Damage Immunity
+Description:
+You have immunity to one type of damage from Fire, Cold, Lightning, Poison, or
+Acid damage. Ask your GM for premission before taking this feature.
+
+```
+
+```
+
+Name: Charm Resistance
+Description:
+You have Advantage on saves against being charmed.
+
+```
+
+```
+
+Name: Magic Resistance 
+Description:
+You have Advantage on saves made against magical sources.
+
+```
+
+```
+
+Name: Toughness
+Description:
+You gain 1 maximum hitpoint each level.
+
+```
+
+```
+
+Name: Mimicry
+Description:
+You are capable of perfectly reproducing any sound which you have heard before.
+A creature must make an investigation check against your charisma or 
+intelligence + 8 + your prof in order to determine the noise was mimicry.    
+
+```
+

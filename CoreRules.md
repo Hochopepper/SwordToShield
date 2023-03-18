@@ -569,6 +569,7 @@ euphoric
 - A low creature must succeed a DC 16 constitution save every minute or fall
 asleep for 12 hours
 - A low creature has disadvantage on all rolls
+- The low status effect ends 24 hours after being afflicted
 
 # Adventuring
 Adventuring is the core of the game! seeing places, meeting interestig people 

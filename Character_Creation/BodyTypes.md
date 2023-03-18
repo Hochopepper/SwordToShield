@@ -350,8 +350,9 @@ You have advantage on checks that rely on hearing.
 Name: Darkvision
 Description:
 You can see in darkness within 60 feet of you as if it is bright light and 
-darkness past that as dim light. You may or may not be able to discern colors
-in complete darkness, as decided between you and your GM.
+darkness past that as dim light. You see in dim light as if it is bright light 
+You may or may not be able to discern colors in complete darkness, as decided 
+between you and your GM.
 
 ```
 

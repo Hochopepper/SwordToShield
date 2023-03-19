@@ -1174,7 +1174,7 @@ Components: V/S
 Duration: concentration up to a minute
 Casting Time: 1 bonus action
 Description:
-You touch one creature, the next time during the duration fo the spell that the
+You touch one creature, the next time during the duration for the spell that the
 target hits a creature with a weapon attack the target of the attack is wrapped
 in thorny vines and must make a strength saving throw or be restrained until the
 spell ends. Creatures larger than the target of this spell have advantage on

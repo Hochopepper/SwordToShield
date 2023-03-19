@@ -47,7 +47,7 @@ SL = Maximum spell level
 +-----+-------+----+-----+----------+------------------------------------------+
 | LVL | XP    | HD |Prof |  SL      |        Features                          |
 +-----+-------+----+-----+----------+------------------------------------------|
-|   1 |     0 | 2  | +1  |  Cantrip | Holy Order Grace Casting, Grace,         |
+|   1 |     0 | 2  | +1  |  Cantrip | Holy Order, Grace Casting, Grace,        |
 |   2 |   300 | 4  | +1  |  1       | Hitpoint Increase                        |
 |   3 |   900 | 6  | +2  |  2       | Hit point Increase                       |
 |   4 |  1800 | 8  | +2  |  2       | Hit point re-roll                        |
@@ -56,7 +56,7 @@ SL = Maximum spell level
 |   7 |  9100 |14  | +3  |  4       |                                          |
 |   8 | 13100 |16  | +3  |  4       | Ability Score Increase                   |
 |   9 | 22600 |18  | +4  |  5       |                                          |
-|  10 | 44600 |20  | +4  |  6       | Order Boon, Epic Spells                  |
+|  10 | 44600 |20  | +4  |  6       | Order Boon                               |
 +-----+-------+----+-----+----------+------------------------------------------+
 
 ```
@@ -424,106 +424,106 @@ other.
 # Priest Spell List
 
 ## Cantrips
-Light
-Guidance
-Swarm
-Mending
-Save the Dying
-Prestidigitation
-Toll the Dead
-Sacred Flame
-Radiant Word
-Lay on Hands
+- Light
+- Guidance
+- Swarm
+- Mending
+- Save the Dying
+- Prestidigitation
+- Toll the Dead
+- Sacred Flame
+- Radiant Word
+- Lay on Hands
 
 ## 1st Level Spells
-Faith's Shield
-Bane
-Bless
-Command
-Cure Wounds
-Detect Good and Evil
-Detect poison and disease
-Divine Favor
-Glowing Lights
-Fast Feast
-Guiding Bolt
-Heroism
-Inflict Wounds
-Proof Against Good and Evil
-Purify
-Sanctuary
+- Faith's Shield
+- Bane
+- Bless
+- Command
+- Cure Wounds
+- Detect Good and Evil
+- Detect poison and disease
+- Divine Favor
+- Glowing Lights
+- Fast Feast
+- Guiding Bolt
+- Heroism
+- Inflict Wounds
+- Proof Against Good and Evil
+- Purify
+- Sanctuary
 
 ## 2nd Level Spells
-Envitalize
-Omen
-Blindness and Deafness
-Calm
-Darkness
-Darkvision
-Enhance Ability
-Enthrall
-Repose
-Heat Metal
-Knock
-Lesser Restoration
-Magic Weapon
-Healing Prayer
-Lesser Truesight
-Shatter
-Silence
-Spiritual Weapon
-Bond
-Zone of Truth
-Wither
-Diagnose Affliction
+- Envitalize
+- Omen
+- Blindness and Deafness
+- Calm
+- Darkness
+- Darkvision
+- Enhance Ability
+- Enthrall
+- Repose
+- Heat Metal
+- Knock
+- Lesser Restoration
+- Magic Weapon
+- Healing Prayer
+- Lesser Truesight
+- Shatter
+- Silence
+- Spiritual Weapon
+- Bond
+- Zone of Truth
+- Wither
+- Diagnose Affliction
 
 ## 3rd Level Spells
-Animate Dead
-Aura of Vitality
-Beacon of Hope
-Curse
-Clairvoyance
-Create Food and Water
-Dispel Magic
-Elemental Weapon
-Fear
-Feign Death
-Haste
-Klenne's Tiny Hut
-Magic Circle
-Healing Words
-Sending
-Slow
-Speak with Dead
-Gaurdians
-Stinking Cloud
-Tongues
-Water Walk
-Beacon of Fate
+- Animate Dead
+- Aura of Vitality
+- Beacon of Hope
+- Curse
+- Clairvoyance
+- Create Food and Water
+- Dispel Magic
+- Elemental Weapon
+- Fear
+- Feign Death
+- Haste
+- Klenne's Tiny Hut
+- Magic Circle
+- Healing Words
+- Sending
+- Slow
+- Speak with Dead
+- Gaurdians
+- Stinking Cloud
+- Tongues
+- Water Walk
+- Beacon of Fate
 
 ## 4th Level Spells
-Aura of Life
-Banish
-Confusion
-Control Water
-Death Ward
-Dimension Door
-Divination
-Beguile Creature
-Giant Bug
-Gaurdian of Faith
-Bubble
-Nightmare
-Awaken
-Cloudkill
-Restoration
-Revivify
-Antimagic Field
+- Aura of Life
+- Banish
+- Confusion
+- Control Water
+- Death Ward
+- Dimension Door
+- Divination
+- Beguile Creature
+- Giant Bug
+- Gaurdian of Faith
+- Bubble
+- Nightmare
+- Awaken
+- Cloudkill
+- Restoration
+- Revivify
+- Antimagic Field
 
 ## 5th Level Spells
-Rite of The Power
-Judgement
-Gateway
-Heal
-Regenerate
-Raise Dead
+- Rite of The Power
+- Judgement
+- Gateway
+- Heal
+- Regenerate
+- Raise Dead

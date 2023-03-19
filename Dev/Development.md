@@ -1,7 +1,7 @@
 # Active Development
 
 ## Alpha Release
-```[███□□□□□□□□□□□□□□□□□] 15% complete```
+```[████□□□□□□□□□□□□□□□□] 20% complete```
 
 ### ~~Complete Character Creation Document: Body Types~~
 ~~Create a body type creation guide with a choice of body size, bodily features,
@@ -18,10 +18,10 @@ implications and granting features.
 ### ~~Write Class: Rogue~~
 ~~(d6) Complete Rogue with 10+ Techniques based on sleight/cunning~~
 
-### Write Class: Priest
-(d4) Complete Priest, Class which gains resource called "faith" through actions 
+### ~~Write Class: Priest~~
+~~(d4) Complete Priest, Class which gains resource called "faith" through actions 
 seen as morally just to their god, with the priest being capable of casting with
-this resource. Max Casting level 5
+this resource. Max Casting level 5~~
 
 ### Write Class: Wizard
 (d4) Complete Wizard, Spellcaster who must prepare all their spells during a 
@@ -72,8 +72,8 @@ bestiary
 Complete 15+ stat blocks for creatures in the Beasts category of the 
 bestiary
 
-### Write Bestiary Entry: Humanoids
-Complete 15+ stat blocks for creatures in the Humanoids category of the 
+### Write Bestiary Entry: Humans
+Complete 15+ stat blocks for creatures in the Humans category of the 
 bestiary
 
 ### Write Bestiary Entry: Undead

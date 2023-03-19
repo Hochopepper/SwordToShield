@@ -424,8 +424,8 @@ Sands of Time
 Attunement Time: 1 week (spent counting grains inside the glass for at least 16 hours a day)
 Description:
 The Sands of Time are contained within an hour glass and are closely gaurded by
-the god of time Chronalia in the heavens. If someone were to manage to steal
-the sands of time, they could turn the hour glass upside down and reverse time 
+the god of time Eos in the heavens. If someone were to manage to steal the sands 
+of time, they could turn the hour glass upside down and reverse time 
 around them as far back as they want. While attuned to this item you innately 
 know which way is right side up for the hour glass and you become immortal. As 
 an action you may turn the glass, causing time to reverse around you at the same 

@@ -940,7 +940,7 @@ saving throw; removing the result from the total.
 
 ```
 
-Bane (1st) (11)
+Bless (1st) (11)
 
 Range: 30 feet
 Components: V
@@ -2390,7 +2390,7 @@ lasts 24 hours. a curse cast at 6th level lasts 1 year.
 
 ```
 
-Blink (2nd) (ritual) (5)
+Blink (3rd) (ritual) (5)
 
 Range: Self
 Components: V
@@ -2406,7 +2406,7 @@ all the movement you took for the duration.
 
 ```
 
-Call Lightning (2nd) (6)
+Call Lightning (3rd) (6)
 
 Range: Self/60 foot sphere
 Components: V/S
@@ -2541,7 +2541,8 @@ Casting Time: 1 action
 Description:
 A 60 foot radius sphere of magical light expands from a point within range. 
 The area of this sphere is bright light and the sphere sheds an additional 120 
-feet of dim light in all directions.
+feet of dim light in all directions. Undead creatures in the area during casting
+take 20 radiant damage.
 
 ```
 
@@ -2639,7 +2640,8 @@ Casting Time: 1 action
 Description:
 You touch a creature and they gain the ability to fly through magical means. The
 target gains 60 feet of flying speed for the duration. If the spell ends and the
-target is still in the air, they fall normally.
+target is still in the air, they fall normally. You choose the appearance of
+the means through which the target gains this flying speed. 
 
 ```
 
@@ -2710,7 +2712,7 @@ of the spell the target gains the following:
 
 ```
 
-Hunger of Horros (3rd) (22)
+Hunger of Horrors (3rd) (22)
 
 Range: 200 feet
 Components: V
@@ -3981,7 +3983,7 @@ them.
 Raise Dead (5th) (13)
 
 Range: touch
-Components: V/S
+Components: V/S/M (A gem worth 1000 GP)
 Duration: instantaneous
 Casting Time: 10 minutes 
 Description:

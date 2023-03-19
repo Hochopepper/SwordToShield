@@ -90,7 +90,9 @@ Carry Weight: Strength Score * 21
 
 ### large Build
 You have advantage when contesting strength checks against any creatures smaller
-than you. Due to your size you may not be able to fit into smaller areas.
+than you. Due to your size you may not be able to fit into smaller areas. You 
+start with 5 additional hitpoints and gain an additional 2 hitpoints each time
+you roll hit dice to increase your maximum hitpoints.
 
 ### Easier Wielding
 You may wield a two handed weapon of medium or smaller size with one hand.
@@ -109,10 +111,11 @@ Carry Weight: Strength Score * 63
 You have advantage when making strength checks and saving throws. Due to your 
 size you may not be able to fit into most confined places.
 
-### Hearty Build
+### Hearty Size
 Due to your impressive size you are a much easier target, giving you 
 disadvantage on dexterity saving throws. You also require 10x more food per day
-(10 pounds of food a day).
+(10 pounds of food a day). Your starting hitpoints are also doubled and you 
+roll two times the number of hit dice when rolling for hitpoint increases.
 
 ### Effortless Wielding
 You may wield a two handed weapon of large or smaller size with one hand.

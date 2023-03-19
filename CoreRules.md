@@ -571,6 +571,21 @@ asleep for 12 hours
 - A low creature has disadvantage on all rolls
 - The low status effect ends 24 hours after being afflicted
 
+### Exhausted
+Exhaustion works in stages and goes back one stage each rest a creature takes.
+Refer to the following chart for the stages of exhaustion:
+
+```
+|  Stage  |  Effects                                                    |
+| ------- | ----------------------------------------------------------- |
+|  1      |  Disadvantage on ability checks                             |
+|  2      |  Movement speed halved, Disadvantage on attack rolls        |
+|  3      |  Maximum hitpoints halved                                   |
+|  4      |  Disadvantage on saving throws                              |
+|  5      |  Collapse into sleep for 12 hours                           |
+| ------- | ----------------------------------------------------------- |
+```
+
 # Adventuring
 Adventuring is the core of the game! seeing places, meeting interestig people 
 and killing them! Here are the guidlines for adventuring:

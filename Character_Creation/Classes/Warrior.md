@@ -51,7 +51,7 @@ WM = Warrior Maneuvers Known
 |   3 |   900 | 6  | +2  |  2    | Hit point Increase                    |
 |   4 |  1800 | 8  | +2  |  3    | Hit point re-roll                     |
 |   5 |  3600 |10  | +2  |  4    | Ability Score Increase                |
-|   6 |  6100 |12  | +2  |  4    | Extra Attack,                         |
+|   6 |  6100 |12  | +2  |  4    | Extra Attack                          |
 |   7 |  9100 |14  | +3  |  5    |                                       |
 |   8 | 13100 |16  | +3  |  5    | Expertise, Ability Score Increase     |
 |   9 | 22600 |18  | +4  |  6    |                                       |
@@ -61,8 +61,9 @@ WM = Warrior Maneuvers Known
 ```
 
 ### Unyielding
-When you drop to or below 0 hitpoints you may expend a hit die and roll it, 
-adding the result to your current hitpoints. You may only do this once per rest.
+When you drop to or below 0 hitpoints you may use a reaction to expend a hit die
+and roll it, adding the result to your current hitpoints. You may only do this 
+once per rest.
 
 ### Warrior Maneuvers 
 You have been trained in the art of war and know a tricks in order to sway 
@@ -164,7 +165,7 @@ not effected by exaustion while frenzied.
 
 ### Unstoppable (9th Level)
 When you are reduced to or below 0 hitpoints you may expend your remaining hit 
-dice or 10 hit dice (whichever is a larger amount) and stand back up with half
+dice or 10 hit dice (whichever is a smaller amount) and stand back up with half
 your maximum hitpoints.
 
 ### Herculean (9th Level)

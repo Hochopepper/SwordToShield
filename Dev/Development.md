@@ -1,7 +1,7 @@
 # Active Development
 
 ## Alpha Release
-```[█□□□□□□□□□□□□□□□□□□□] 5% complete```
+```[███□□□□□□□□□□□□□□□□□] 15% complete```
 
 ### ~~Complete Character Creation Document: Body Types~~
 ~~Create a body type creation guide with a choice of body size, bodily features,
@@ -12,11 +12,11 @@ Abiotic.~~
 Create an array of 10+ character backgrounds with each having roleplay 
 implications and granting features.
 
-### Write Class: Warrior 
-(d10) Complete Warrior with 10+ unique manuevers based in strength and con.
+### ~~Write Class: Warrior~~
+~~(d10) Complete Warrior with 10+ unique manuevers based in strength and con.~~
 
-### Write Class: Rogue
-(d8) Complete Rogue with 10+ Techniques based on sleight/cunning
+### ~~Write Class: Rogue~~
+~~(d6) Complete Rogue with 10+ Techniques based on sleight/cunning~~
 
 ### Write Class: Priest
 (d4) Complete Priest, Class which gains resource called "faith" through actions 

@@ -11,8 +11,8 @@
 You are a trained force of war, proficient in many forms of combat. War is your
 art and the battlefield is your canvas.
 
-## Hit Die.
-Your hit die is a D10
+## Hit Die
+Your hit die is a d10
 
 ## Starting Hitpoints
 Your starting hitpoints are 10 + your constitution modifier

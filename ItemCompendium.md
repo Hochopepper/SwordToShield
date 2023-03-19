@@ -147,8 +147,9 @@ Adventuring necessitates equipment.
 | Spyglass                    | 1,000 gp| 1 lb.  |
 | Tent, two-person            | 2  gp   | 20 lb. |
 | Tinderbox                   | 5  sp   | 1 lb.  |
-| Tools, Tinker's             | 10 gp   | 10 lb  |
-| Tools, Smith's              | 15 gp   | 10 lb  |
+| Tools, Tinker's             | 10 gp   | 10 lb. |
+| Tools, Smith's              | 15 gp   | 10 lb. |
+| Tools, Lockpicking          | 25 gp   | 5 lb.  |
 | Torch                       | 1  cp   | 1 lb.  |
 | Vial                        | 1  gp   | —      |
 | Whetstone                   | 1  cp   | 1 lb.  |

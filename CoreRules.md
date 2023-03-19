@@ -388,9 +388,11 @@ hidden behind full cover.
 ## Hitpoints
 Hitpoints are a measure of your physical wellbeing and consciousness. When your
 hitpoints drop to 0 or lower you fall unconcious. If you have 0 or fewer 
-hitpoints on your turn you must expend a hit dice and regain an amount of 
-hitpoits equal to your roll, if you are at 0 hitpoints and have no hit dice on 
-the start of your turn you die.
+hitpoints on your turn you must expend a hit dice and roll a d20, an 11 or 
+higher is considiered a success. On 3 Culminative successes you survive, On 3
+culminative failures you die. if you are at 0 hitpoints and have no hit dice on 
+the start of your turn you die. If you sustain damage greater than 2x your 
+maximum hitpoints you die instantly.
 
 ### VARIANT RULE: Conscious At No Health
 Rather than passing out immediatly at 0 or fewer hitpoints you may make a health

@@ -1,7 +1,7 @@
 # Active Development
 
 ## Alpha Release
-```[████□□□□□□□□□□□□□□□□] 20% complete```
+```[█████□□□□□□□□□□□□□□□] 25% complete```
 
 ### ~~Complete Character Creation Document: Body Types~~
 ~~Create a body type creation guide with a choice of body size, bodily features,
@@ -23,11 +23,11 @@ implications and granting features.
 seen as morally just to their god, with the priest being capable of casting with
 this resource. Max Casting level 5~~
 
-### Write Class: Wizard
-(d4) Complete Wizard, Spellcaster who must prepare all their spells during a 
+### ~~Write Class: Wizard~~
+~~(d4) Complete Wizard, Spellcaster who must prepare all their spells during a 
 long rest with exact amounts of "glyphs" they are capabel of writing in their
 spellbook. Capable of preparing many low level spells, a few mid range spells,
-or one high level spell. Max casting level 6 (At great physical toll)
+or one high level spell. Max casting level 6 (At great physical toll)~~
 
 ### Write Class: Warlock
 (d6) Complete Warlock, Class which gains a casting resource called "obediance"

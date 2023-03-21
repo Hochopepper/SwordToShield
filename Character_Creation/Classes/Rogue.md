@@ -15,10 +15,10 @@ masts of ships, or robbing nobles, or assassinating political figures.
 Regardless of intent, the name of the game is always the same: Dont get Caught.
 
 ## Hit Die
-Your hit die is a d6
+Your hit die is a d8
 
 ## Starting Hitpoints
-You start with 6 + your constitution modifier hitpoints.
+You start with 8 + your constitution modifier hitpoints.
 
 ## Skills
 You gain proficiency in 4 skills of your choice. 
@@ -40,10 +40,10 @@ You gain proficiency in 4 skills of your choice.
 
 ```
 
-LVL = level
-XP = total experience points needed for level
+LVL = Level
+XP = Total Experience For Level              
 HD = Hit Dice
-Prof = proficiency bonus
+Prof = Proficiency Bonus
 RT = Rogue Techniques Known 
 +-----+-------+----+-----+-------+---------------------------------------+
 | LVL | XP    | HD |Prof |  RT   |        Features                       |
@@ -73,10 +73,10 @@ and learn another one each time you level up after 2nd. Refer to the rogue
 techniques column of the chart to know how many you currently have.
 
 ### Hitpoint increase
-Your hitpoints increase by 1d6 + your constitution modifier.
+Your hitpoints increase by 1d8 + your constitution modifier.
 
 ### Hitpoint re-roll
-Roll 3d6 and add 3 times your constitution modifier. If the result is 
+Roll 3d8 and add 3 times your constitution modifier. If the result is 
 higher than your current maximum that becomes your new hitpoint maximum
 
 ### Ability Score Increase

@@ -297,8 +297,10 @@ unless the weapon or ability states otherwise.
 
 #### Casting a Spell
 When casting a spell as an action, refer to the spell's listing in the spell
-compendium and follow the instructions listed. Spell will reference many
-parameters as shorthand, the full explainations are as follows:
+compendium and follow the instructions listed. If a spell refers to a spell 
+attack, whether ranged or melee, the modifier for this attack is your 
+spellcasting ability modifier + your proficiency bonus. Spell will reference 
+many parameters as shorthand, the full explainations are as follows:
 
 ##### Spell Range
 For a spell to target a creature or object it must be within the spell's range

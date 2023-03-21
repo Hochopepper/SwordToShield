@@ -318,7 +318,7 @@ good for that!
 | Scimitar               | 25 gp | 1d6 slashing    | 3 lb.   | Finesse, light                       |
 | Shortsword             | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, light                       |
 | Trident                | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)|
-| War pick               | 5 gp  | 1d8 piercing    | 2 lb.   |                                      |
+| War pick               | 5 gp  | 1d8 piercing    | 2 lb.   | Versatile (1d10)                     |
 | Warhammer              | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                     |
 | Greathammer            | 30 gp | 3d4 bludgeoning | 9 lb.   | Two-handed, Heavy, Stagger           |
 | Whip                   | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                       |

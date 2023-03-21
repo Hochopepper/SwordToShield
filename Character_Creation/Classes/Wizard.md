@@ -39,14 +39,14 @@ mana.
 
 ```
 
-LVL = level
-XP = total experience points needed for level
+LVL = Level
+XP = Total Experience For Level              
 HD = Hit Dice
-Prof = proficiency bonus
+Prof = Proficiency Bonus
 MSG = Maximum Spell Glyphs
 +-----+-------+----+-----+----------+------------------------------------------+
 | LVL | XP    | HD |Prof |  MSG     |        Features                          |
-+-----+-------+----+-----+----------+------------------------------------------|
++-----+-------+----+-----+----------+------------------------------------------+
 |   1 |     0 | 2  | +1  |  8       | Glyph Casting, Learned Spells            |
 |   2 |   300 | 4  | +1  |  16      | Hitpoint Increase                        |
 |   3 |   900 | 6  | +2  |  24      | Hit point Increase                       |
@@ -110,10 +110,11 @@ rest. Refer to the maximum spell glyphs column of the wizard level chart to
 determine how many glyphs you may write in your spellbook at a given level.
 
 ### Learned Spells
-You learn 3 cantrips and 4 first level spells. You learn 2 more spells of any 
-spell level you are capable of casting each time you level up. Due to the fact 
-that you learn magic through study or by happenstance you may learn new spells 
-by copying their glyphs into your spellbook.
+You learn 3 cantrips and 4 first level spells from the wizard spell list. You 
+learn 2 more spells from the wizard spell list of any spell level you are 
+capable of casting each time you level up. Due to the fact that you learn magic 
+through study or by happenstance you may learn new spells by copying their 
+glyphs into your spellbook.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier.

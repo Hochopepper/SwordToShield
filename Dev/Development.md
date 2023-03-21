@@ -1,7 +1,7 @@
 # Active Development
 
 ## Alpha Release
-```[█████□□□□□□□□□□□□□□□] 25% complete```
+```[███████□□□□□□□□□□□□□] 35% complete```
 
 ### ~~Complete Character Creation Document: Body Types~~
 ~~Create a body type creation guide with a choice of body size, bodily features,
@@ -22,6 +22,7 @@ implications and granting features.
 ~~(d4) Complete Priest, Class which gains resource called "faith" through actions 
 seen as morally just to their god, with the priest being capable of casting with
 this resource. Max Casting level 5~~
+~~Finish up channel divinity~~ 
 
 ### ~~Write Class: Wizard~~
 ~~(d4) Complete Wizard, Spellcaster who must prepare all their spells during a 
@@ -29,12 +30,12 @@ long rest with exact amounts of "glyphs" they are capabel of writing in their
 spellbook. Capable of preparing many low level spells, a few mid range spells,
 or one high level spell. Max casting level 6 (At great physical toll)~~
 
-### Write Class: Warlock
-(d6) Complete Warlock, Class which gains a casting resource called "obediance"
+### ~~Write Class: Warlock~~
+~~(d6) Complete Warlock, Class which gains a casting resource called "obediance"
 through pleasing their patron, a powerful magical entity who benefits from them 
 having casting ability. No requirements to prepare spells, having
 their entire spell list avaliable at all times with the caveat that it is small
-with more spells being given dependant on their patron. Max casting level 3
+with more spells being given dependant on their patron. Max casting level 3~~
 
 ### Write Class: Shifter
 (d4) Complete Shifter, Class wherein the character is infected with some sort of
@@ -47,11 +48,11 @@ becoming a d8, d10, d12 or even a d20.
 skillchecks and attacks as well as limited spells prepared daily. Casting mod
 of wisdom.
 
-### Write Class: Sorcerer
-(d4) pool of 'mana points' used to cast spells, casting without expending mana
+### ~~Write Class: Sorcerer~~
+~~(d4) pool of 'mana points' used to cast spells, casting without expending mana
 points is possible but may cause corruptions. Sorcerous Techniques allow 
 sorcerer to augment spells with mana points. Mana points regained after a long
-rest.
+rest.~~
 
 ### Complete Character Creation Document: Feats
 Create 10+ feats each for every category (40+ total). Categories include 

@@ -39,19 +39,19 @@ will.
 
 ```
 
-LVL = level
-XP = total experience points needed for level
+LVL = Level
+XP = Total Experience For Level              
 HD = Hit Dice
-Prof = proficiency bonus
+Prof = Proficiency Bonus
 SL = Maximum spell level
 +-----+-------+----+-----+----------+------------------------------------------+
 | LVL | XP    | HD |Prof |  SL      |        Features                          |
-+-----+-------+----+-----+----------+------------------------------------------|
++-----+-------+----+-----+----------+------------------------------------------+
 |   1 |     0 | 2  | +1  |  Cantrip | Holy Order, Grace Casting, Grace,        |
 |   2 |   300 | 4  | +1  |  1       | Hitpoint Increase                        |
-|   3 |   900 | 6  | +2  |  2       | Hit point Increase                       |
+|   3 |   900 | 6  | +2  |  2       | Order Feature, Hit point Increase        |
 |   4 |  1800 | 8  | +2  |  2       | Hit point re-roll                        |
-|   5 |  3600 |10  | +2  |  3       | Ability Score Increase                   |
+|   5 |  3600 |10  | +2  |  3       | Channel Divinity, Ability Score Increase |
 |   6 |  6100 |12  | +2  |  3       |                                          |
 |   7 |  9100 |14  | +3  |  4       |                                          |
 |   8 | 13100 |16  | +3  |  4       | Ability Score Increase                   |
@@ -98,6 +98,7 @@ level:
 In order to cast spells you must prepare them. You may prepare a number of 
 spells equal to your priest level + your wisdom modifier from the priest spell
 list by praying each rest. You also learn 2 cantrips from the priest spell list.
+When you cast a spell it consumes an amount of grace equal to its grace cost.
 
 ### Grace
 Grace is your casting ability, you may lose it or gain it through many means.
@@ -142,6 +143,18 @@ Your hitpoints increase by 1d4 + your constitution modifier.
 Roll 3d4 and add 3 times your constitution modifier. If the result is 
 higher than your current maximum that becomes your new hitpoint maximum 
 
+### Channel Divinity
+You gain the ability to channel the divine into a special miraculous action or
+effect. You may expend five stamina dice to use your channel divinity, you may 
+not do so again until you have finished a rest. You gain the following Channel
+divinity and one from your holy order.
+
+#### Channel Divinity: Harness Grace
+As a bonus action you speak a prayer to the gods while holding your holy symbol,
+asking for a wellspring of grace. you gain temporary grace equal to 50 times
+your priest level. This grace is temporary and any remaining portion of it fades 
+after an hour.
+
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may 
 forgo your ability score increase and take a feat instead.
@@ -152,7 +165,7 @@ forgo your ability score increase and take a feat instead.
 The nature order encompasses the protection of nature and the natural order. The
 nature order is lead by the goddess Nataluria. 
 
-### Order Feature: Nature's Tongue
+### Order Feature: Nature's Tongue (3rd Level)
 You perfectly understand animals and plants and they understand you. You are 
 capable of speaking with them as any other npc. 
 
@@ -186,6 +199,39 @@ chart. Your order's forbidden act is destroying nature or knowingly standing
 by as nature is destroyed, such as allowing someone to start a wildfire, 
 unimpeded.
 
+### Channel Divinity: Nature's Wrath (Level 5)
+As an action on your turn you raise a Treant; an ambulatory, intelligent tree
+and gaurdian of the forest. The treant has a mental link to you and follows your 
+commands on its turn which it takes immediately after yours. After 1 minute the 
+link ends, and the treant is free to act as it pleases, holding no ill will 
+against you unless you knowingly harmed it.
+
+```
+Treant
+Large Elemental, Plant
+XP: N/A
+HP: 39(6d8+12) Current:
+AC: 15(natural, bark)
+Speed: 40ft, Climb 40ft
+Proficiency Bonus: +3
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 12| 14| 10| 16| 08|
+| +4| +1| +2| +0| +3| -1|
+| X |   | X |   | X |   |
+
+# Features:
+- Multiattack: The Treant may make 2 attacks on its turn.
+- Radiant Immunity: The Treant is immune to radiant damage.
+- Fire vulnerability: The Treant is vulnerable to fire damage.
+- Regrowth: When the Treant takes radiant damage, it regains hp equal to the
+amount dealt. 
+
+# Attacks:
+- Stomp +16 3d8 + 12 bludgeoning damage, up to 4 targets within 5 feet of each 
+other.
+- Smash +16 3d12 + 12 bludgeoning Damage, 1 target within 20 feet.
+``` 
+
 ### Boon of Nature (10th Level)
 Your connection with the natural grows, and the natural world welcomes you as a 
 friend. While in nature (ranging from fields to caves) you have altered grace
@@ -206,11 +252,14 @@ costs for your spells.
 
 ``` 
 
+
+
+
 ## Justice
 The justice order encompasses the enforcement of law and order across the 
 entirety of creation. The nature order is lead by the god Themius.
 
-### Order Feature: Angel Radio
+### Order Feature: Angel Radio (3rd Level)
 You are capable of meditating for 10 minutes in order to zone in on a frequency
 used by angels to communicate. You may ask a single question during the 10 
 minutes and the answer will be told to you over the frequency if the information
@@ -244,16 +293,42 @@ There are actions which when performed rob you of grace due to their unholy
 nature, the grace is calculated by the order specific act row of the grace
 chart. Your order's forbidden act is committing a crime against just authority.
 
+### Channel Divinity: Repentance (Level 5)
+As a bonus action on your turn you utter a sin that you know without a shadow of
+a doubt that a specific sentient creature of your choice within 120 feet of you 
+has committed. The target must make a constitution saving throw, taking radiant 
+damage based on the severity of their sinful act or half as much on a success. 
+Refer to the following chart for sins and their respective damages:
+
+```
+
+|  Sinful Act                    |  Damage  |
+| ------------------------------ | -------- |
+|  Profanity                     |  2d4     |
+|  Cheating, Stealing, Lying     |  4d4     |
+|  Arrogance, Bitterness         |  5d4     |
+|  Blasphemy                     |  6d4     |
+|  Murder of an Innocent         |  8d6     |
+|  Fratricide (killing a Brother)|  10d6    |
+|  Patricide (killing a Father)  |  14d6    |
+| ------------------------------ | -------- |
+
+
+```
+
 ### Boon of Justice
 Themius grants you massive power to be used as a last resort only. You learn the 
 spell Seraphic Transformation, it is always prepared and does not  count against 
 your maximum spells prepared. You also gain immunity to radiant damage.
 
+
+
+
 ## Light
 The light order encompasses light and radiance. This order seeks to light the
 darkness of the universe. The light order is lead by Helios.
 
-### Order Feature: Lightbringer
+### Order Feature: Lightbringer (3rd Level)
 You learn the light cantrip and may cast it without expending any grace.
 
 ### Order Spells
@@ -285,6 +360,12 @@ nature, the grace is calculated by the order specific act row of the grace
 chart. Your order's forbidden act is quenching a flame before sunrise or 
 allowing a hearth to die out.
 
+### Channel Divinity: Sun's Blessing (Level 5)
+As an action on your turn you illuminate a 1 mile radius sphere around you as if
+the sun shined directly upon it. The area is illuminated in bright light for 8
+hours and any fiends or undead in the area when the effect is created take 4d10
+damage.
+
 ### Boon of Light (10th Level)
 The sun grants you power, wrapping you in a blanket of warmth and granting you
 strength. While in direct sunlight you have altered grace costs for your spells.
@@ -304,11 +385,13 @@ strength. While in direct sunlight you have altered grace costs for your spells.
 
 ``` 
 
+
+
 ## Death
 The death order encompasses the peaceful passing of the living and the smooth
 transition to death. 
 
-### Order Feature: Mercy
+### Order Feature: Mercy (3rd Level)
 You learn the save the dying cantrip and may cast it without expending any 
 grace.
 
@@ -341,19 +424,33 @@ nature, the grace is calculated by the order specific act row of the grace
 chart. Your order's forbidden act is not providing last rites to an enemy slain
 in battle when it is possible within the limits of reason.
 
+### Channel Divinity: Oblivion's Edge (Level 5)
+As a bonus action on your turn you bring forth a dark scythe 10 feet long. This
+scythe is a two handed melee weapon of your size and has 5 feet of additional 
+reach. The damage dealt by the scythe increases by one damage die for each size 
+above medium. When you make an attack against a creature with this scythe make
+a melee spell attack. On a hit the target takes 3d10 necrotic damage. If a 
+creature is reduced to 0 hitpoints by this weapon you regain 1d10 hitpoints as
+you act as a conduit for their soul to move onto the afterlife. You are capable
+of calling the scythe back to your hands as a bonus action. The scythe fades 
+after 1 minute.
+
 ### Boon of Death (10th Level)
 Death seems to take a liking to you, and so he shares a secret with you. You 
 learn the spell grand ressurection, it is always prepared and does not count 
 against your maximum spells prepared. You also gain resistance to necrotic 
 damage.
 
-## Order Feature: Creation
+
+
+
+## Creation
 The creation order encompasses the protection of creation and the counteraction
 to anything that would wish to destroy or threaten it. The order of creation 
 extends empathy to even the most vile of creatures, hoping that one day even
 they can see the beauty of creation. An'Ire leads the order of creation.
 
-### Minor Fabrication
+### Order Feature: Minor Fabrication (3rd Level)
 You learn the mending cantrip and may cast it without expending any grace.
 
 ### Order Spells 
@@ -385,7 +482,25 @@ nature, the grace is calculated by the order specific act row of the grace
 chart. Your order's forbidden act is destroying a piece of art or prototype 
 invention.
 
-### Boon of Creation (10th)
+### Channel Divinity: Create Life (Level 5)
+As an action on your turn you bring forth a construct of human shape. This 
+construct's ability scores are 16, 14, 14, 10, 8, 8. You may place these scores
+into whatever abilities you like. The construct also has a number of levels 
+(equal to half your priest level rounded down) in a class of your choice from 
+Sorcerer, Warrior, or Rogue. If you select Warrior the construct has a longsword
+and chainmail armor, if you select rogue the construct has a bow and studded 
+leather armor. The construct's hitpoints are rolled as if it were a player 
+character. you may choose up to 3 bodily features to be applied to the 
+construct, but the constructs size must be medium. The construct obeys any 
+verbal command you give it as a bonus action and it takes its turn directly 
+after yours. The construct and all of its items crumble to dust after 10 
+minutes.
+
+Please have a character sheet pre-prepared for the construct before you use this 
+channel divinity, or else the channel divinity will fail and you will lose grace 
+as if you committed a forbidden act.
+
+### Boon of Creation (10th Level)
 An'Ire recognizes you as a great force for good, and the defense of creation,
 so she grants to you the same divine right as her. You learn to make a golem out 
 of 8000 lbs of clay, through a ritual performed over the course of 7 days. You
@@ -396,17 +511,21 @@ bonus action on your turn. Only those allowed by An'Ire may create a golem.
 
 The only way to kill the golem is to reduce it to 0 hitpoints and succed a DC 24 
 strength check to smudge the celestial writing from on its forhead, or for the 
-creator of the golem to say the phrase "You were created by the sages; return to your dust"
+creator of the golem to say the phrase: 
+"You were created by the sages; return to your dust"
 
 ```
 Golem
 Huge Construct
 XP: N/A
-HP: 298(17d20+119) Current:
-AC: 14(natural)
+HP: 217(14d20+70) Current:
+AC: 14(natural, clay)
 Speed: 40ft, Climb 40ft
+Proficiency Bonus: +4
 |STR|DEX|CON|INT|WIS|CHA|
-| 34| 10| 26|  3|  3|  3|
+| 34| 10| 20|  3|  3|  3|
+|+12| +0| +5| -4| -4| -4|
+| X |   | X |   |   |   |
 
 # Features:
 - Multiattack: The golem may make 3 attacks on its turn.

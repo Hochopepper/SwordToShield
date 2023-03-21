@@ -2726,7 +2726,9 @@ within the area are blinded.
 
 The area is difficult terrain and any creature who enters the area or starts 
 their turn in the area takes 2d6 cold damage. A creature who ends their turn in
-the area must make a dexterity saving throw or take 2d6 acid damage.
+the area must make a dexterity saving throw or take 2d6 acid damage and be
+restrained, freeing themselves if they use an action to make an athletics check
+against your spell save DC.
 
 ```
 
@@ -3144,6 +3146,21 @@ target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
 ``` 
 
+```
+
+Corrupt (3rd) (46)
+
+Range: 60 feet
+Components: V/S
+Duration: Instantaneous
+Casting Time: 1 action
+Description:
+You lambast one creature within range with corruptive energy. The target must
+make a constitution saving throw or take 2d10 necrotic damage and be corrupted,
+taking half as much and not being corrupted on a success. If the target is
+corrupted they roll on the bad corruptions chart.
+
+```
 # 4th Level Spells
 
 ```

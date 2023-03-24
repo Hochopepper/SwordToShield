@@ -1,7 +1,7 @@
 # Active Development
 
 ## Alpha Release
-```[████████□□□□□□□□□□□□] 40% complete```
+```[█████████□□□□□□□□□□□] 45% complete```
 
 ### ~~Complete Character Creation Document: Body Types~~
 ~~Create a body type creation guide with a choice of body size, bodily features,
@@ -37,11 +37,11 @@ having casting ability. No requirements to prepare spells, having
 their entire spell list avaliable at all times with the caveat that it is small
 with more spells being given dependant on their patron. Max casting level 3~~
 
-### Write Class: Shifter
-(d4) Complete Shifter, Class wherein the character is infected with some sort of
+### ~~Write Class: Shifter~~
+~~(d4) Complete Shifter, Class wherein the character is infected with some sort of
 disease which allows them to take on a partially controllable form with the
 reward being that they are extremely powerful in this form, with their hit dice
-becoming a d8, d10, d12 or even a d20.
+becoming a d8, d10, d12 or even a d20.~~
 
 ### ~~Write Class: Gunslinger~~
 ~~(d6) Complete gunslinger, Class where you are capable of crafting firearms and

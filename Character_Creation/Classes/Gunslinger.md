@@ -317,5 +317,3 @@ hands is free.
 
 ### Confidence
 You gain a bonus to your initiative rolls equal to your charisma modifier.
-
-### 

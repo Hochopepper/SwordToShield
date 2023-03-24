@@ -1,7 +1,7 @@
 # Active Development
 
 ## Alpha Release
-```[███████□□□□□□□□□□□□□] 35% complete```
+```[████████□□□□□□□□□□□□] 40% complete```
 
 ### ~~Complete Character Creation Document: Body Types~~
 ~~Create a body type creation guide with a choice of body size, bodily features,
@@ -43,10 +43,9 @@ disease which allows them to take on a partially controllable form with the
 reward being that they are extremely powerful in this form, with their hit dice
 becoming a d8, d10, d12 or even a d20.
 
-### Write Class: Prophet
-(d6) Complete Prophet, Class that gains visions that allow empowerment of 
-skillchecks and attacks as well as limited spells prepared daily. Casting mod
-of wisdom.
+### ~~Write Class: Gunslinger~~
+~~(d6) Complete gunslinger, Class where you are capable of crafting firearms and
+modifying them. As well as learning maneuvers similar to warrior.~~
 
 ### ~~Write Class: Sorcerer~~
 ~~(d4) pool of 'mana points' used to cast spells, casting without expending mana
@@ -95,7 +94,10 @@ bestiary
 
 
 # Development Backlog
-
+### Write Class: Prophet
+(d6) Complete Prophet, Class that gains visions that allow empowerment of 
+skillchecks and attacks as well as limited spells prepared daily. Casting mod
+of wisdom.
 
 # Floaters
 

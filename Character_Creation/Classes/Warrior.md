@@ -88,7 +88,7 @@ When you take the attack action, you may make two attacks instead of one.
 You gain expertise in one skill you are proficient in, meaning your profciency
 bonus is doubled when making checks with that skill.
 
-## Maneuvers
+# Maneuvers
 Certain maneuvers may refer to saving throws, the DC for these saving throws are
 8 + Your Strength or Dexterity Modifier + Your proficiency bonus.
 

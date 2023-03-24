@@ -184,7 +184,7 @@ do not count against your spells known.
 The latent corruption within your body finally goes critical. Your body is
 corrupted in such a way that further corruption is difficuly. You have advantage
 on saves against being corrupted and your mana cost when casting without mana
-is halved. You gain 3 beneficial corruptions or bodily features, as your GM 
+is fourthed. You gain 3 beneficial corruptions or bodily features, as your GM 
 allows.
 
 ## Unfathomable
@@ -247,23 +247,57 @@ damage and excessively hot weather has no effect on you.
 # Sorcerer Techniques
 
 ### Quickened Casting
-You expend 2 mana and change the casting time of a spell that takes 1 action
-to cast to 1 bonus action
+You expend a hit die and 2 mana and change the casting time of a spell that 
+takes 1 action to cast to 1 bonus action
 
 ### Dual Spell
 You attempt to double the casting of a spell that targets a single creature. 
-Expend a number of mana points equal to the level of the spell cast 
-(1 for cantrips). You cast the spell twice instead of once. You may only use
-twinned spell once in a turn.
+Expend a hit die and a number of mana points equal to the level of the spell 
+cast  (1 for cantrips). You cast the spell twice instead of once. You may only 
+use twinned spell once in a turn.
 
 ### Subtle Casting
-You expend 2 mana points and cast a spell without any vocal or somatic
-components. 
+You expend a hit die and 2 mana points and cast a spell without any vocal or 
+somatic components. 
 
 ### Curved Spell
-You expend 1 mana point and make a spell that targets one creature appear as if 
-it is going to miss and then curve it back at them during the last moment. The 
+You expend a hit die and 1 mana point and make a spell that targets one creature 
+appear as if it is going to miss and then curve it back at them during the last moment. The 
 spell gains a +2 to its attack roll.
+
+### Heightened Casting
+When you cast a spell you may expend a hit die and 1 mana point as you attempt 
+to heighten the damage of a spell. You may reroll one die of your choice for the
+damage of the spell.
+
+### Defensive Spell
+When you cast a spell with a target of self you may expend a hit die and 2 mana
+points to grant yourself temporary hitpoints equal to your casting modifier.
+
+### Distant Casting
+When you cast a ranged spell you may expend a hit die and 1 mana point to double
+the range of the spell. If you use this technique on a touch spell the range 
+becomes 30 feet.
+
+### Difficult Spell
+You cause the save for a spell to become extremely difficult. You may expend a 
+hit die and 4 mana points, giving the target disadvantage on the saving throw
+of the spell. 
+
+### Safe Spell
+You protect your allies by bending a spell that affects an area around them. 
+Expend 2 hit dice and 4 mana points, 4 creatures of your choice within the area
+of the spell are unaffected until the start of your next turn.
+
+### Raw Spell
+You cast a damaging spell without changing the form of the mana used in it. when
+you cast a spell that deals damage you may expend 1 mana point to change the 
+damage type to force. 
+
+### Mana Boost
+You are capable of using latent magic to guide your ability checks. When you 
+fail an ability or skill check you may expend 1 hit die and 1 mana point and 
+reroll.
 
 # Sorcerer Spell List
 

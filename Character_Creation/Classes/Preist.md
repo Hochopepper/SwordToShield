@@ -227,9 +227,7 @@ Proficiency Bonus: +3
 amount dealt. 
 
 # Attacks:
-- Stomp +16 3d8 + 12 bludgeoning damage, up to 4 targets within 5 feet of each 
-other.
-- Smash +16 3d12 + 12 bludgeoning Damage, 1 target within 20 feet.
+- Smash +7 1d8 + 4 bludgeoning damage, 1 target within 10 feet
 ``` 
 
 ### Boon of Nature (10th Level)

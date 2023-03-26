@@ -25,6 +25,7 @@ some features, and what your ASI will look like.
 ## Tiny
 ```
 Size: Tiny
+Reach: 5 feet
 Speed: 20 Feet
 Height: Between 1 inch tall and 2 feet tall.
 Melee Damage: 1
@@ -49,6 +50,7 @@ wield any weapon not tailored to your size.
 ## Small
 ```
 Size: Small
+Reach: 5 feet
 Speed: 25 Feet
 Height: Between 2 feet tall and 4 feet tall.
 Melee Damage: 1d1 + Strength Modifier
@@ -67,6 +69,7 @@ to your size.
 ## Medium
 ```
 Size: Medium
+Reach: 5 feet
 Speed: 30 feet
 Height: Between 4 feet and 9 feet tall.
 Melee Damage: 1d1 + Strength Modifier
@@ -74,13 +77,10 @@ ASI: +2 to one stat, +1 to another (+2 +1) or +1 to three stats (+1 +1 +1)
 Carry Weight: Strength Score * 7
 ```
 
-### Medium Build
-You have disadvantage when contesting strength checks against any creature of
-huge size or larger.
-
 ## Large
 ```
 Size: Large
+Reach: 10 feet
 Speed: 35 feet
 Height: Between 9 feet and 15 feet tall.
 Melee Damage: 2d1 + Strength Modifier
@@ -100,6 +100,7 @@ You may wield a two handed weapon of medium or smaller size with one hand.
 ## Huge
 ```
 Size: Huge
+Reach: 15 feet
 Speed: 40 feet
 Height: Betweem 15 feet and 25 feet tall.
 Melee Damage: 3d1 + Strength Modifier
@@ -113,9 +114,9 @@ size you may not be able to fit into most confined places.
 
 ### Hearty Size
 Due to your impressive size you are a much easier target, giving you 
-disadvantage on dexterity saving throws. You also require 10x more food per day
-(10 pounds of food a day). Your starting hitpoints are also doubled and you 
-roll two times the number of hit dice when rolling for hitpoint increases.
+disadvantage on dexterity saving throws. You also require 10 pounds of food per 
+day to survive. Your starting hitpoints are doubled and you roll two times the 
+number of hit dice when rolling for hitpoint increases.
 
 ### Effortless Wielding
 You may wield a two handed weapon of large or smaller size with one hand.
@@ -283,7 +284,7 @@ a shield.
 
 Name: Reach
 Description:
-You gain an extra melee reach of 5 feet.
+Your melee range increases by 5 feet.
 
 ```	
 
@@ -417,5 +418,23 @@ You are capable of perfectly reproducing any sound which you have heard before.
 A creature must make an investigation check against your charisma or 
 intelligence + 8 + your prof in order to determine the noise was mimicry.    
 
+```
+
+```
+Name: Elemental Weapon
+Description:
+You are capable expending 2 hit dice to expel a 15 foot cone or 20 foot by 5 
+foot line of energy (your choice) from your body. When you choose this feature 
+choose a type of damage from: Lightning, Fire, Acid, Poison, Necrotic, or 
+Radiant. A creature caught in the area of effect must make a dexterity saving
+throw or take 2d6 + Your constitution modifier damage of the type you chose, or
+half as much on a success.
+```
+
+```
+Name: Spikes
+Description:
+Thorny spines cover your body. When a creature successfully grapples you or 
+starts their turn grappling you they take 1 piercing damage.
 ```
 

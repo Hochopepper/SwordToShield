@@ -210,7 +210,7 @@ even if you are rendered prone while in the air.
 
 Name: Swimming Speed 
 Description: 
-You gain a simming speed equal to your walking speed
+You gain a swimming speed equal to your walking speed
 
 ```
 

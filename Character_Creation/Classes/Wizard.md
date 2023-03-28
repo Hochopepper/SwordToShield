@@ -72,7 +72,7 @@ of glyphs you must write for each spell:
 
 |  Spell Level  |  Glyphs Req  |
 | ------------- | ------------ |
-|  Cantrip      |  1/4th       |
+|  Cantrip      |  1           |
 |  1            |  4           |
 |  2            |  10          |
 |  3            |  32          |

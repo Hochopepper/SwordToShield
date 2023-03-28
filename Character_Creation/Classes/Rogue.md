@@ -173,4 +173,6 @@ You inspect a creature as an action, increasing your sneak attack damage against
 them by 3d6.
 
 ### Evasive Measures (level 9)
-Attack rolls against you cannot have advantage.
+Attack rolls against you cannot have advantage. When you are forced to make a
+dexterity saving throw against a damaging effect you take half damage on a 
+failure and no damage on a success.

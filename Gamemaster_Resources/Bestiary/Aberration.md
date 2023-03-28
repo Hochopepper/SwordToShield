@@ -63,7 +63,7 @@ metal structure on their back appear like the dorsal fin of a shark.
 ```
 Razorback
 Medium Aberration      
-XP: 500
+XP: 150
 HP: 13(2d6+6) Current:
 AC: 15(natural, metal)
 Speed: 20ft, Burrow 40ft
@@ -133,7 +133,7 @@ creatures with rows and rows of grinding metal teeth.
 ```
 Dredger  
 Huge Aberration      
-XP: 200
+XP: 300
 HP: 45(6d6+24) Current:
 AC: 14(natural, metal)
 Speed: 20ft, Burrow 60 ft
@@ -200,3 +200,31 @@ comes, on a 6 a dredger comes.
 - As a bonus action the Empress spawns a clutch of larve. 1d6 Steel Larve are
 hurled into different points within 60 feet of the Empress.
 ``` 
+
+## Dreadbeasts
+Each world has a special one of a kind dreadbeast. These dreadbeasts range in
+abilities and appearance, but they always remain bloodthirsty and set on 
+destruction. Dreadbeasts are foreign to the prime material plane and wish to do 
+nothing more than hunt and devour.
+
+```
+
+Dreadbeast (Juggernaut)
+A creature standing at 20 feet tall with horns 10 feet across,
+with 3 catlike eyes, the tail of a lion, and the body shape of a 
+lycanthrope.
+Huge Aberration
+HP: 101(7d20+24)
+AC: 14(natural, fur)
+Speed: 45ft, Climb 50ft
+|STR|DEX|CON|INT|WIS|CHA|
+| 22|  8| 18|  6|  6|  6|
+Stomp +6 1d10+6 bludgeoning, targets a 10 foot cube within 10 feet of the
+dreadbeast
+Bite +6 2d10+6 piercing
+Undexterous: The Dreadbeast is incapable of reaching the point directly between
+its legs
+Movement based sight: The dreadbeast cannot see anything more 
+than 30 feet away that is not moving.
+
+```

@@ -58,8 +58,8 @@ AC: 12(scraps of leather)
 Speed: 30ft
 Proficiency Bonus: +2
 |STR|DEX|CON|INT|WIS|CHA|
-| 16| 12| 16| 04| 11| 04|
-| +3| +1| +2| -3| +0| -3|
+| 16| 10| 16| 09| 11| 04|
+| +3| +0| +2| -1| +0| -3|
 | X |   | X |   |   |   |
 
 # Features
@@ -67,6 +67,9 @@ Proficiency Bonus: +2
 - Blindsight: The Skeleton Goliath may only percieve creatures within 90 
 Feet of it.
 - Brittle: The Skeleton Goliath has vulnerability to bludgeoning damage.
+- SemiIntelligent: The Skeleton Goliath is able to slightly divert from the 
+exact orders it is given, expanding the orders in a way beneficial to its 
+creator.
 
 # Attacks
 

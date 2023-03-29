@@ -150,7 +150,8 @@ Adventuring necessitates equipment.
 | Tools, Tinker's             | 10 gp   | 10 lb. |
 | Tools, Smith's              | 15 gp   | 10 lb. |
 | Tools, Lockpicking          | 25 gp   | 5 lb.  |
-| Utensils, Cooking           | 10 GP   | 5 lb.  |
+| Tools, Carpentry            | 15 gp   | 5 lb.  |
+| Utensils, Cooking           | 10 gP   | 5 lb.  |
 | Torch                       | 1  cp   | 1 lb.  |
 | Vial                        | 1  gp   | —      |
 | Whetstone                   | 1  cp   | 1 lb.  |

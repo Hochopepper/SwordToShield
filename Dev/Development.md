@@ -8,9 +8,9 @@
 and bodily ASI. 10+ bodily features each for Biological, Supernatural, and 
 Abiotic.~~
 
-### Complete Character Creation Document: Backgrounds
-Create an array of 10+ character backgrounds with each having roleplay 
-implications and granting features.
+### ~~Complete Character Creation Document: Backgrounds~~
+~~Create an array of 10+ character backgrounds with each having roleplay 
+implications and granting features.~~
 
 ### ~~Write Class: Warrior~~
 ~~(d10) Complete Warrior with 10+ unique manuevers based in strength and con.~~

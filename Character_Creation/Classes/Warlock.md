@@ -82,12 +82,12 @@ leveled spell of your maximum spell level or lower.
 
 Your body is incapable of properly containing all the magical ability of your 
 patron. when you cast a spell that does not require a spell attack, roll 1d20, 
-if the roll is less than or equal to 2 + the level of the spell or 1 for 
-cantrips, then roll a 1d2. On a 1, roll on the "Bad Corruptions" chart. On a 2, 
-roll on the "Minor Detrimental Corruptions" chart. If the spell you cast refers 
+if the roll is less than or equal to 2 + the level of the spell, then roll a 1d2. 
+On a 1, roll on the "Bad Corruptions" chart. On a 2, roll on the 
+"Minor Detrimental Corruptions" chart. If the spell you cast refers 
 to a spell attack, simply use the natural roll of the attack rather than rolling 
 another 20 sided die. For all casting except cantrips a natural 1 is an 
-automatic roll on the "Bad Corruptions" chart.
+automatic roll on the "Bad Corruptions" chart. This does not apply to cantrips.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d6 + your constitution modifier.

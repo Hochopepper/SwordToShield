@@ -56,7 +56,7 @@ IV = Current Amount of Warlock Invocations
 |   7 |  9100 |14  | +3  |  3       |  5     |                                          |
 |   8 | 13100 |16  | +3  |  3       |  5     | Ability Score Increase                   |
 |   9 | 22600 |18  | +4  |  3       |  6     |                                          |
-|  10 | 44600 |20  | +4  |  3       |  6     | Ability Score Increase                   |
+|  10 | 44600 |20  | +4  |  3       |  6     | Pact Boon                                |
 +-----+-------+----+-----+----------+---------------------------------------------------+
 
 ```
@@ -71,7 +71,6 @@ refer to the end of this document for what the benefits of each are.
 - Devil
 - Demon
 - Celestial
-- Leviathan
 
 ### Pact Casting
 You are capable of casting spells thanks to your otherworldy pact. Your casting
@@ -81,13 +80,16 @@ DC is 8 + Your Proficiency Bonus + Your Charisma Modifier. At level 1 you learn
 leveled spell of your maximum spell level or lower. 
 
 Your body is incapable of properly containing all the magical ability of your 
-patron. when you cast a spell that does not require a spell attack, roll 1d20, 
-if the roll is less than or equal to 2 + the level of the spell, then roll a 1d2. 
-On a 1, roll on the "Bad Corruptions" chart. On a 2, roll on the 
-"Minor Detrimental Corruptions" chart. If the spell you cast refers 
-to a spell attack, simply use the natural roll of the attack rather than rolling 
-another 20 sided die. For all casting except cantrips a natural 1 is an 
-automatic roll on the "Bad Corruptions" chart. This does not apply to cantrips.
+patron, putting you at risk of corruption when you cast leveled spells. When you 
+cast a spell that does not require a spell attack, roll 1d20. If the spell you 
+cast refers to a spell attack, simply use the natural roll of the attack rather 
+than rolling another 20 sided die. if the roll is less than or equal to 2 + the 
+level of the spell, then roll a 1d2. On a 1, roll on the "Bad Corruptions" 
+chart. On a 2, roll on the "Minor Detrimental Corruptions" chart. For all 
+casting except cantrips a natural 1 is an automatic roll on the 
+"Bad Corruptions" chart. If you roll below the threshold and are corrupted you 
+may instead drop to 1 hitpoint and attempt your d20 roll again, with there being 
+no corruptive effect on a high enough roll.  
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d6 + your constitution modifier.
@@ -217,8 +219,19 @@ be corrupted instead. You may use this invocation once per rest.
 You have compacted with a devil for your warlock abilities, granting you the 
 magic of the 9 hells. 
 
-### Pact Feature: Devil's Tongue (level 5)
-You gain expertise in the deception skill.
+### Pact Feature: Devil's Advocate (level 1)
+You gain proficiency in the deception skill and resistance to fire damage.
+
+### Pact Feature: Hellfire (level 5)
+Fire damage dealt by you ignores resistance and treats immunity as if it were 
+resistance. You may also expend a bonus action and 3 hit dice on your turn to
+hex a creature within 90 feet of you. The hexed creature has disadvantage on
+saves against your spells and ability checks against you.
+
+### Pact Boon: Soul Stealer
+When you kill a creature you may use a reaction to harvest their soul. You may
+trade this soul with your patron at your GMs discretion, or you may hand it over
+to your patron and have one corruption removed from your body.
 
 ### Pact Spells
 You are granted additional spells by your patron at different levels, these
@@ -239,11 +252,21 @@ prepared.
 
 ## Demon
 The void grants you strength. Thanks to your pact with a demon the prospects of
-destruction are verily in your favor. 
+destruction are verily in your favor.
+
+### Pact Feature: Call of The Void (level 1)
+As a reaction to another creature hitting an attack you may fill their head with
+the sickening influence of the void, forcing them to reroll the attack.
 
 ### Pact Feature: Demon's Wrath (level 5)
-Whenever you roll a natural 20 on an attack that attack deals an additional 
+Whenever you roll a 19 or a 20 on an attack that attack deals an additional 
 damage die of damage.
+
+### Pact Boon: Maddening Gaze
+As an action on your turn you may expend 5 hit dice and expell a 40 foot cone of 
+maddening energy from your eyes. Any creature within the area must make a wisdom 
+saving throw or become distraught with maddness, dropping their wisdom, 
+intelligence, and charisma scores to 4 and incapacitating them for 1 minute.
 
 ### Pact Spells
 You are granted additional spells by your patron at different levels, these
@@ -263,11 +286,23 @@ prepared.
 ```
 
 ## Celestial 
-The heavens reach out to grant you angelic powers.
+The heavens reach out to grant you angelic powers. An angel, most likely a 
+power, has sought you to do the bidding of the heavens on the prime material.
 
-### Pact Feature: Angel's Grace (level 5)
-When you deal necrotic or force damage, you may choose to deal radiant damage 
-instead. 
+### Pact Feature: Holy Affinity (level 1)
+Each time you rest you may choose 1 priest spell of your maximum spell level 
+or lower to prepare and cast. In addition, When you deal necrotic or force 
+damage, you may choose to deal radiant damage instead. 
+
+### Pact Feature: Angel's Grace (level 5) 
+As an action on your turn you may expend 3 hit dice and form angelic wings, 
+granting you a flying speed equal to your walking speed. Additionally, Radiant 
+damage dealt by you ignores resistance and immunity.
+
+### Pact Boon: Heavenly Descent
+You learn a ritual to return one good hearted creature to life. Over the course
+of 8 hours you may perform a ritual to cast the Raise Dead spell. The total cost 
+for the material components of this spell is 750 GP.  
 
 ### Pact Spells
 You are granted additional spells by your patron at different levels, these
@@ -282,29 +317,6 @@ prepared.
 |  2              |  Faith's Shield       |
 |  4              |  Diagnose Affliction  |
 |  6              |  Beacon of Hope       |
-| --------------- | --------------------- |
-
-```
-
-## Leviathan
-
-### Pact Feature: Leviathan's Form        
-You gain a flying speed of 30 feet as batlike mechanical wings sprout from your
-back.
-
-### Pact Spells
-You are granted additional spells by your patron at different levels, these
-spells do not count against your total spells known and are considered always
-prepared.
-
-```
-
-|  Warlock Level  |  Spell                |
-| --------------- | --------------------- | 
-|  1              |  Leech                |
-|  2              |  Inflict Wounds       |
-|  4              |  Wither               |
-|  6              |  Hunger of Horrors    |
 | --------------- | --------------------- |
 
 ```

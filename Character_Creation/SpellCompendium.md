@@ -4000,7 +4000,7 @@ them.
 Raise Dead (5th) (13)
 
 Range: touch
-Components: V/S/M (A gem worth 1000 GP)
+Components: V/S/M (A gem worth 2500 GP)
 Duration: instantaneous
 Casting Time: 10 minutes 
 Description:

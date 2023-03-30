@@ -86,28 +86,15 @@ of glyphs you must write for each spell:
 4 cantrips may fit into one glyph, and they may be cantrips of all different
 types and amounts. In order to prepare a spell you must know the glyphs used in 
 its creation, and you must write exactly the amount noted for the spell level, 
-as well as the spell you intend to cast with those glyphs. Below is an example
-of a level 10 wizard displaying the the two principles listed above.
-
-```
-
-|  Spell           |  Glyphs Used  |  Glyph Total (Max 80)  |
-| ---------------- | ------------- | ---------------------- |
-|  Necrotic Grasp  |  2/4ths       |  2/4ths                |
-|  Flame Bolt      |  2/4ths       |  1                     |
-|  Thunderwave     |  1            |  2                     |
-|  Scorching Ray   |  5            |  7                     |
-|  Fireball        |  10           |  17                    |
-|  Fireball        |  10           |  27                    |
-|  Blight          |  25           |  52                    |
-| ---------------- | ------------- | ---------------------- |
-
-```
+as well as the spell you intend to cast with those glyphs.
 
 Once you cast a spell using the glyphs you have written in your spellbook they
 disappear. You may write more glyphs in your spellbook over the course of a
-rest. Refer to the maximum spell glyphs column of the wizard level chart to
-determine how many glyphs you may write in your spellbook at a given level.
+minute by expending an amount of hit die, and rolling them, adding your 
+intelligence modifier to each roll, and writing the resulting number of glyphs 
+in your spellbook. Refer to the maximum spell glyphs column of the wizard level 
+chart to determine the maximum amount of glyphs you may have written in your 
+spellbook at a given level.
 
 ### Learned Spells
 You learn 3 cantrips and 4 first level spells from the wizard spell list. You 

@@ -19,6 +19,10 @@ religion or social stigmas. You may add a culture onto your character, but this
 grants you little more than roleplay quirks as no one culture is greater than 
 any other in regards to statistical power.
 
+## languages
+You begin with knowledge of common and one language of your choice, or two 
+languages of your choice.
+
 # Social Standings
 Some GMs may not allow you to take a social standing above gentry.
 
@@ -227,7 +231,8 @@ create the urn their ashes are contained in when they pass on, dying before one
 can create an urn is felt as a great sorrow. An'Ire worshipers find the act of
 creation sacred, as such they are often welcome to change. An'Ireites often act
 as havens for the tiny and the huge, whom are well respected for their natural
-ease in constructing fine mechanisms and buildings respectively.
+ease in constructing fine mechanisms and buildings respectively. If you take
+this culture you learn Anirandrus at no cost.
 
 ### Silent
 Silent are members of a community whom take a vow of silence. They wish to 
@@ -235,10 +240,18 @@ preserve the serenity of the natural world, seeking to pollute as little as
 possible, starting with their own noise pollution. Silent communities rarely 
 contain the sounds of commotion, with the greatest ones being that of the smith
 and any hearths. Silent are extremely welcome to the mute and deaf, seeing them
-as natural born leaders. 
+as natural born leaders. If you take this culture you learn handspeak at no
+cost.
 
 ### Groundfolk
 Groundfolk are those who live in underground societies. They often consist 
 mostly of miners and farmers. Some have interesting ideals when it comes to the
 validity of surface life, critiquing it as the easier option for the lazy. 
 Others simply enjoy the life as a simpler alternative to surface living. 
+
+### Freelanders
+Freelanders are a culture of naturalists. Freelanders live in unity with nature,
+often enlisting the aid of undomesticated creatures and worshiping Nataluria. 
+Their civilizations often do not have many man made structures, with homes often
+being built in hollowed out trees cultivated over centuries and all members of
+society living modestly an within their means; without excess.

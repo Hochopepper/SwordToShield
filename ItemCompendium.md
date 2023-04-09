@@ -235,15 +235,15 @@ Adventuring is a dangerous job, remember to wear a helmet!
 | Studded leather | 45 gp    | 12 + Dex modifier         |           | —        | —            | 13 lb. |
 | Medium Armor    |          |                           |           |          |              |        |
 | Hide            | 10 gp    | 12 + Dex modifier (max 2) | 1         | —        | —            | 12 lb. |
-| Chain shirt     | 50 gp    | 13 + Dex modifier (max 2) | 2         | —        | —            | 20 lb. |
-| Scale mail      | 50 gp    | 14 + Dex modifier (max 2) | 3         | —        | Disadvantage | 45 lb. |
-| Breastplate     | 175 gp   | 14 + Dex modifier (max 2) | 3         | —        | —            | 20 lb. |
-| Half plate      | 375 gp   | 15 + Dex modifier (max 2) | 4         | —        | Disadvantage | 40 lb. |
+| Chain shirt     | 50 gp    | 13 + Dex modifier (max 2) | 1         | —        | —            | 20 lb. |
+| Scale mail      | 50 gp    | 14 + Dex modifier (max 2) | 2         | —        | Disadvantage | 45 lb. |
+| Breastplate     | 175 gp   | 14 + Dex modifier (max 2) | 2         | —        | —            | 20 lb. |
+| Half plate      | 375 gp   | 15 + Dex modifier (max 2) | 3         | —        | Disadvantage | 40 lb. |
 | Heavy Armor     |          |                           |           |          |              |        |
-| Ring mail       | 30 gp    | 13                        | 3         | —        | Disadvantage | 40 lb. |
-| Chain mail      | 75 gp    | 15                        | 4         | Str 13   | Disadvantage | 55 lb. |
-| Splint          | 200 gp   | 16                        | 4         | Str 15   | Disadvantage | 60 lb. |
-| Plate           | 750 gp   | 17                        | 5         | Str 15   | Disadvantage | 65 lb. |
+| Ring mail       | 30 gp    | 13                        | 2         | —        | Disadvantage | 40 lb. |
+| Chain mail      | 75 gp    | 15                        | 3         | Str 13   | Disadvantage | 55 lb. |
+| Splint          | 200 gp   | 16                        | 3         | Str 15   | Disadvantage | 60 lb. |
+| Plate           | 750 gp   | 17                        | 4         | Str 15   | Disadvantage | 65 lb. |
 | Shield          | 10 gp    | +2                        | 1         | —        | —            | 6 lb.  |
 | --------------- | -------- | ------------------------- | --------- | -------- | ------------ | ------ |
 ```

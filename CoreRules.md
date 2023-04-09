@@ -414,9 +414,21 @@ remaining damage effecting your regular hitpoints.
 
 ### Damage Resistance
 Certain features and armors may grant a damage resistance score or a damage 
-type resistance. For resistance scores simply subtract the resistance amount
-from physical damage sustained. For damage type resistances simply half the
-amount of damage dealt by that damage type.
+type resistance, these two things are very different from each other. Below you
+may find the distinctions between the two.
+
+#### Damage Resistance Score (DR)
+Your damage resistance score is simply a defense against physical damage such
+as bludgeoning, piercing, or slashing. When you sustain an amount of physical 
+damage LESS than your DR You may ignore it, treating it as if you are immune to 
+the damage type for that attack. When you sustain an amount of physical damage 
+GREATER than your DR however, you take the damage as normal.
+
+#### Damage Type Resistance
+Damage type resistance is simply an ability to resist a certain type of damage.
+When you sustain a type of damage you are resistant to, you take half the damage 
+rolled rather than all of it. An example would be the resistance of a warrior in
+frenzy.
 
 ## Battle injuries 
 
@@ -623,3 +635,56 @@ For every day you go without either food, drink, or sleep you lose access to
 Certain features will free you from needing food, drink, and sleep. In these
 cases simply count those amenities as automatically fulfilled, unless stated
 otherwise.
+
+## Languages
+Within the world there will most definitely be characters from differing 
+cultures with different tongues, a creature cannot converse with another unless
+they are both capable of speaking and understanding the same language. The same
+goes for reading, a creature may not read text unless it is in a language they
+understand.
+
+### Common Langauges
+The following are some common languages and their very brief descriptions
+
+#### Common
+Common is the most... well... common langauge in a setting!
+
+#### Handspeak
+Handspeak is a langauge that is spoken with signs of ones hands rather than 
+through vocal speach. 
+
+#### Brogdingnagian
+The language of the giants
+
+#### Varanus
+The language of the dragons
+
+#### Infernal
+The language of devils
+
+#### Voidspeak
+The language of demons
+
+#### Abyssal
+The language of leviathan
+
+#### Celestial
+The language of the gods and angels
+
+#### Deep speech
+The language of abberations and other creatures from the depths of the planes
+
+#### Arcanium
+The language of magic, glyphs of arcanium are used by wizards to cast spells
+
+#### Beast tongue
+Universal language of beasts
+
+#### Primordium
+The language of elements and elementals, often used alongside arcanium in spells
+
+#### Nixian
+Language of fae and fairies 
+
+#### Anirandrus
+Language spoken amongst worshippers of An'ire

@@ -193,19 +193,19 @@ Misfire Score: 3
 ```
 Rifle Ammo
 Scrap Cost: 2
-Ammount: 5
+Amount: 5
 ```
 
 ```
 Pistol Ammo
 Scrap Cost: 2
-Ammount: 20
+Amount: 20
 ```
 
 ```
 Dynamite
 Scrap Cost: 40
-Ammount: 1 (Stick)
+Amount: 1 (Stick)
 ```
 
 # Modifications

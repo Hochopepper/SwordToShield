@@ -1,7 +1,7 @@
 # Active Development
 
 ## Alpha Release
-```[█████████□□□□□□□□□□□] 45% complete```
+```[████████████□□□□□□□□] 60% complete```
 
 ### ~~Complete Character Creation Document: Body Types~~
 ~~Create a body type creation guide with a choice of body size, bodily features,
@@ -53,16 +53,16 @@ points is possible but may cause corruptions. Sorcerous Techniques allow
 sorcerer to augment spells with mana points. Mana points regained after a long
 rest.~~
 
-### Complete Character Creation Document: Feats
-Create 10+ feats each for every category (40+ total). Categories include 
-Supernatural, Biological, Social, and Mundane.  
+### ~~Complete Character Creation Document: Feats~~
+~~Create 10+ feats each for every category (40+ total). Categories include 
+Supernatural, Biological, Social, and Mundane.~~ 
 
 ### Complete Gamemaster Document: Accursed Journal
 create 10+ diseases, 10+ parasites, 10+ curses, and 20 of each type of 
 corruption. 
 
-### Complete Gamemaster Document: Boons
-Include 10+ grantable boons
+### ~~Complete Gamemaster Document: Boons~~
+~~Include 10+ grantable boons~~
 
 ### Write Bestiary Entry: Monstrosities
 Complete 10+ stat blocks for creatures in the monstrosity category of the 

@@ -282,7 +282,7 @@ destruction. roll a 1d4.
 | 4          | Steel Empress|
 ```
 
-#### Hitpoint Reduction
+#### Hitpoint Reduction (20)
 Your maximum hitpoints are reduced by 1d10, to a minimum of 1.
 
 ### Minor Detrimental Corruptions (2-3)

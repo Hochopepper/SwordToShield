@@ -1499,7 +1499,7 @@ throw or be poisoned until the end of your next turn.
 
 ```
 
-Santuary (1st) (46)
+Sanctuary (1st) (46)
 
 Range: 30 feet
 Components: V/S

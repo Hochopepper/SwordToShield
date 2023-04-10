@@ -338,6 +338,17 @@ additional 10 damage.
 
 ```
 
+```
+Blade of The Damned
+Rarity: Legendary
+Attunement: Y
+Description:
+This weapon is a bladed weapon such as an axe or a sword. This weapon has a
+modifier added to its attack and damage rolls equal to the number of curses and
+diseases the attuned creature is currently suffering from
+
+```
+
 # Artifacts
 
 ## Artifact Format

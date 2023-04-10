@@ -186,9 +186,8 @@ by corrupted mana radiation. When you are forced to roll a corruption roll a
 Either by turning into a pillar of salt or having your head explode, you 
 instatly die.
 
-#### Unleash Cataclysm (2)
-You start a cataclysm on the world you currently habitate. This cataclysm is 
-decided by your GM.
+#### Curse (2)
+You are inflicted with a random curse.
 
 #### Soul Consumption (3)
 Your soul is consumed. If you die you are obliterated.
@@ -216,8 +215,12 @@ instead aged to the point you have 1 week to live.
 You gain disadvantage on spell attacks and enemies have advantage on saving 
 throws against your spells.
 
-#### Curse (7)
-You are inflicted with a random curse.
+#### Unlucky (7)
+Bad things seem to follow you everywhere, even when everything is going right.
+Once per session your GM may choose a successful roll you made and make it fail.
+The failure must come from a comical show of misfortune or your GM is a bad 
+person and you may punch them on the shoulder with decent force next time you
+see them.
 
 #### Disease (8)
 You are inflicted with a random disease.
@@ -285,39 +288,162 @@ destruction. roll a 1d4.
 #### Hitpoint Reduction (20)
 Your maximum hitpoints are reduced by 1d10, to a minimum of 1.
 
-### Minor Detrimental Corruptions (2-3)
+### Minor Detrimental Corruptions (2)
 
-####
+#### Shortened Legs (1)
+Your legs shorten. Your movement speed decreases by 5.
 
-####
+#### brainrot (2)
+Your intelligence and wisdom scores decrease by 2.
 
-####
+#### Naysayer (3)
+A creature grows from the side of your head. This creature is constantly saying
+the opposite of what you mean when you speak. The appearance of the creature is
+determined by your GM.
 
-####
+#### Sniffling (4)
+You are constantly sneezing, on average every 10 seconds. Your speech is often 
+interrupted by a sneeze.
 
-####
+#### Lost digits (5)
+Two pairs of your fingers on each hand meld together, meaning you only have 2 
+large fingers and a thumb on each hand. You have disadvantage on thrown weapon
+attacks and when you roll a critical failure on a weapon attack you drop the
+weapon.  
 
-####
+#### Serpentine (6)
+Your legs fuse together into a tail. Your movement speed is decreased by 10
 
-####
+#### Polyphemus (7)
+Your eyes fuse into one large eye in the center of your forehead. You have
+disadvantage on ranged attacks and sight based perception checks.
 
-####
+#### Softshell (8)
+Your body grows soft and squishy. Your AC is reduced by 2
 
-####
+#### Shedding (9)
+Every night as you sleep you shed a hollow skin from your body.
 
-####
+#### Hunger (10)
+You require twice the regular amount of food to sustain yourself every day.
 
-####
+#### Dull senses (11)
+One of your senses grows dull, you have disadvantage on perception checks based
+on this sense. Roll a 1d4.
 
-####
+```
+| Roll (1d4) | Sense  |
+| ---------- | ------ |
+| 1          | Sight  |
+| 2          | Sound  |
+| 3          | Smell  |
+| 4          | Reroll |
+| ---------- | ------ |
+```
 
-####
+#### Fuzz (12)
+You grow fur all across your body. If you already have fur your fur grows 
+thicker.
 
-####
+#### Poorly Mannered Hyperocula (13)
+You grow one or more eyes on your forhead, the eyes stare unblinking at the
+nearest creature you area aware of and never shut, even when you sleep.
 
-####
+#### Hair Tentacles (14)
+Your hair turns into tentacles. If you do not have hair you grow the tentacles
+where you would have hair.
 
-####
+#### Big Eyes (15)
+Your eyes grow freakishly large. You have advantage on sight based perception
+checks and can see in dim light as if it is bright light, but have disadvantage
+on attacks and dexterity saving throws while you or the target are in direct 
+sunlight.
+
+#### Hefty Tongue (16)
+Your tongue grows so large that it is almost too large for your mouth. When you
+speak make a performance check, on a roll of 10 or higher your words are easily
+comprehendable.
+
+#### Wooden Nose (17)
+Your nose turns wooden and grows 4 inches each time you lie, returning to its 
+original length after a rest.
+
+#### Branding (18)
+A symbol in Voidspeak is burned into your forhead. The symbol is a single word
+like "idiot" "greedy" "gullibile" or some other deplorable trait decided by
+your GM.
+
+#### Shared Heart (19)
+Your heart disappears and a portal opens in the chest cavity of an ally. You 
+both share the same heart. If your ally that you share with dies, you die too.
+
+#### Cranial Blossum (20)
+A flower grows from the top of your head. It indicates your emotional state.
+
+### Minor Beneficial Corruptions (2)
+
+#### Tail (1)
+You grow a tail, or an additional one if you already have a tail. This tail is
+prehensile and you may use it to perform a free object interaction.
+
+#### Hide (2)
+Your skin grows into a thick hide, granting you +1 AC
+
+#### Scales (3)
+Your skin grows hard and scaly, while not wearing armor your AC is 13
+
+#### Mucus Membrane (4)
+Your entire body secretes a sticky substance, increasing your climbing speed by
+15 feet. You may climb hands free.
+
+#### Slime (5)
+Your whole body transmutes into a green slime. You may choose to transform into
+your true shape or into a shapeless blob as an action. While in your true shape
+you act as normal, while a shapless blob you drop all items and may fit through
+a hole as small as 1 inch wide.
+
+#### Exoskeleton (6)
+You grow a carapace around your body. You have a natural DR of 1.
+
+#### Iron Bones (7)
+Your bones harden into iron. You are immune to fractures and breaks. When you
+move, your body makes metallic squeeking and scraping noises.
+
+#### Neutralizing Corruption (8)
+You lose one corruption, disease, or parasite at random and become immune to it
+forever.
+
+#### Bone Claws (9)
+As a free action you are capable of protruding or retracting sharp boney claws 
+from your knuckles. These boney claws are a d8 natural melee weapon that deals 
+slashing. If you also gain the iron bones corruption the damage die increases to
+a d10 and the attacks become magical.
+
+#### Axe Head (10)
+Your head grows a sharp, hard, axe-like structure. Your head is a d12 natural
+melee weapon that deals slashing. When you make an attack against a creature 
+with your head and hit you sustain 1d4 bludgeoning damage.
+
+#### Wings (11)
+You grow feathery or batlike wings (GM's choice) and gain a flying speed of
+20 feet.
+
+#### Mirroring (12)
+Your whole body becomes mirrored.
+
+#### Big hands (13)
+Your hands grow to a size typical of a person one size larger than you
+
+#### Crab Claws (14)
+Your hands form into the claws of a crab. You cannot drop an item unless you
+choose to release it.
+
+#### Boiling Blood (15)
+Your blood is constantly at a nice hot 100 degrees celcius. You are not
+harmed by this, but a creature that comes into contact with your blood takes 1d4
+fire damage.
+
+#### 
 
 ####
 
@@ -329,7 +455,9 @@ Your maximum hitpoints are reduced by 1d10, to a minimum of 1.
 
 ### Good Corruptions (4)
 
-####
+#### Skin of A Killer (1)(rename before pushing)
+Your skin twinkles and shines glitteraly. You have advantage on persuasion 
+checks as long as the person you are speaking to can see you.
 
 ####
 

@@ -71,11 +71,20 @@ You gain proficiency in one item type of your choice from simple weapons,
 martial weapons, light armor, medium armor, heavy armor, shields or two sets of 
 tools.
 
+### Gunner
+You gain proficiency in firearms and learn two gunslinger maneuvers.
+
 ### Linguist
 You learn 2 languages of your choice.
 
 ### Trickster
 You learn 2 techniques from the rogue class.
+
+### Medic
+You gain proficiency in medicine, if you are already proficient in medicine you
+instead gain expertise. During a rest you may provide the medical aid ammenities
+to yourself and other characters as well as high quality medical aid ammenity if
+you expend a charge of a medical kit. 
 
 
 ## Magical Feats
@@ -99,7 +108,9 @@ You learn a first level spell and a cantrip of your choice from the spell
 compendium.
 
 ### Learned Caster (requires level in caster class)
-You learn 2 additional spells and a cantrip from your class' spell list.
+You learn 2 additional spells and a cantrip from your class' spell list. You 
+must be capable of casting the spells you choose at your current level and they
+may not be 6th level spells.
 
 ## Bodily Feats
 Bodily features originate from new growth on your physical form. 
@@ -115,3 +126,14 @@ Restrictons may apply, so ask your GM first.
 ### Growth
 You grow one size larger, to a maximum of size huge. This changes your body size
 respectively.
+
+### Tough
+Your hitpoint maximum increases by an amount equal to your level. Each time you
+gain a level your hitpoint maximum increases by one.
+
+### Resillient
+You gain proficiency in saving throws for one stat and your score for that stat
+increases by 1.
+
+### Mutation
+You gain 2 minor beneficial corruptions of your choice

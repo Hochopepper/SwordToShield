@@ -207,6 +207,13 @@ disadvantage, after which the fog subsides.
 Your patron teaches you the Misty Step spell, this spell does not count
 against your spells known and carries no risk of corruption. 
 
+### Eldritch Rogue
+You learn 2 rogue techniques from the rogue class.
+
+### Spellslinger
+You gain proficiency in firearms and learn two gunslinger maneuvers from the
+gunslinger class.
+
 ### Protective Veil (Level 9)
 A magical field which repels magic corruption creates a sheen across you. When
 you roll a d20 while casting a spell and get corrupted, you may choose to not
@@ -316,7 +323,7 @@ prepared.
 |  1              |  Lay on Hands         |
 |  2              |  Faith's Shield       |
 |  4              |  Diagnose Affliction  |
-|  6              |  Beacon of Hope       |
+|  6              |  Heavenly Rebuke      |
 | --------------- | --------------------- |
 
 ```

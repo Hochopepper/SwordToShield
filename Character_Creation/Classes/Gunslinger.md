@@ -95,7 +95,7 @@ forgo your ability score increase and take a feat instead.
 
 ### Headshot
 Whenever you roll a natural 20 on a ranged attack your damage for that attack 
-is doubled.
+is increased by an additional 3d6.
 
 # Crafting
 Range refers to the effective and disadvantage range of an item, magazine refers
@@ -136,7 +136,7 @@ Misfire Score: 2
 ``` 
 
 ```
-Simple Rifle
+Rifle
 Range: 60/120
 Magazine: 1
 Scrap Cost: 25
@@ -169,12 +169,12 @@ Misfire Score: 1
 ```
 
 ```
-Rifle
+High Power Rifle
 Range: 80/160
 Magazine: 1
 Scrap Cost: 50
 Damage: 2d10 + Dex
-Properties: Reloading, Two-Handed
+Properties: Reloading, heavy, Two-Handed
 Ammo Type: Rifle
 Misfire Score: 3
 ``` 
@@ -185,7 +185,7 @@ Range 80/160
 Magazine: 10
 Scrap Cost: 100
 Damage: 1d10 + Dex
-Properties: Reloading, Two-Handed, Automatic Fire
+Properties: Reloading, Two-Handed, heavy, Automatic Fire
 Ammo Type: Rifle
 Misfire Score: 3
 ```
@@ -219,15 +219,17 @@ size. You may apply this modification up to eight times on one gun.
 
 ### Obrez (15 scrap)
 You shorten a gun with the two-handed property, allowing it to be wielded with
-just one hand. You 
+just one hand. The scrap cost of the modification comes from modifying the grip
+of the weapon such that it will not fly out of your hands when you fire it. You
+may not apply this modification to weapons with the heavy property.
 
 ### Scope (20 Scrap)
 You add a scope to a gun, doubling its effective and disadvantage range.
 
 ### Break Action (10 scrap)
-You add a hinge and latch behind chamber of a gun, allowing you to break it open
-to load bullets directly into the chamber much faster. Rather than taking an 
-action to reload you may reload as a bonus action. You may only apply this 
+You add a hinge and latch behind the chamber of a gun, allowing you to break it 
+open to load bullets directly into the chamber much faster. Rather than taking 
+an action to reload you may reload as a bonus action. You may only apply this 
 modification to a weapon with a maximum capacity of six or fewer.
 
 ### Bayonet (10 scrap, 1 Shorsword)
@@ -250,7 +252,7 @@ You apply the automatic property to a weapon.
 
 ### Ergonomic Grip (30 Scrap) (6th Level)
 You alter the grip of a weapon in order for it to perfeclty fit to your hand.
-You cannot have disadvantage within the effective range of your weapon.
+You cannot have disadvantage within the effective range of the modified weapon.
 
 # Maneuvers
 Certain maneuvers may refer to saving throws, the DC for these saving throws are

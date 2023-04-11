@@ -8,9 +8,9 @@ larger system I have dubbed "Sword To Shield" or STS for short. This project
 is open source and you are free to borrow or modify anything written here.
 
 ## Disclaimer
-This system is based on another system named unchained worlds which shares many
-philosophies with this system, if you stumble upon this system and enjoy it,
-[give UW a try aswell](https://github.com/blukatdevelopment/UnchainedWorlds)
+This system is by no means balanced, and often is completely broken at times.
+if you notice something working in a weird way or something that seems 
+exploitable please bring it up to me.
 
 ## Well what is a "Sword to Shield" Erina?
 Sword to shield is a TTRPG (Short for tabletop role playing game) which is a

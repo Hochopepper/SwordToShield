@@ -135,10 +135,10 @@ disadvantage on attack rolls against you until the start of your next turn.
 ### Silver Tongued
 You have advantage on persuasion and deception checks.
 
-### Dual Weilder
-You may Dual weild items that do not have the light property and when you hit an
-attack with a dual weilded weapon you may add your ability modifier to the 
-damage roll.
+### Dual Wielder
+You may wield a one handed weapon in your off hand regardless of if it has the
+light property or not. when you hit an attack with a weapon in your off hand you
+may add your ability modifier to the damage roll.
 
 ### Assassinate
 When you surprise a creature with an attack your damage is doubled.

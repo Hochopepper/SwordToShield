@@ -289,6 +289,7 @@ good for that!
 | Quarterstaff           | 2 sp  | 1d6 bludgeoning | 4 lb.   | Versatile (1d8)                                  |
 | Sickle                 | 1 gp  | 1d4 slashing    | 2 lb.   | Light                                            |
 | Spear                  | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8),           |
+| Scythe                 | 8 GP  | 1d8 slashing    | 4 lb.   | Versatile (1d10), finesse, reach                 |
 | ---------------------- | ----- | --------------- | ------- | ------------------------------------------------ |
 ```
 ### Simple Ranged Weapons

@@ -102,25 +102,27 @@ When you cast a spell it consumes an amount of grace equal to its grace cost.
 
 ### Grace
 Grace is your casting ability, you may lose it or gain it through many means.
-The following charts show actions that will increase or decrease your grace.
+The following charts show actions that will increase or decrease your grace,
+as well as the hit dice you must expend to perform them.
 
 ```
 
-|  Good Action                      |  Grace Amount  |
-| --------------------------------- | -------------- |
-|  10 Minute Long Prayer            |  1d8           |
-|  Celebrate Holiday                |  1d8           |
-|  Bless Birth, Wedding, or Funeral |  2d8           |
-|  Provide Counsel to a character   |  2d8           |
-|  Order Specific Act               |  1d2  * 8      |
-|  Giving to the in need            |  4d10          |
-|  Convert a human                  |  1d10 * 8      |
-|  Prevent Crime/Catch Criminal     |  1d10 * 8      |
-|  Sacrifice Heart of Large Monster |  1d4  * 80     |
-|  Saving a life                    |  1d12 * 8      |
-|  Cure Sick Person or Creature     |  1d4  * 80     |
-|  Sacrifice Heart of Huge Monster  |  1d6  * 80     |
-| --------------------------------- | -------------- |
+|  Good Action                      |  Grace Amount  |  HD Cost  |
+| --------------------------------- | -------------- | --------- |
+|  1 Minute Long Prayer             |  1d8           |  1 HD     |
+|  Celebrate Holiday                |  1d8           |  N/A      |
+|  Bless Birth, Wedding, or Funeral |  2d8           |  N/A      |
+|  Provide Counsel to a character   |  2d8           |  2 HD     |
+|  Order Specific Act               |  1d2  * 8      |  N/A      |
+|  Giving to the in need            |  4d10          |  N/A      |
+|  Convert a human                  |  1d10 * 8      |  N/A      |
+|  Prevent Crime/Catch Criminal     |  1d10 * 8      |  N/A      |
+|  Sacrifice Heart of Large Monster |  1d4  * 80     |  5 HD     |
+|  Saving a life                    |  1d12 * 8      |  N/A      |
+|  Cure Sick Person or Creature     |  1d4  * 80     |  N/A      |
+|  Sacrifice Heart of Huge Monster  |  1d6  * 80     |  10 HD    |
+|  Sacrificing yourself             |  2d10 * 1000   |  10 HD    |
+| --------------------------------- | -------------- | --------- |
 
 
 |  Bad Action                       |  Grace Lost  |
@@ -516,26 +518,26 @@ creator of the golem to say the phrase:
 Golem
 Huge Construct
 XP: N/A
-HP: 217(14d20+70) Current:
+HP: 108(7d20+35) Current:
 AC: 14(natural, clay)
-Speed: 40ft, Climb 40ft
+Speed: 40ft
 Proficiency Bonus: +4
 |STR|DEX|CON|INT|WIS|CHA|
-| 34| 10| 20|  3|  3|  3|
-|+12| +0| +5| -4| -4| -4|
+| 23| 10| 20|  3|  3|  3|
+| +6| +0| +5| -4| -4| -4|
 | X |   | X |   |   |   |
 
 # Features:
-- Multiattack: The golem may make 3 attacks on its turn.
+- Multiattack: The golem may make 2 attacks on its turn.
 - Invulnerable: The golem cannot be killed unless it is reduced to 0 hitpoints.
-and then a creature succeeds a DC 24 strength check to erase the celestial 
+and then a creature succeeds a DC 21 strength check to erase the celestial 
 writing from its head.
 - Reformation: The golem regains 20 hitpoints at the start of its turn. 
 
 # Attacks:
-- Stomp +16 3d8 + 12 bludgeoning damage, up to 4 targets within 5 feet of each 
-other.
-- Smash +16 3d12 + 12 bludgeoning Damage, 1 target within 20 feet.
+- Stomp +10 3d8 + 6 bludgeoning damage, up to 4 targets within 5 feet of each 
+other, all within 20 feet.
+- Smash +10 3d12 + 6 bludgeoning Damage, 1 target within 20 feet.
 ```
 
 # Priest Spell List
@@ -644,3 +646,4 @@ other.
 - Heal
 - Regenerate
 - Raise Dead
+- Miracle

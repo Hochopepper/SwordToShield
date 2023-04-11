@@ -103,9 +103,9 @@ different spell levels:
 
 ``` 
 You learn 2 cantrips and 3 first level spells from the sorcerer spell list. You 
-learn 1 spell from the sorcerer spell list each time you level up. A sorcerer 
-who knows a spell that you do not may teach you that spell over the course of
-one week.
+learn 1 spell of a level you are capable of casting, no more than 5th level, 
+from the sorcerer spell list each time you level up. A sorcerer who knows a 
+spell that you do not may teach you that spell over the course of one week.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier.
@@ -180,12 +180,13 @@ do not count against your spells known.
 
 ```
 
-### Supernatural Origin Feature: Critical Point (6th Level)
-The latent corruption within your body finally goes critical. Your body is
-corrupted in such a way that further corruption is difficuly. You have advantage
-on saves against being corrupted and your mana cost when casting without mana
-is fourthed. You gain 3 beneficial corruptions or bodily features, as your GM 
-allows.
+### Unreliable Spells (level 6)
+The mana you manipulate is corrupted by your very touching it. Each time you 
+cast a spell roll a d20. On a 20 the damage of the spell is doubled, or the 
+duration if the spell does not deal damage. On a 1 the damage of the spell is
+halved and redirected to you, or the duration of the spell is halved if it does
+not deal damage. When you roll a spell attack, simply use the natural roll 
+rather than rolling another d20.
 
 ## Unfathomable
 You gained your powers through a brush with an unfathomable being from the 
@@ -207,9 +208,9 @@ do not count against your spells known.
 
 ```
 
-### Supernatural Origin Feature: Abyssal Transformation (6th Level)
+### Abyssal Transformation (6th Level)
 Your body takes on aspects of an unfathomable creature. You may expend a bonus
-action and 10 hit dice on your turn to gain the following benefits for 1 minute:
+action and 5 hit dice on your turn to gain the following benefits for 1 minute:
 
 - You gain a flying speed of 60 feet, this speed is hovering, meaning you do not 
 fall if knocked prone in this state.
@@ -218,6 +219,7 @@ fall if knocked prone in this state.
 invisible creatures, and into the ethereal plane.
 - You become slimy and squishy, being able to fit through a hole as small as 1
 inch wide.
+- You gain 5d4 temporary hitpoints
 
 ## Fireborne
 Either through draconic lineage or devilish influence, your magic tends twords
@@ -239,10 +241,12 @@ do not count against your spells known.
 
 ```
 
-### Supernatural Origin Feature: Supernova Accustomed (6th Level)
+### Supernova Accustomed (6th Level)
 Due to the massive amount of fire spells you cast, your body has inadvertedly
 created a barried of mana defending you from fire. You are immune to fire
-damage and excessively hot weather has no effect on you.
+damage and excessively hot weather has no effect on you. Additionally, When you 
+cast a spell that deals fire damage it burns exceptionally hot, making it ignore
+fire resistance and treating immunity as resistance.
 
 # Sorcerer Techniques
 

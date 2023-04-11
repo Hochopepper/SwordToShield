@@ -1059,7 +1059,7 @@ Cure Wounds (1st) (18)
 Range: touch/30 feet 
 Components: V/S
 Duration: instantaneous
-Casting Time: 1 action 
+Casting Time: 1 action/1 bonus action 
 Description:
 You heal a creature by either touching them or speaking a power word of healing
 to them if they are within 30 feet.
@@ -1067,7 +1067,8 @@ to them if they are within 30 feet.
 Touch: You touch one creature and they regain 1d8 + your casting mod hitpoints
 
 Range: You speak to one creature within 30 feet and they regain 1d4 + your 
-casting mod hitpoints.
+casting mod hitpoints. Casting this spell at range reduces the casting time to
+1 bonus action and removes the somatic component.
 
 ```
 
@@ -3161,6 +3162,24 @@ taking half as much and not being corrupted on a success. If the target is
 corrupted they roll on the bad corruptions chart.
 
 ```
+
+```
+
+Heavenly Rebuke (3rd) (47)
+
+Range: Self (50 foot cone)
+Components: V/S
+Duration: Instantaneous
+Casting Time: 1 action
+Description:
+Holy light emits in a 50 foot cone originating from your palms, washing over the
+innocent and destroying all evil in its wake. Enemies in the area of effect must
+make a dexterity saving throw or take 6d6 radiant damage or half as much on a
+success. Allies in the area of effect are healed for half the damage rolled and
+take no damage.
+
+```
+
 # 4th Level Spells
 
 ```
@@ -4008,6 +4027,28 @@ You perform a ritual to return one creature to life. The target does not
 regenerate any missing body parts and the spell fails if they are missing vital
 organs or have been dead for more than 1 year. The target has a -8 to all checks
 and saving throw which is reduced by 1 each rest (ex: 7 after 1 rest, 6 after 2).
+
+```
+
+```
+
+Miracle (5th) (14)
+
+Range: self
+Components: V/S/M (a holy symbol)
+Duration: instantaneous
+Casting Time: 1 minute 
+Description:
+You perform an act of random miraclulous blessing. Roll a 1d4 for the result of
+your miracle.
+
+|  Roll (1d4)  |  Miracle                                                      |
+| ------------ | ------------------------------------------------------------- |
+|  1           |  All of the below effects at once                             |
+|  2           |  All active curses within 1 mile of you are lifted            |
+|  3           |  Creatures within 1 mile are cured of mundane afflictions     |
+|  4           |  All the dead from the nearest cemetary raise to life         |
+| ------------ | ------------------------------------------------------------- |
 
 ```
 

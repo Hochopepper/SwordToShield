@@ -7,7 +7,7 @@
 |  | \__/\ (_) | | |  __/ | |\ \ |_| | |  __/\__ \                             |
 |   \____/\___/|_|  \___| \_| \_\__,_|_|\___||___/                             |
 ################################################################################
- ```
+```
 
 # Introduction
 
@@ -295,6 +295,11 @@ When an attack hits roll damage for that attack, roll the size and number of
 dice specified by the weapon or ability and add the applicable ability modifier
 unless the weapon or ability states otherwise.
 
+##### Dual Wielding
+You may wield a one handed light weapon in your off hand and make attacks with 
+it as a bonus action. You may not add your applicable modifier to the damage of
+the bonus action attack.
+
 #### Casting a Spell
 When casting a spell as an action, refer to the spell's listing in the spell
 compendium and follow the instructions listed. If a spell refers to a spell 
@@ -434,16 +439,16 @@ frenzy.
 
 ### Staggered
 Certain weapons and attacks may stagger, when targeted by an attack that
-staggers the target must make a health roll against half the damage sustained or 
-8 + the damage sutained (whichever is higher). On a failed save, they have 
+staggers the target must make a health roll against the damage sustained or 
+10 + half the damage sutained, whichever is higher. On a failed save, they have 
 disadvantage on attack rolls and ability checks, and can't take reactions, until
-the end of your next turn.
+the end of their next turn.
 
 ### Thrusting
 When you are hit by an attack that deals piercing damage the weapon thrusts 
 deep into any soft tissue it may contact, causing massive organ damage. When 
-not wearing heavy armor a natural roll of 19 or 20 on a weapon that deals 
-piercing damage deals double damage.
+not wearing heavy armor a natural roll of 20 on a weapon that deals piercing 
+damage deals double damage.
 
 ### Bleeding Wound
 When you are hit by an attack that deals slashing damage you may sustain 
@@ -470,7 +475,7 @@ damage sustained
 |  91%  - 99%        |  3. Broken Limb, Move speed no greater than 5.  |  20 days         |
 |  100% +            |  4. Compound Fracture, Disadvantage on all saves|  35 days         |
 |                    |     move speed may be no greater than 0.        |                  |
-| ------------------ | ----------------------------------------------- |                  |
+| ------------------ | ----------------------------------------------- | ---------------- |
 ```
 After an amount of time equal to the difference in recovery time between each 
 level of severity your wound moves down one level. Meaning that after 15 days a 
@@ -481,10 +486,9 @@ hitpoints, equal to the recovery time in days, over the course of 1 minute. A
 lesser restoration or similar spell would also heal the wound instantly. 
 
 ### Battle Injury Disclaimer
-These injuries apply to all creatures except for Undead, Leviathans, 
-Abominations, Plants and Constructs. They are worded in the second person to 
-make them more easily understandable for players but the effects can be applied 
-to most creatures.
+These injuries apply to all creatures except for Undead, Leviathans, Plants and
+Constructs. They are worded in the second person to make them more easily 
+understandable for players but the effects can be applied to most creatures.
 
 ## Status Effects
 Certain spells, attacks, or features may inflict status effects, their details

@@ -80,28 +80,36 @@ creator.
 
 ```
 
-Nisesh Lord of The Damned
-Huge Undead
-XP: 1000 
+Lich
+Medium Undead
+XP: 2000 
 HP: 52(5d10+25)
-AC: 16(Half plate)
-Speed: 30ft
+AC: 16(Mage Armor)
+Speed: 30ft, 30ft flying (hover)
 Proficiency Bonus: +4
 |STR|DEX|CON|INT|WIS|CHA|
-| 14| 12| 20| 18| 08| 04|
-| +2| +1| +5| +4| -1| -3|
+| 08| 16| 20| 18| 08| 04|
+| -1| +3| +5| +4| -1| -3|
 |   |   | X | X |   |   |
 
 # Features
 
-- Radiant Weakness
-- Raise The Damned
-
+- Radiant Weakness: The lich is vulnerable to radiant damage 
+- Magical Shielding: The lich has resistance to nonmagical damage
 
 # Attacks
 
-- Grandsword +5 2d8+2 slashing damage, 1 target within 10 feet.
-- Ballista +4 2d8+1 piercing damage, 1 target within 60/90 Feet
+- Dagger +7 1d4+3 piercing damage, 1 target within 5 feet
+
+# Actions
+
+- Cast a spell: The lich knows 2 third level spells, 3 second level spells, and
+3 first level spells and may cast any of them on its turn at will. Constitution
+is the liches casting mod, it has a +9 to hit and a spell save DC of 17.
+- Raise the Damned: As an action the lich raises remains within 60 feet of it as
+undead servants, these servants follow the commands of the lich and are 
+psychically linked to the lich. The lich may only use this action once per day.
+
 
 ``` 
 

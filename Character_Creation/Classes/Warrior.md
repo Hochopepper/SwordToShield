@@ -148,8 +148,8 @@ You attempt to target a vital area of a creature with an attack. Make your
 attack with a -5 penalty. On a hit you deal an additional 10 damage.
 
 ### Sentinal
-When a creature enters within your range you may make an attack at them without
-using a reaction.
+When a creature enters within your range you may expend a reaction to make an
+attack against them.
 
 ### Charge
 When you move 20 feet in a straight line twords a creature and make an attack 
@@ -157,11 +157,18 @@ against them you deal an additional 1d8 damage.
 
 ### Frenzy
 As a bonus action or as a reaction to being hit by an attack you may enter a 
-frenzied state of mind. While frenzied you are immune to the charmed and 
-frightened effects and you have resistance to bludgeoning, piercing, and 
-slashing damage. You also gain advantage on strength checks and saving throws.
-The frenzy ends after 1 minute and you suffer a state of exhaustion. You are
-not effected by exaustion while frenzied.
+frenzied state of mind. While frenzied you have resistance to bludgeoning, 
+piercing, and slashing damage and gain advantage on strength checks and saving 
+throws. The frenzy ends after 1 minute and you suffer a state of exhaustion. 
+You are not effected by exaustion while frenzied.
+
+### Berserk (7th level, Requires Frenzy)
+When you enter frenzy you may expend an three hit dice to gain 1d10 temporary 
+hitpoints and enter a mindless berserking rampage. While berserk you have 
+immunity to the frightened and charmed conditions and add a +2 to your melee 
+damage rolls. Additionally, if you roll a natural 20 on an attack while berserk 
+the damage of that attack is doubled. You exit berserk once your frenzy ends and
+you gain an additional level of exhaustion.
 
 ### Unstoppable (9th Level)
 When you are reduced to or below 0 hitpoints you may expend your remaining hit 

@@ -49,7 +49,7 @@ Prof = proficiency bonus
 +-----+-------+----+-----+-------------------------------------------+
 |   1 |     0 | 2  | +1  | Shifting, Monstrous Form, Unwilling Shift |
 |   2 |   300 | 4  | +1  | Form Feature, Hit point Increase          |
-|   3 |   900 | 6  | +2  | Hit point Increase                        |
+|   3 |   900 | 6  | +2  | Partial Shift, Hit point Increase         |
 |   4 |  1800 | 8  | +2  | Form Feature, Hit point re-roll           |
 |   5 |  3600 |10  | +2  | Form Resistance, Ability Score Increase   |
 |   6 |  6100 |12  | +2  | Extra Attack                              |
@@ -103,6 +103,14 @@ unwilling shift, otherwise it is identical to a regular shift.
 
 ### Hitpoint Increase
 Your hitpoints increase by 1d4 + your constitution modifier.
+
+### Partial Shift
+As a bonus action you may partially shift into your monstrous form for 1 minute.
+During this partial shift you gain 10 temporary hitpoints, the stat increases 
+associated with your form, one natural weapon, and one feature of your choice 
+from your monstrous form. Once you partially shift you may not do so again until
+you finish a rest. While partially shifted you have disadvantage on saving 
+throws to resist unwilling shifts.
 
 ### Hitpoint re-roll
 Roll 3d4 and add 3 times your constitution modifier. If the result is 

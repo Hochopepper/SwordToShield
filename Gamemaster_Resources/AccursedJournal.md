@@ -443,21 +443,28 @@ Your blood is constantly at a nice hot 100 degrees celcius. You are not
 harmed by this, but a creature that comes into contact with your blood takes 1d4
 fire damage.
 
-#### 
+#### Additional Legs (16)
+You grow additional legs, increasing your walking speed by 10 feet.
 
-####
+#### Marsupial Pouch (17)
+You form a small fuzzy pouch on your stomach. you may store up to 10 lbs of 
+items within this pouch.
 
-####
+#### Dazzling (18)
+Magical sparkles follow you wherever you go. Some people find this amusing.
 
-####
+#### Non-conductive (19)
+It is impossible for you to be struck by lightning from a cloud. The lightning
+bolt spell may still target you.
 
-####
+#### Mandables (20)
+You grow spiderlike mandables on your face. You may attack a creature within 5 
+feet of you with them for 1d4 piercing damage and you may manipulate small 
+objects with them.
 
 ### Good Corruptions (4)
 
-#### Skin of A Killer (1)(rename before pushing)
-Your skin twinkles and shines glitteraly. You have advantage on persuasion 
-checks as long as the person you are speaking to can see you.
+#### 
 
 ####
 

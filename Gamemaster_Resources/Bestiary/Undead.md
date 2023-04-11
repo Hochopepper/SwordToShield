@@ -59,7 +59,7 @@ Speed: 30ft
 Proficiency Bonus: +2
 |STR|DEX|CON|INT|WIS|CHA|
 | 16| 10| 16| 09| 11| 04|
-| +3| +0| +2| -1| +0| -3|
+| +3| +0| +3| -1| +0| -3|
 | X |   | X |   |   |   |
 
 # Features
@@ -70,6 +70,33 @@ Feet of it.
 - SemiIntelligent: The Skeleton Goliath is able to slightly divert from the 
 exact orders it is given, expanding the orders in a way beneficial to its 
 creator.
+
+# Attacks
+
+- Grandsword +5 2d8+2 slashing damage, 1 target within 10 feet.
+- Ballista +4 2d8+1 piercing damage, 1 target within 60/90 Feet
+
+``` 
+
+```
+
+Nisesh Lord of The Damned
+Huge Undead
+XP: 1000 
+HP: 52(5d10+25)
+AC: 16(Half plate)
+Speed: 30ft
+Proficiency Bonus: +4
+|STR|DEX|CON|INT|WIS|CHA|
+| 14| 12| 20| 18| 08| 04|
+| +2| +1| +5| +4| -1| -3|
+|   |   | X | X |   |   |
+
+# Features
+
+- Radiant Weakness
+- Raise The Damned
+
 
 # Attacks
 

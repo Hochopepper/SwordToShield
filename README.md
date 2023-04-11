@@ -21,3 +21,18 @@ lacking in explicit rules.
 
 ## Why are you hosting it on github?
 Its easy.
+
+# Index
+If you're a player having trouble navigating, use these helpful links.
+
+### [Classes](https://github.com/ErinaTheDummy/SwordToShield/tree/main/Character_Creation/Classes)
+
+### [Body Types](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Character_Creation/BodyTypes.md)
+
+### [Backgrounds](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Character_Creation/Backgrounds.md)
+
+### [Feats](https://github.com/ErinaTheDummy/SwordToShield/blob/main/Character_Creation/Feats.md)
+
+### [Core Rules](https://github.com/ErinaTheDummy/SwordToShield/blob/main/CoreRules.md)
+
+### [Items](https://github.com/ErinaTheDummy/SwordToShield/blob/main/ItemCompendium.md)

@@ -8,6 +8,7 @@
 #   \_|  |_|  |_|\___||___/\__|                                                #
 ################################################################################                              
 ```
+![](~/Dev/img/preist!.png)
 Through the grace of gods, priests are capable of casting magic and performing
 miracles. Priests are often looked to as pillars of the community, usually 
 willing to extend a helping hand to those in need.

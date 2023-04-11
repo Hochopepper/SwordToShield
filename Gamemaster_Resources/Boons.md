@@ -62,6 +62,3 @@ dice while resting. Effects such as the beacon of hope spell double the healing
 you recieve. Each time you complete a rest you may expend and roll a hit die, 
 increasing your maximum hit die by amount rolled until the end of your next 
 rest.
-
-### Boon of The Void
-You are blessed with the dark magic of a demon. 

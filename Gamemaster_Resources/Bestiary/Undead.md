@@ -121,7 +121,7 @@ All zombies carry the zombifying plague.
 
 Zombie
 Small or Medium Undead
-XP: 25 
+XP: 50 
 HP: 8(1d8+3)
 AC: 8(worn clothes)
 Speed: 30ft
@@ -148,3 +148,198 @@ fails this save and is turned in 1 hour.
 - Slam +4 1d8+3 bludgeoning damage, 1 target within 5 Feet
 
 ``` 
+
+### Ghosts
+Ghosts are the remnants of a soul that cannot, for one reason or another, pass
+onto an afterlife.
+
+```
+
+Ghost
+Any Size Undead
+XP: 25
+HP: 9(2d4+4)
+AC: 8(worn clothes)
+Speed: 30ft flying (hover)
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 14| 14| 10| 11| 04|
+| +0| +2| +3| +0| +0| -3|
+|   |   |   |   |   |   |
+
+# Features
+
+- Incorporeal: The ghost does not have a solid physical form and may pass 
+through any object as long as it is not made of iron or lined in salt.
+- Hallowed: The ghost has immunity to non-magical non-ironed damage.
+
+# Attacks
+
+- withering touch +3 1d6 necrotic damage, 1 target within 5 feet.
+
+``` 
+
+### Spectres
+Specters are the cruel shells of former living things. They were once ghosts,
+but have been trapped in the veil for so long they have gone mad, inflicting
+pain upon others is their only way to achieve momentary relief
+
+```
+
+Spectre
+Any Size Undead
+XP: 300
+HP: 18(4d4+8)
+AC: 8(worn clothes)
+Speed: 30ft flying (hover)
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 16| 14| 04| 11| 04|
+| +0| +3| +2| -3| +0| -3|
+|   | X | X |   |   |   |
+
+# Features
+
+- Incorporeal: The spectre does not have a solid physical form and may pass 
+through any object as long as it is not made of iron or lined in salt.
+- Hallowed: The spectre has immunity to non-magical non-ironed damage.
+
+
+# Attacks
+
+- withering touch +4 1d8+2 necrotic damage, 1 target within 5 feet.
+
+# Actions
+
+- Telekinesis: The spectre may throw objects in a 10 foot cube in one direction
+of its choice, dealing 3d8 bludgeoning damage on contact with a creature who
+fails a DC 12 dexterity saving throw. The spectre may also target a creature
+directly, forcing them to make a DC 12 strength saving throw or be thrown 30
+feet in one direction.
+
+``` 
+
+### Wraiths
+Wraiths are ghosts that have chose to adapt to their situation by draining 
+lifeforce from the living in order to retain a semblance of intelligence and
+influence over the world.
+
+```
+
+Wraith
+Any Size Undead
+XP: 750
+HP: 27(6d4+12)
+AC: 8(worn clothes)
+Speed: 50ft flying (hover)
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 16| 14| 14| 11| 04|
+| +0| +3| +2| +2| +0| -3|
+|   | X | X |   |   |   |
+
+# Features
+
+- Incorporeal: The spectre does not have a solid physical form and may pass 
+through any object as long as it is not made of iron or lined in salt.
+- Hallowed: The spectre has immunity to non-magical non-ironed damage.
+
+
+# Attacks
+
+- Draining Grasp +5 1d8+2 necrotic damage, 1 target within 5 feet. Rather than
+reducing current hitpoints, the damage of this attack reduces maximum hitpoints
+for 1 hour and the wraith regains half the damage dealt as hitpoints.
+
+# Actions
+
+- Possess: The wraith attempts to take control of the body of one creature 
+within 60 feet of it. The target must make a DC 13 charisma saving throw or
+fall under the control of the wraith, The wraith assumes all of their class 
+features and controls their body on their turn, skipping its own. The target
+may repeat the saving throw at the end of each of their turns.
+
+``` 
+
+## Vampires
+Vampires are blood sucking undead with immense physical strength and agility,
+as well as magical hypnosis and shapeshifting in some cases. Vampires are 
+inflicted with vampirism by consentually consuming the blood of another vampire,
+with the intent to turn. Vampires are creatures of the night, hunting for humans
+and drinking their blood in order to survive. 
+
+### Fledgling Vampires
+Fledgling vampires are vampires who have only been turned for a short period of
+time, usually only a couple of days or weeks. They mature into full vampires 
+after consuming blood every day for 14 days in a row.
+
+```
+
+Fledgling Vampire
+Any Size Undead
+XP: 25
+HP: 7(2d4+2)
+AC: 12(common clothes)
+Speed: 35ft
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 17| 14| 15| 10| 10| 10|
+| +3| +2| +2| +0| +0| +0|
+| X |   |   |   |   |   |
+
+# Features
+
+- Servitude: The fledgling obeys all orders of the vampire who turned them.
+- Sunlight Sensitivity: The fledgling has disadvantage on attacks and ability
+checks while they or their target are within sunlight.
+
+
+# Attacks
+
+- Bite +4 1d6 piercing, 1 target within 5 feet.
+
+``` 
+
+### Vampires
+Standard vampires have heightened strength and the ability to change shape into
+that of a bat.
+
+```
+
+Vampire
+Any Size Undead
+XP: 100
+HP: 15(2d10+4)
+AC: 15(studded leather)
+Speed: 35ft
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 18| 17| 15| 10| 10| 14|
+| +4| +3| +2| +0| +0| +2|
+| X |   |   |   |   |   |
+
+# Features
+
+- Sunlight Sensitivity: The vampire has disadvantage on attacks and ability
+checks while they or their target are within sunlight.
+- Draining bite: The vampire regains half the damage dealt by their bite attack
+as health.
+
+
+# Attacks
+
+- Bite +5 1d6+4 piercing, 1 target within 5 feet.
+
+# Actions
+
+- Shapeshift: As an action the vampire takes the form of a bat, becoming size 
+small and gaining 50 feet of flying speed. While in this form they cannot 
+attack.
+
+``` 
+
+### Elder Vampires
+Elder vampires have been turned for dozens of years, usually centuries. Elder
+vampires have honed their abilities and are capable of shapeshifting and 
+hypnosis. Their fortitude is matched by very few, with the ability to 
+sustain high amounts of damage and shrug off death given enough time and blood.

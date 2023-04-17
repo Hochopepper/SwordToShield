@@ -43,12 +43,12 @@ Proficiency Bonus: +2
 DC 10 constitution saving throw or take 2d6 poison damage.
 - Keen Senses: The Viper Wolf has advantage on checks that rely on sight, smell,
 or hearing.
-- Pack tactics: The Viper Wolf has advantage on attacks against creatures within
-5 feet of another viper wolf or a wolf.
+- Pack Mentality: The Viper Wolf has advantage on attacks against creatures 
+within 5 feet of an ally
 
 # Attacks
 
-- Bite +4 1d6+2 piercing damage, 1 target within 5 feet.
+- Bite +4 1d6 piercing damage, 1 target within 5 feet.
 
 ``` 
 
@@ -63,12 +63,12 @@ Werewolves or "lycanthropes" take on a form of a humanoid wolf
 ```
 
 Werewolf
-Large Monstrosity
+Medium Monstrosity
 XP: 350
 HP: 23(3d10+6)
 AC: 10(Natural)
 Speed: 30ft
-Proficiency Bonus: +2
+Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
 | 18| 10| 14| 04| 12| 04|
 | +4| +0| +2| -3| +1| -3|
@@ -77,17 +77,16 @@ Proficiency Bonus: +2
 # Features
 
 - Lycanthropy: A creature bit by the werewolf must make a DC 12 constitution 
-saving throw or be inflicted with lycanthropy. A creature automatically fails
-this save if they are reduced to or below 0 hitpoints by a bite attack
-- Keen Senses: The werewolf has advantage on checks that rely on sight, smell,
-or hearing.
-- Pack tactics: The werewolf has advantage on attacks against creatures within
+saving throw or be inflicted with lycanthropy.
+- Keen Senses: The werewolf has advantage on checks that rely on smell or 
+hearing.
+- Pack Mentality The werewolf has advantage on attacks against creatures within
 5 feet of an ally.
 
 # Attacks
 
-- Bite +6 2d8 piercing damage, 1 target within 5 feet.
-- Claw +6 2d6 Slashing damage, 1 target within 5 Feet
+- Bite +5 1d8 piercing damage, 1 target within 5 feet.
+- Claw +5 1d6 Slashing damage, 1 target within 5 Feet
 
 ``` 
 
@@ -102,7 +101,7 @@ XP: 350
 HP: 19(3d8+6)
 AC: 14(natural)
 Speed: 30ft Walk, 40ft Fly.
-Proficiency Bonus: +2
+Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
 | 10| 18| 14| 04| 12| 04|
 | +0| +4| +2| -3| +1| -3|
@@ -110,14 +109,53 @@ Proficiency Bonus: +2
 
 # Features
 
-- Desmoduthropy: A creature bit by the werebat must make a DC 12 constitution 
-saving throw or be inflicted with Desmoduthropy. A creature automatically fails
-this save if they are reduced to or below 0 hitpoints by a bite attack
-- Keen Senses: The werewolf has advantage on checks that rely on or hearing.
+- Desmoduthropy: A creature bit by the Werebat must make a DC 12 constitution 
+saving throw or be inflicted with Desmoduthropy.
+- Keen Senses: The Werebat has advantage on checks that rely on or hearing.
 - Draining Bite: The Werebat regains half the damage it deals as hitpoints.
 
 # Attacks
 
-- Bite +6 1d8+2 piercing damage, 1 target within 5 feet.
+- Bite +5 1d8 piercing damage, 1 target within 5 feet.
 
 ``` 
+
+## Mimics
+Mimics are special creatures that mimic objects in order to ambush their prey. 
+It is not known how mimics were created, some say they were created by wizards
+to defend magic items, some say they were made by dragons to defend their 
+wealth, others say they are from another plane.
+
+### Crystal Mimic
+The smallest and most docile of all the mimics, crystal mimics may often times
+directly aid adventurers, so long as it means there will be crystals and 
+gemstones for them to eat along the way
+
+```
+Crystal Mimic
+Tiny Monstrosity
+XP: 25 
+HP: 7(1d4+5)
+AC: 16(Crystal Shell)
+Speed: 25ft
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 12| 14| 20| 09| 11| 04|
+| +1| +2| +5| -1| +0| -3|
+|   | X | X |   |   |   |
+
+## Features:
+
+- Mimic: The mimic may change shapes as an action, taking the form of a mundane 
+gemstone or crystal, its true form, or a leviathan shard
+
+- Leviathan Shard Form: While taking the form of a leviathan shard the mimic may 
+be attuned to and acts as a +2 spell focus
+Crystal Resistances: The mimic has resistance to force, psychic, and nonmagical 
+damage.
+
+## Attacks: (true form only)
+
+- Bite: +4 1d4 piercing damage, 1 target within 5 feet.
+
+```

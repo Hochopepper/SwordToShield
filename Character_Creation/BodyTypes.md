@@ -155,7 +155,7 @@ dexterity modifier to this AC.
 
 ```
 
-Name: Slashing Natural Weapon
+Name: 1d6 Natural Weapon
 Description: 
 You have some form of natural weapon which increases your unarmed damage die to
 a d6. You may make an attack as a bonus action with this weapon.
@@ -164,7 +164,7 @@ a d6. You may make an attack as a bonus action with this weapon.
 
 ```
 
-Name: Piercing Natural Weapon
+Name: 1d8 Natural Weapon
 Description: 
 You have some form of natural weapon which increases your unarmed damage die to
 a d8.

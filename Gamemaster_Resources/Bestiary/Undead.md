@@ -78,6 +78,12 @@ creator.
 
 ``` 
 
+### Liches
+Liches are masters of undeath. Through a ritual that removes their heart and 
+soul, liches become undead beings with innate magical abilities. Liches consume
+souls in order to survive, and most often harvest them from the unwilling. They
+are capable of complex thought, although reasoning with them may be hard.
+
 ```
 
 Lich
@@ -137,15 +143,15 @@ Proficiency Bonus: +2
 constitution saving throw with the DC being 10 or 8 + half the damage dealt to
 it (whichever is higher), returning to 1 hitpoint on a success. This does not 
 apply if radiant, necrotic, or fire damage killed the zombie.
-- Infectious: A creature bit by the zombie must make a DC 8 constitution saving
+- Infectious: A creature bit by the zombie must make a DC 6 constitution saving
 throw or be infected with the zombifying plague, turning them into a zombie over
 the course of 14 days. A creature who is killed by a zombie's bite automatically
 fails this save and is turned in 1 hour.
 
 # Attacks
 
-- Bite +4 1d6+3 piercing damage, 1 target within 5 feet.
-- Slam +4 1d8+3 bludgeoning damage, 1 target within 5 Feet
+- Bite +4 1d6 piercing damage, 1 target within 5 feet.
+- Slam +4 1d8 bludgeoning damage, 1 target within 5 Feet
 
 ``` 
 
@@ -207,7 +213,7 @@ through any object as long as it is not made of iron or lined in salt.
 
 # Attacks
 
-- withering touch +4 1d8+2 necrotic damage, 1 target within 5 feet.
+- withering touch +4 1d8 necrotic damage, 1 target within 5 feet.
 
 # Actions
 
@@ -247,7 +253,7 @@ through any object as long as it is not made of iron or lined in salt.
 
 # Attacks
 
-- Draining Grasp +5 1d8+2 necrotic damage, 1 target within 5 feet. Rather than
+- Draining Grasp +5 2d8 necrotic damage, 1 target within 5 feet. Rather than
 reducing current hitpoints, the damage of this attack reduces maximum hitpoints
 for 1 hour and the wraith regains half the damage dealt as hitpoints.
 
@@ -316,7 +322,7 @@ Proficiency Bonus: +1
 |STR|DEX|CON|INT|WIS|CHA|
 | 18| 17| 15| 10| 10| 14|
 | +4| +3| +2| +0| +0| +2|
-| X |   |   |   |   |   |
+| X |   |   |   |   | X |
 
 # Features
 
@@ -328,18 +334,61 @@ as health.
 
 # Attacks
 
-- Bite +5 1d6+4 piercing, 1 target within 5 feet.
+- Bite +5 1d8 piercing, 1 target within 5 feet.
 
 # Actions
 
-- Shapeshift: As an action the vampire takes the form of a bat, becoming size 
-small and gaining 50 feet of flying speed. While in this form they cannot 
-attack.
+- Shapeshift: As an action the vampire takes the form of a bat.
 
 ``` 
 
-### Elder Vampires
-Elder vampires have been turned for dozens of years, usually centuries. Elder
-vampires have honed their abilities and are capable of shapeshifting and 
+### High Vampires
+High vampires have been turned for dozens of years, usually centuries. High
+vampires have honed their abilities and are capable of greater shapeshifting and 
 hypnosis. Their fortitude is matched by very few, with the ability to 
 sustain high amounts of damage and shrug off death given enough time and blood.
+
+```
+
+High Vampire
+Any Size Undead
+XP: 1000
+HP: 30(4d10+8)
+AC: 16(studded leather)
+Speed: 45ft, 20ft Flying (hover)
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 20| 18| 15| 10| 10| 17|
+| +5| +4| +2| +0| +0| +3|
+| X | X |   |   |   | X |
+
+# Features
+
+- Sunlight Sensitivity: The Elder vampire has disadvantage on attacks and 
+ability checks while they or their target are within sunlight. The Elder vampire
+takes 2d8 radiant damage when it starts or ends its turn in direct sunlight
+- Draining bite: The vampire regains half the damage dealt by their bite attack
+as health.
+- Radiant Weakness: The Elder Vampire is vulnerable to radiant damage
+- Deathless: The Elder Vampire has immunity to non-magical damage and dies only
+if a stake is plundged through its heart after it is reduced to 0 hitpoints. If
+the Elder vampire is reduced to 0 hitpoints and the conditions of its death are
+not met within 1 minute of being reduced to 0 hitpoints it regains 1 hitpoint. 
+- Multiattack: The Elder Vampire may make 2 attacks.
+
+# Attacks
+
+- Bite +7 1d8+1 piercing, 1 target within 5 feet.
+
+# Actions
+
+- Shapeshift: As an action the Elder Vampire takes the form of a bat, a wolf,
+or a cloud of mist (as described in the Gaseous Form spell).
+- Hypnotizing Gaze: As an action the Elder Vampire gazes into the heart of a
+creature within 60 feet. The target must make a DC 13 Charisma Saving throw or
+be charmed by the Elder Vampire for 1 minute. For the duration the charmed 
+creature obeys any commands the vampire gives them as a bonus action. The target
+may repeat the saving throw at the end of each of their turns, ending the effect
+on a success.
+
+``` 

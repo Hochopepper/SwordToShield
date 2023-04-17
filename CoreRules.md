@@ -50,6 +50,13 @@ players. "Its what my character would do" is never a valid excuse to kill
 orphans and burn villages for no reason. Do not Hog all the fun, make a case 
 against a ruling at the table, or complain when not everything goes your way.
 
+### D1s
+A one sided die, or D1, is certainly a kind of die that exists, but it does not
+serve any function when refered to in this system other than instantly rolling a
+1 in cases when a 1 would not suffice; due to needing an easy way to augment 
+the size of a die without refering to the amount of dice. An example, and 
+probably the only use case for this is unarmed damage of different body types.
+
 ### Rules Disclaimer
 As you read through these core rules you will find many rules which start with
 "VARIANT RULE:" these rules are included as explicit options but should not be
@@ -300,6 +307,14 @@ You may wield a one handed light weapon in your off hand and make attacks with
 it as a bonus action. You may not add your applicable modifier to the damage of
 the bonus action attack.
 
+##### Unarmed Strikes
+When attacking without a weapon you deal an amount of damage equal to your 
+damage die count for your size, plus your strength modifier. If you have a 
+bodily feature that augments your unarmed strike die size, "1d8 Natural Weapon"
+for example, you calculate the damage for your unarmed strikes by changing the
+damage die of your attacks from a d1 to the damage die specified 
+(1d8 in this example). All creatures are proficient in unarmed strikes.
+
 #### Casting a Spell
 When casting a spell as an action, refer to the spell's listing in the spell
 compendium and follow the instructions listed. If a spell refers to a spell 
@@ -494,72 +509,108 @@ understandable for players but the effects can be applied to most creatures.
 Certain spells, attacks, or features may inflict status effects, their details
 can be found here.
 
+### Surprised
+- A Surprised creature has disadvantage on saving throws and checks against 
+their surpriser until the start of their next turn.
+- A Surprised creature Has disadvantage on initiative rolls in any combat 
+encounter immediately after being surprised.
+- The surpriser has advantage on attacks against the surprised creature.
+
+#### Surprised Conditions
+A creature is considered surprised when an action is taken in relation to them 
+by a creature whos presence they were unaware of.
+
 ### Blinded
-- A blinded creature can't see and automatically fails any ability checks that rely on sight.
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+- A blinded creature can't see and automatically fails any ability checks that 
+rely on sight.
+- Attack rolls against the creature have advantage, and the creature's attack 
+rolls have disadvantage.
 
 ### Charmed
-- A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
-- The charmer has advantage on any ability check to interact socially with the creature.
+- A charmed creature can't attack the charmer or target the charmer with harmful 
+abilities or magical effects.
+- The charmer has advantage on any ability check to interact socially with the 
+creature.
 
 ### Deafened
-- A deafened creature can't hear and automatically fails any ability check that requires hearing.
+- A deafened creature can't hear and automatically fails any ability check that 
+requires hearing.
 
 ### Frightened
-- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+- A frightened creature has disadvantage on ability checks and attack rolls 
+while the source of its fear is within line of sight.
 - A frightened creature can't willingly move closer to the source of its fear.
 
 ### Grappled
-- A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+- A grappled creature's speed becomes 0, and it can't benefit from any bonus to 
+its speed.
 - The condition ends if the grappler is incapacitated.
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the thunderwave spell.
+- The condition also ends if an effect removes the grappled creature from the 
+reach of the grappler or grappling effect, such as when a creature is hurled 
+away by the thunderwave spell.
 
 ### Incapacitated
 - An incapacitated creature can't take actions or reactions.
 
 ### Invisible
-- An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
-- Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
+- An invisible creature is impossible to see without the aid of magic or a 
+special sense. For the purpose of hiding, the creature is heavily obscured. The 
+creature's location can be detected by any noise it makes or any tracks it 
+leaves.
+- Attack rolls against the creature have disadvantage, and the creature's attack 
+rolls have advantage.
 
 ### Paralyzed
 - A paralyzed creature is incapacitated and can't move or speak.
 - A paralyzed creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
-- Any attack that hits the creature deals double damage if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature deals double damage if the attacker is 
+within 5 feet of the creature.
 
 ### Petrified
-- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
-- The creature is incapacitated, can't move or speak, and is unaware of its surroundings.
+- A petrified creature is transformed, along with any nonmagical object it is 
+wearing or carrying, into a solid inanimate substance (usually stone). Its 
+weight increases by a factor of ten, and it ceases aging.
+- The creature is incapacitated, can't move or speak, and is unaware of its 
+surroundings.
 - Attack rolls against the creature have advantage.
 - The creature automatically fails Strength and Dexterity saving throws.
 - The creature has resistance to all damage.
-- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+- The creature is immune to poison and disease, although a poison or disease 
+already in its system is suspended, not neutralized.
 
 ### Poisoned
 - A poisoned creature has disadvantage on attack rolls and ability checks.
 - A poisoned creature takes 1 poison damage at the end of each of its turns
 
 ### Prone
-- A prone creature's only movement option is to crawl at half speed, unless it stands up and thereby ends the condition.
+- A prone creature's only movement option is to crawl at half speed, unless it 
+stands up and thereby ends the condition.
 - The creature has disadvantage on melee attack rolls.
-- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+- An attack roll against the creature has advantage if the attacker is within 5 
+feet of the creature. Otherwise, the attack roll has disadvantage.
 
 ### Restrained
-- A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+- A restrained creature's speed becomes 0, and it can't benefit from any bonus 
+to its speed.
+- Attack rolls against the creature have advantage, and the creature's attack 
+rolls have disadvantage.
 - The creature has disadvantage on Dexterity saving throws.
 
 ### Stunned
-- A stunned creature is incapacitated, can't move, and can speak only falteringly.
+- A stunned creature is incapacitated, can't move, and can speak only 
+falteringly.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
 
 ### Unconcious
-- An unconscious creature is incapacitated, can't move or speak, and is unaware of its surroundings.
+- An unconscious creature is incapacitated, can't move or speak, and is unaware 
+of its surroundings.
 - The creature drops whatever it's holding and falls prone.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
-- Any attack that hits the creature deals double damage if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature deals double damage if the attacker is 
+within 5 feet of the creature.
 
 ### Obliterated
 - An obliterated creature cannot be ressurected by anything less than a wish.
@@ -654,8 +705,8 @@ The following are some common languages and their very brief descriptions
 Common is the most... well... common langauge in a setting!
 
 #### Handspeak
-Handspeak is a langauge that is spoken with signs of ones hands rather than 
-through vocal speach. 
+Handspeak is a langauge that is conveyed with signs of ones hands rather than 
+through vocal speech.
 
 #### Brogdingnagian
 The language of the giants

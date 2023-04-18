@@ -142,8 +142,9 @@ as well as the hit dice you must expend to perform them.
 Your hitpoints increase by 1d4 + your constitution modifier.
 
 ### Hitpoint re-roll
-Roll 3d4 and add 3 times your constitution modifier. If the result is 
-higher than your current maximum that becomes your new hitpoint maximum 
+Roll 2d4+4 and add 3 times your constitution modifier. If the result is 
+higher than your current maximum that becomes your new hitpoint maximum. You may
+repeat this every time you level up.
 
 ### Channel Divinity
 You gain the ability to channel the divine into a special miraculous action or

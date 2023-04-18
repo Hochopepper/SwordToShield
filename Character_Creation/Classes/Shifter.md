@@ -113,8 +113,9 @@ you finish a rest. While partially shifted you have disadvantage on saving
 throws to resist unwilling shifts.
 
 ### Hitpoint re-roll
-Roll 3d4 and add 3 times your constitution modifier. If the result is 
-higher than your current maximum that becomes your new hitpoint maximum
+Roll 2d4+4 and add 3 times your constitution modifier. If the result is 
+higher than your current maximum that becomes your new hitpoint maximum. You may
+repeat this every time you level up.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may 

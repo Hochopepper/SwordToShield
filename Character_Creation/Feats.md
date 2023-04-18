@@ -86,6 +86,9 @@ instead gain expertise. During a rest you may provide the medical aid ammenities
 to yourself and other characters as well as high quality medical aid ammenity if
 you expend a charge of a medical kit. 
 
+### Battle Arts
+You learn 2 martial arts from the martial artist class.
+
 
 ## Magical Feats
 Magical feats originate from a magical source, which may be a pact or latent 

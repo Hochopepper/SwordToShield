@@ -78,13 +78,14 @@ leaves, representing birth, life, and death.
 
 ### Helios - Greater
 Helios is the god of the sun and light. He is also occasionally worshipped as a
-love deity due to his constant pursuit of luno, the god of the moon. His holy
+war deity due to his constant conflict with luno, the god of the moon. His holy
 symbol is the sun. He is the child of Eos and An'Ire. 
 
 ### Luno - Greater
-Luno is the god of the moon and peace and love. He is engaged in a constat 
-pursuit of the sun god helios where neither one of them realize they could stop
-and turn around to meet the other. He is the child of An'Ire and Astraía.
+Luno is the god of the moon and peace. He is engaged in a constant conflict with
+the sun god helios, constalty bickering with him whether the world should be 
+shrouded in night or day. He is the child of An'Ire and Astraía. His holy symbol
+is 
 
 ### Themius - Greater
 Themius is the god of justice and law. He was created from the tears An'Ire
@@ -92,3 +93,12 @@ wept when she cast out the Leviathans. Themius created all the orders of angels
 and commands them in accordance with the will of the other gods. Themius has
 impartial judgement but he wishes to see good prevail, making him good rather
 than neutral. His holy symbol is a scale, slightly tipped to the right. 
+
+### Valyria - Greater
+Valyria is the goddess of love and war. She was created by An'Ire as a balance 
+to Themius, and to aid him in lording over the angels. She is the advocate for
+those who commit crimes or injustices under pretenses that make their actions 
+more acceptable, especially love and war. She holds a slight distain for men, 
+but does not allow this to sway her partiality. Her followers and known to say
+"All is fair through her". Her holy symbol is a heart with a sword plunged 
+through the center from the top and thorns wrapped around it.

@@ -76,8 +76,9 @@ techniques column of the chart to know how many you currently have.
 Your hitpoints increase by 1d8 + your constitution modifier.
 
 ### Hitpoint re-roll
-Roll 3d8 and add 3 times your constitution modifier. If the result is 
-higher than your current maximum that becomes your new hitpoint maximum
+Roll 2d8+8 and add 3 times your constitution modifier. If the result is 
+higher than your current maximum that becomes your new hitpoint maximum. You may
+repeat this every time you level up.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may 

@@ -74,8 +74,9 @@ manuevers column of the level chart to know how many you currently have.
 Your hitpoints increase by 1d10 + your constitution modifier.
 
 ### Hitpoint re-roll
-Roll 3d10 and add 3 times your constitution modifier. If the result is 
-higher than your current maximum that becomes your new hitpoint maximum
+Roll 2d10+10 and add 3 times your constitution modifier. If the result is 
+higher than your current maximum that becomes your new hitpoint maximum. You may
+repeat this every time you level up.
 
 ### Ability Score Increase
 You may increase one of your ability scores by 2 or two of them by 1. You may 
@@ -170,10 +171,13 @@ damage rolls. Additionally, if you roll a natural 20 on an attack while berserk
 the damage of that attack is doubled. You exit berserk once your frenzy ends and
 you gain an additional level of exhaustion.
 
+### Improved Extra Attack (9th Level)
+When you take the attack action, you may make three attacks instead of two.
+
 ### Unstoppable (9th Level)
 When you are reduced to or below 0 hitpoints you may expend your remaining hit 
-dice or 10 hit dice (whichever is a smaller amount) and stand back up with half
-your maximum hitpoints.
+dice or 10 hit dice (whichever is a smaller amount) and stand back up with your 
+maximum hitpoints.
 
 ### Herculean (9th Level)
 When making a strength check or throw you may expend a hit die and gain a +10

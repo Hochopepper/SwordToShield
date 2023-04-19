@@ -193,7 +193,7 @@ You gain a climbing speed equal to your walking speed
 
 Name: Wings 
 Description: 
-You gain a flying speed of 60 feet and your walking speed is reduced by 5.
+You gain a flying speed of 60 feet and your walking speed is reduced by 15.
 
 ```
 
@@ -458,4 +458,4 @@ Description:
 You have a natural coating of fur or some other thermal layer, this allows you
 to ignore the effects of an exceedingly cold or hot environment, such as a
 tundra or a desert.
-```	
+```

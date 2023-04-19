@@ -94,7 +94,7 @@ account balance of 1000 GP.
 # Occupations
 You are automatically proficient in your tools of trade.
 
-##Farmer
+## Farmer
 Your tools of trade are a trident, 10 rations of animal feed, and a net.
 
 ### Herder
@@ -209,7 +209,7 @@ You are recognized as some as a common hero and you may be offered discounts at
 certain businesses. 
 
 ## Doctor
-Your tools of trade are a medical kit, 5 bandages, and soap
+Your tools of trade are a medical kit, 5 bandages, and soap.
 
 ### Operation 
 You have learned fundemental surgery techniques. You gain proficiency in 
@@ -218,6 +218,16 @@ the course of an hour. The creature is stabilized for the duration, entering the
 dying state again if the operation is interrupted. The results of the operation 
 are decided by your GM, but regardless of the finer details the creature wakes 
 with 1 hitpoint after the operation is complete. 
+
+## Tinkerer
+Your tools of trade are tinker's tools and 5 flasks of oil.
+
+### Tinkering
+During a rest you may create a simple melee weapon from nothing more than your 
+surroundings, using tinker's tools. You are proficient with this weapon and it
+deals 1d8 damage of bludgeoning, piercing, or slashing damage (your choice). You
+may also fix mundane items during the course of your rests using 20 units of 
+scrap, tinker's tools, and a flame.
 
 # Culture (Optional)
 

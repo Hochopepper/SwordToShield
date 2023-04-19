@@ -89,6 +89,9 @@ you expend a charge of a medical kit.
 ### Battle Arts
 You learn 2 martial arts from the martial artist class.
 
+### Bruiser
+Your unarmed strike die becomes a d8. Your strength score increases by 1.
+
 
 ## Magical Feats
 Magical feats originate from a magical source, which may be a pact or latent 

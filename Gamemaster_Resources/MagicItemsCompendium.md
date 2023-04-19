@@ -310,6 +310,7 @@ of seeing the mirror.
 
 ```
 
+
 # Legendary Magic Items
 
 ```
@@ -345,8 +346,26 @@ Attunement: Y
 Description:
 This weapon is a bladed weapon such as an axe or a sword. This weapon has a
 modifier added to its attack and damage rolls equal to the number of curses and
-diseases the attuned creature is currently suffering from
+diseases the attuned creature is currently suffering from. Attuning to this item
+grants the user a random curse. 
 
+```
+
+```
+
+Locket of Decaying Love
+Rarity: Legendary
+Attunement: Y
+Description:
+While attuned, this locket has 1 charge which it regains each dawn. A creature 
+attuned to the locket may expend 1 charge and open it, healing them and any 
+creatures of their choice within 90 feet of them to their maximum hitpoints.
+Within the locket there is a portrait of a random person, the portrait is never
+the same, the person shown in the portrait dies 1 minute after the locket is
+opened, of a heart attack. When a creature uses this item they must roll 2d100, 
+if the result of the rolls is 2 the user's face is shown in the portrait and 
+they die after 1 minute of a heart attack. This item is cursed and a creature 
+may not unattune to it unless aided by a god.
 ```
 
 # Artifacts

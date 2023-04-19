@@ -99,6 +99,6 @@ Valyria is the goddess of love and war. She was created by An'Ire as a balance
 to Themius, and to aid him in lording over the angels. She is the advocate for
 those who commit crimes or injustices under pretenses that make their actions 
 more acceptable, especially love and war. She holds a slight distain for men, 
-but does not allow this to sway her partiality. Her followers and known to say
+but does not allow this to sway her partiality. Her followers are known to say
 "All is fair through her". Her holy symbol is a heart with a sword plunged 
 through the center from the top and thorns wrapped around it.

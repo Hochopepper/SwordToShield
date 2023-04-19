@@ -195,7 +195,7 @@ Proficiency Bonus: +3
 |STR|DEX|CON|INT|WIS|CHA|
 | 08| 17| 15| 10| 12| 18|
 | -1| +3| +2| +0| +1| +4|
-|   |   |   |   |   | X |
+|   | X |   |   |   | X |
 
 # Features
 
@@ -210,7 +210,125 @@ being charmed or frightened.
 
 - Cast a spell: The cultist knows 2 cantrips, 3 first level spells, 2 second 
 level spells, and 1 third level spell from the warlock spell list and may cast 
-any of them on its turn. Charisma is the cultist's casting mod, it has a +5 to 
+any of them on its turn. Charisma is the cultist's casting mod, it has a +7 to 
 hit and a spell save DC of 15.
+
+```
+
+### Bandits
+Some people are not able to settle into standard life, and are not so blessed as
+to become heros. These people turn to lives of crime.
+
+```
+
+Bandit
+Medium Human
+XP: 75
+HP: 11(2d6+4)
+AC: 13(Leather)
+Speed: 30ft
+Proficiency Bonus: +1
+|STR|DEX|CON|INT|WIS|CHA|
+| 15| 14| 15| 10| 10| 08|
+| +2| +2| +2| +0| +0| -1|
+| X |   |   |   |   |   |
+
+# Features
+
+# Attacks
+
+- Shortsword +3 1d6+2 piercing damage, 1 target within 5 feet.
+- Shortbow +3 1d6+2 piercing damage, 1 target within 30 feet.
+
+# Actions
+
+```
+
+```
+
+Bandit Bruiser
+Huge Human
+XP: 500
+HP: 33(6d6+12)
+AC: 17(Half Plate)
+Speed: 40ft
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 19| 14| 15| 10| 08| 06|
+| +4| +2| +2| +0| -1| -3|
+| X |   | X |   |   |   |
+
+# Features
+
+# Attacks
+
+- Impaler +4 3d6 piercing damage, 1 target within 15 feet
+- Ballista +4 3d6 piercing damage, 1 target within 45 feet
+
+# Actions
+
+- Throw: The Bruiser attempts to pick up one creature of large size or smaller
+within 15 feet of it and throw them. The target must make a DC 14 strength 
+saving throw or be picked up and thrown 60 feet in one direction and take 2d6
+bludgeoning damage. Any creatures in the path of the thrown creature must make
+a DC 14 dexterity saving throw or be hit, also taking the 2d6 bludgeoning 
+damage.
+
+```
+
+```
+
+Bandit Gunslinger
+Medium Human
+XP: 150
+HP: 13(3d6+3)
+AC: 15(Studded Leather)
+Speed: 30ft
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 10| 17| 13| 10| 10| 08|
+| +0| +3| +1| +0| +0| -1|
+|   | X |   |   |   | X |
+
+# Features
+
+- Surging Action: Once per day, the gunslinger may take two actions on its turn
+instead of one.
+
+# Attacks
+
+- Rifle (Magazine 4) +5 1d12+3 piercing damage, 1 target within 60/120 feet
+- Pistol (Magazine 6) +5 1d10+3 piercing damage, 1 target within 30/60 feet
+
+# Actions
+
+```
+
+```
+
+Bandit Leader
+Medium Human
+XP: 750
+HP: 22(4d6+8)
+AC: 16(Breastplate)
+Speed: 30ft
+Proficiency Bonus: +2
+|STR|DEX|CON|INT|WIS|CHA|
+| 16| 15| 15| 10| 08| 12|
+| +3| +2| +2| +0| -1| +1|
+| X | X |   |   |   | X |
+
+# Features
+
+- Multiattack: The bandit leader may make 3 attacks
+- Block: As a reaction to being hit by an attack the bandit leader attempts to
+block, adding 2 to his AC for this attack.
+
+# Attacks
+
+- Rapier +5 1d8 piercing damage, 1 target within 5 feet
+- Longbow +4 1d8 piercing damage, 1 target within 5 feet
+
+# Actions
 
 ```

@@ -125,6 +125,11 @@ Dynamite may be lit and thrown as an action, dealing 5d6 force damage over a 20
 foot radis sphere centered on it. It may also be lit as an action and set to 
 explode within up to 1 minute of lighting.
 
+### Speedloader
+You may pre-load a speedloader with ammunition for a firearm, allowing you to
+quickly reload a weapon. You may use a speedloader to reload a weapon as a bonus
+action rather than an action.
+
 ```
 Pistol
 Range: 30/60
@@ -209,6 +214,12 @@ Scrap Cost: 40
 Amount: 1 (Stick)
 ```
 
+```
+Speedloader
+Scrap Cost: 10
+Amount: 1
+```
+
 # Modifications
 You may only apply a modification to a weapon once, unless the modification
 specifies otherwise.
@@ -230,8 +241,10 @@ You add a scope to a gun, doubling its effective and disadvantage range.
 ### Break Action (10 scrap)
 You add a hinge and latch behind the chamber of a gun, allowing you to break it 
 open to load bullets directly into the chamber much faster. Rather than taking 
-an action to reload you may reload as a bonus action. You may only apply this 
-modification to a weapon with a maximum capacity of six or fewer.
+an action to reload you may reload as a bonus action. When paired with a 
+speedloader you are capable of reloading two weapons with a bonus action rather
+than just one. You may only apply this modification to a weapon with a maximum 
+capacity of six or fewer.
 
 ### Bayonet (10 scrap, 1 Shorsword)
 You apply a Bayonet to a weapon. You are capable of attacking creatures within 

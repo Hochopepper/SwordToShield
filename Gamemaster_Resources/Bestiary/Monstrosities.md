@@ -50,6 +50,8 @@ within 5 feet of an ally
 
 - Bite +4 1d6 piercing damage, 1 target within 5 feet.
 
+# Actions
+
 ``` 
 
 ## Thropes
@@ -88,6 +90,8 @@ hearing.
 - Bite +5 1d8 piercing damage, 1 target within 5 feet.
 - Claw +5 1d6 Slashing damage, 1 target within 5 Feet
 
+# Actions
+
 ``` 
 
 ### Werebat
@@ -118,6 +122,8 @@ saving throw or be inflicted with Desmoduthropy.
 
 - Bite +5 1d8 piercing damage, 1 target within 5 feet.
 
+# Actions
+
 ``` 
 
 ## Mimics
@@ -144,18 +150,21 @@ Proficiency Bonus: +2
 | +1| +2| +5| -1| +0| -3|
 |   | X | X |   |   |   |
 
-## Features:
-
-- Mimic: The mimic may change shapes as an action, taking the form of a mundane 
-gemstone or crystal, its true form, or a leviathan shard
+# Features:
 
 - Leviathan Shard Form: While taking the form of a leviathan shard the mimic may 
 be attuned to and acts as a +2 spell focus
-Crystal Resistances: The mimic has resistance to force, psychic, and nonmagical 
+
+- Crystal Resistances: The mimic has resistance to force, psychic, and nonmagical 
 damage.
 
-## Attacks: (true form only)
+# Attacks: (true form only)
 
 - Bite: +4 1d4 piercing damage, 1 target within 5 feet.
+
+# Actions
+
+- Mimic: The mimic may change shapes as an action, taking the form of a mundane 
+gemstone or crystal, its true form, or a leviathan shard
 
 ```

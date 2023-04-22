@@ -77,7 +77,8 @@ Adventuring necessitates equipment.
 | Clothes, Common             | 5  sp   | 3 lb.  |
 | Clothes, costume            | 5  gp   | 4 lb.  |
 | Clothes, fine               | 15 gp   | 6 lb.  |
-| Clothes, traveler’s         | 2  gp   | 4 lb.  |
+| Clothes, traveler’s         | 2  gp   | 4 lb.  |\
+| Vestments                   | 5  sp   | 3 lb.  |
 | Component pouch             | 25 gp   | 2 lb.  |
 | Crowbar                     | 2  gp   | 5 lb.  |
 | Druidic focus               |         |        |

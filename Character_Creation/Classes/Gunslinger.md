@@ -52,9 +52,9 @@ GM = Gunslinger Maneuvers Known
 |   3 |   900 | 6  | +2  |  2    | Hit point Increase                    |
 |   4 |  1800 | 8  | +2  |  3    | Hit point re-roll                     |
 |   5 |  3600 |10  | +2  |  4    | Ability Score Increase                |
-|   6 |  6100 |12  | +2  |  4    | Headshot                              |
+|   6 |  6100 |12  | +2  |  4    | Heavy Weaponry                        |
 |   7 |  9100 |14  | +3  |  5    |                                       |
-|   8 | 13100 |16  | +3  |  5    | Ability Score Increase                |
+|   8 | 13100 |16  | +3  |  5    | Headshot, Ability Score Increase      |
 |   9 | 22600 |18  | +4  |  6    |                                       |
 |  10 | 44600 |20  | +4  |  6    | Ability Score Increase                |
 +-----+-------+----+-----+-------+---------------------------------------+
@@ -94,6 +94,9 @@ repeat this every time you level up.
 You may increase one of your ability scores by 2 or two of them by 1. You may 
 forgo your ability score increase and take a feat instead.
 
+### Heavy Weaponry
+You gain the ability to craft heavy weaponry.
+
 ### Headshot
 Whenever you roll a natural 20 on a ranged attack your damage for that attack 
 is increased by an additional 3d6.
@@ -107,7 +110,7 @@ scrap needed to craft the item.
 When the magazine is fully expended you must expend an action to reload it,
 returning it to maximum capacity.
 
-### Automatic Fire
+### Automatic
 An automatic weapon may be fired as a bonus action. You may also use an action 
 with an automatic weapon to fire 10 times wildly into an area 10 feet by 10 feet
 within the effective range. Creatures within the area must make a Dexterity 
@@ -127,41 +130,21 @@ explode within up to 1 minute of lighting.
 
 ### Speedloader
 You may pre-load a speedloader with ammunition for a firearm, allowing you to
-quickly reload a weapon. You may use a speedloader to reload a weapon as a bonus
-action rather than an action.
+quickly reload a weapon. You may use a full speedloader to reload a weapon as a 
+bonus action rather than an action, the speedloader must be filled with an 
+amount of bullets equal to the maximum capacity of the firearm it is reloading.
+After speedloading a firearm, the speedloader becomes empty and must be reloaded
+over the course of 1 minute before being used again.
 
-```
-Pistol
-Range: 30/60
-Magazine: 1
-Scrap Cost: 10
-Damage: 1d10 + Dex
-Properties: Reloading
-Ammo Type: Pistol
-Misfire Score: 2
-``` 
+### Cumbersome
+In order to reload a cumbersome weapon expend an action to make a DC 16 
+dexterity saving throw, on a success the weapon is reloaded. A cumbersome weapon
+may also not be modifier to hold more than 1 round.
 
-```
-Rifle
-Range: 60/120
-Magazine: 1
-Scrap Cost: 25
-Damage: 1d12 + Dex
-Properties: Reloading, Two-Handed
-Ammo Type: Rifle
-Misfire Score: 2
-``` 
-
-```
-Shotgun
-Range: 20/40
-Magazine: 1
-Scrap Cost: 25
-Damage: 2d8 + Dex
-Properties: Reloading, Two-Handed
-Ammo Type: Rifle
-Misfire Score: 2
-``` 
+### Kick
+When you fire a weapon with the kick property, make a DC 16 strength saving 
+throw, on a failure you are pushed 5 feet back from the direction you fired and
+fall prone. 
 
 ```
 Simple Pistol
@@ -175,26 +158,37 @@ Misfire Score: 1
 ```
 
 ```
-High Power Rifle
-Range: 80/160
+Pistol
+Range: 30/60
 Magazine: 1
-Scrap Cost: 50
-Damage: 2d10 + Dex
-Properties: Reloading, heavy, Two-Handed
-Ammo Type: Rifle
-Misfire Score: 3
+Scrap Cost: 20
+Damage: 1d10 + Dex
+Properties: Reloading
+Ammo Type: Pistol
+Misfire Score: 2
 ``` 
 
 ```
-Heavy Weapon
-Range 80/160
-Magazine: 10
-Scrap Cost: 100
-Damage: 1d10 + Dex
-Properties: Reloading, Two-Handed, heavy, Automatic Fire
+Rifle
+Range: 60/120
+Magazine: 1
+Scrap Cost: 50
+Damage: 1d12 + Dex
+Properties: Reloading, Two-Handed
 Ammo Type: Rifle
-Misfire Score: 3
+Misfire Score: 2
+``` 
+
 ```
+Shotgun
+Range: 20/40
+Magazine: 1
+Scrap Cost: 50
+Damage: 2d8 + Dex
+Properties: Reloading, Two-Handed
+Ammo Type: Rifle
+Misfire Score: 2
+``` 
 
 ```
 Rifle Ammo
@@ -220,11 +214,54 @@ Scrap Cost: 10
 Amount: 1
 ```
 
+### Heavy Weaponry (Level 6)
+The below items may not be created unless you are level 6 or higher.
+
+```
+High Power Rifle
+Range: 80/160
+Magazine: 1
+Scrap Cost: 100
+Damage: 2d10 + Dex
+Properties: Reloading, Heavy, Two-Handed
+Ammo Type: Rifle
+Misfire Score: 3
+``` 
+
+```
+Heavy Weapon
+Range 80/160
+Magazine: 10
+Scrap Cost: 100
+Damage: 1d10 + Dex
+Properties: Reloading, Two-Handed, Heavy, Automatic
+Ammo Type: Rifle
+Misfire Score: 3
+```
+
+```
+Four Bore Rifle
+Range 60/100
+Magazine: 1
+Scrap Cost: 150
+Damage: 4d10 + Dex
+Properties: Reloading, Two-Handed, Heavy, Cumbersome, kick
+Ammo Type: 4 Bore
+Misfire Score: 5
+```
+
+```
+4 bore ammo
+Scrap Cost: 5 
+Amount: 1
+```
+
+
 # Modifications
 You may only apply a modification to a weapon once, unless the modification
 specifies otherwise.
 
-### Ammo Capacity (2 scrap)
+### Ammo Capacity (4 scrap)
 You modify a weapon to allow it to hold more bullets before it must be
 reloaded, increasing its magazine by an amount equal to its original magazine
 size. You may apply this modification up to eight times on one gun.
@@ -238,7 +275,7 @@ may not apply this modification to weapons with the heavy property.
 ### Scope (20 Scrap)
 You add a scope to a gun, doubling its effective and disadvantage range.
 
-### Break Action (10 scrap)
+### Break Action (20 scrap)
 You add a hinge and latch behind the chamber of a gun, allowing you to break it 
 open to load bullets directly into the chamber much faster. Rather than taking 
 an action to reload you may reload as a bonus action. When paired with a 
@@ -246,22 +283,22 @@ speedloader you are capable of reloading two weapons with a bonus action rather
 than just one. You may only apply this modification to a weapon with a maximum 
 capacity of six or fewer.
 
-### Bayonet (10 scrap, 1 Shorsword)
+### Bayonet (20 scrap, 1 Shorsword)
 You apply a Bayonet to a weapon. You are capable of attacking creatures within 
 your reach +5 with the bayonet as an action. You make this attack as if you are
 wielding a shortsword.
 
-### Caliber Up (20 scrap) (6th level)
+### Caliber Up (40 scrap) (6th level)
 You alter the chamber of a gun which fires pistol ammo in order for it to be 
 able to hold rifle bullets. The gun's damage die increases one size and its and 
 misfire score increases by 1.
 
-### Caliber Down (20 scrap) (6th level)
+### Caliber Down (40 scrap) (6th level)
 You alter the chamber of a gun which fires rifle ammo in order for it to be 
 able to hold pistol bullets. The gun's damage die decreases one size and its 
 misfire score decrease by 1. The ammo capacity of the weapon doubles.
 
-### Switch (30 Scrap) (6th Level)
+### Switch (60 Scrap) (6th Level)
 You apply the automatic property to a weapon.
 
 ### Ergonomic Grip (30 Scrap) (6th Level)

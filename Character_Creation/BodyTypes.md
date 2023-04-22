@@ -73,7 +73,7 @@ Reach: 5 feet
 Speed: 30 feet
 Height: Between 4 feet and 9 feet tall.
 Melee Damage: 1d1 + Strength Modifier
-ASI: +2 to one stat, +1 to another (+2 +1) or +1 to three stats (+1 +1 +1)
+ASI: +2 to one stat, +1 to another (+2 +1) or +1 to three stats (+1 +1 +1) or +3 to one (+3)
 Carry Weight: Strength Score * 7
 ```
 
